@@ -1,0 +1,2112 @@
+Video number: 1
+Video ID: 3504e360accbaccb1580befbb441f1019664c2bb.mp4
+Shot Timestamps: [1, 6, 8, 9]
+Shot Features Length: 4
+Video number: 2
+Video ID: 37b31d607d31a47d347b15dae2b8aa63e57861eb.flv
+Shot Timestamps: [6, 16, 22, 26, 33, 36, 40, 46, 53, 54, 58, 65, 67, 72]
+Shot Features Length: 14
+Video number: 3
+Video ID: 458db5aa227ae49ceb8bc1bed5f9cf5b4bed63f2.flv
+Shot Timestamps: [5, 6, 11, 13, 15, 16, 17, 24, 26, 31]
+Shot Features Length: 10
+Video number: 4
+Video ID: 5c5714c0a56fd2a96f99db2f59b0d03659d77cdf.flv
+Shot Timestamps: [2, 5, 7, 11, 12, 13, 15, 17, 18, 20, 22, 24, 25]
+Shot Features Length: 13
+Video number: 5
+Video ID: 67824b87c0698c499acad123b7498ae17f97bf6d.flv
+Shot Timestamps: [1, 6, 8, 10, 11, 13, 16, 19, 21]
+Shot Features Length: 9
+Video number: 6
+Video ID: 6d1466ebc4de7e5ddb229bde090b5c5acac15c0c.flv
+Shot Timestamps: [2, 4, 8, 9, 11]
+Shot Features Length: 5
+Video number: 7
+Video ID: 6d1a89c83d554fc6a5e39fcadb172a79baf140fd.mp4
+Shot Timestamps: [4, 8, 13, 15, 16, 17, 18, 19, 21, 22, 23, 28]
+Shot Features Length: 12
+Video number: 8
+Video ID: 8084216caff6082b4e71ae4bbfe556f28a68485f.flv
+Shot Timestamps: [3, 8, 11, 15, 18, 23, 26, 27, 29, 31, 36, 37, 42, 45, 46, 52, 54, 57, 58, 60, 64, 66, 71, 73, 75, 76, 78, 81, 83, 87, 88, 92, 99, 100, 101, 102, 103, 105, 106, 114, 116, 118, 120, 121, 123, 124, 128, 133, 135, 136, 137, 138, 140, 143, 146, 150, 151, 157, 158, 161, 162, 163, 166, 172, 174, 177, 178, 179, 181, 182, 184, 185, 189, 190, 192, 193, 195, 196, 197, 198, 199, 202, 203, 205, 208, 210, 211, 213, 214, 217, 218, 219, 221, 222, 223, 224, 225, 226, 227, 233, 234, 235, 236, 237, 242, 244, 245, 246, 247, 248, 249, 251, 253, 254, 255, 256, 258, 263]
+Shot Features Length: 118
+Video number: 9
+Video ID: 9423340949f55d7a089e881ccc35f23dff3fccf7.flv
+Shot Timestamps: [1, 6, 8, 10, 11, 13, 16, 19, 21]
+Shot Features Length: 9
+Video number: 10
+Video ID: bb604f57a18455867544e79c2e32bf5583c358d4.flv
+Shot Timestamps: [2, 10, 14, 29, 30, 33, 34, 35, 36, 37, 49, 53, 56, 116, 132, 136, 144, 151, 182, 184, 208, 217, 218, 219, 223, 228, 231, 232, 233, 234, 236, 239, 240, 242, 243, 245, 246, 247, 248, 249, 250, 251, 255, 257, 262, 263, 264, 265, 269, 272, 273, 274, 275, 276, 277, 278, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 301, 302, 305, 309, 311, 312, 315, 316, 317, 318, 319, 320, 323, 328, 330, 331, 333, 336, 337, 338, 339, 340, 341, 342, 343, 344, 346, 351, 352, 353, 357, 358, 359, 360, 361, 363, 364, 365, 367, 368, 370, 373, 376, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 389, 390, 391, 396, 398, 399, 400, 402, 403, 404, 405, 407, 408, 411, 412, 413, 414, 416, 417, 418, 419, 420, 421, 423]
+Shot Features Length: 143
+Video number: 11
+Video ID: e901a631b00f4ad0c9d161d686fac1339e1e3535.flv
+Shot Timestamps: [3, 5]
+Shot Features Length: 2
+Video number: 12
+Video ID: 46f2e964ae16f5c27fad70d6849c76616fad7502.flv
+Shot Timestamps: [4, 5, 8, 9, 14, 15, 16, 17, 22, 28, 31, 35, 38, 42, 45, 47, 52, 54, 62, 66, 68, 70, 73, 74, 78, 83, 85, 88, 94, 98, 101, 106, 109, 117, 123, 124, 126, 128, 130, 131, 132, 136, 140, 143, 145, 150, 154, 160, 162, 164, 165, 166, 171]
+Shot Features Length: 53
+Video number: 13
+Video ID: 5f6527456bf2b4c460737a1c222dbd0e70009030.flv
+Shot Timestamps: [1, 3, 7, 10, 15, 17, 19, 24, 26, 34, 38, 41, 43, 45, 46, 50, 55, 57, 60, 66, 70, 73, 79, 82, 89, 95, 97, 99, 115, 122, 126, 132]
+Shot Features Length: 32
+Video number: 14
+Video ID: 6171d3d87ae377e497199554033bca96a263277b.mp4
+Shot Timestamps: [1, 3, 7, 10, 15, 17, 19, 24, 26, 34, 38, 41, 43, 45, 46, 50, 55, 57, 60, 66, 70, 73, 79, 82, 89, 95, 97, 99, 108, 113, 115, 122, 126, 132]
+Shot Features Length: 34
+Video number: 15
+Video ID: 904c8ebf782357ae78ebd205fe3428ad76b975a5.flv
+Shot Timestamps: [2, 4, 7, 13, 17, 20, 25, 28, 36, 42, 43, 45, 47, 48, 49, 55, 59, 62, 63, 69, 73, 78, 80]
+Shot Features Length: 23
+Video number: 16
+Video ID: b41c61fb756014444b7974ef25f2c76d5c3b42e4.flv
+Shot Timestamps: [1, 3, 7, 10, 15, 17, 19, 24, 26, 34, 38, 41, 43, 45, 46, 50, 55, 57, 60, 66, 70, 73, 79, 82, 89, 95, 97, 99, 115, 122, 126, 132]
+Shot Features Length: 32
+Video number: 17
+Video ID: 0056649006c7a250cb4174f1e924768ba2c9d599.flv
+Shot Timestamps: [6, 10, 11, 14, 18, 21, 33, 42, 43, 44, 45, 47, 48, 50, 57, 58, 59, 62, 64, 67, 69, 72]
+Shot Features Length: 22
+Video number: 18
+Video ID: 1357538fd1fd2975a8b3f750d5f6b13695aa4e28.flv
+Shot Timestamps: [3, 5, 7, 10, 13, 15, 17, 18, 20, 22, 23, 25, 30, 32, 33, 35, 38, 39, 41, 43]
+Shot Features Length: 20
+Video number: 19
+Video ID: 1f4f6311bb4acc0bc72e4a915a32093a7a85741c.flv
+Shot Timestamps: [12, 18, 20, 21, 22, 24, 25, 29, 31, 32, 39, 41, 42]
+Shot Features Length: 13
+Video number: 20
+Video ID: 37a935b4c21662e183a0dd632f40d5fd6900c42b.mp4
+Shot Timestamps: [3, 5, 7, 8, 10, 12, 13, 15, 17, 18, 20, 22, 25, 27, 30, 32, 33, 35, 37, 38, 40, 42]
+Shot Features Length: 22
+Video number: 21
+Video ID: 3fe2e54fdb267849aa8aeb0b39ec0d1c7075b391.flv
+Shot Timestamps: [4, 16, 22, 23, 24, 25, 26, 28, 29, 30, 33, 35, 36, 37, 41, 42, 43, 45, 46, 47, 57]
+Shot Features Length: 21
+Video number: 22
+Video ID: 4ffe88b2da93f727952dc3104e70c0b0665d9e1a.flv
+Shot Timestamps: [8, 14, 15, 16, 17, 19, 21, 22, 24]
+Shot Features Length: 9
+Video number: 23
+Video ID: 52ac7a125ee96ff91ca49c197d3a79b6c0857e68.flv
+Shot Timestamps: [12, 18, 19, 20, 21, 22, 24, 25, 29, 30, 32, 33, 39, 41, 42, 43]
+Shot Features Length: 16
+Video number: 24
+Video ID: 54f841cdb1b1a498c656bd541d23c690b70737bd.flv
+Shot Timestamps: [12, 18]
+Shot Features Length: 2
+Video number: 25
+Video ID: 5d38467d3becf8273bd7ae9028a37fcb0cc3828b.flv
+Shot Timestamps: [6, 10, 12, 14, 18, 21, 42, 43, 44, 45, 47, 50, 57, 58, 59, 62, 64, 67, 69, 74, 79, 80, 84, 86, 92, 95, 97, 98, 100, 101, 103, 106, 111, 113, 114, 119, 120, 121, 123, 124, 126, 129, 132, 139, 144, 145, 146, 148, 149, 150, 155, 165]
+Shot Features Length: 52
+Video number: 26
+Video ID: 63407cc775874d569f82a2060c636b785c09a487.flv
+Shot Timestamps: [12, 18, 20, 21, 22, 24, 25, 29, 31, 32, 39, 41, 42]
+Shot Features Length: 13
+Video number: 27
+Video ID: 66e0225621e48946b7ab09027c18c83b69564002.flv
+Shot Timestamps: [2, 3, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Shot Features Length: 14
+Video number: 28
+Video ID: 72e97f43a27cdb56a82454758c383c1ac82e91b9.flv
+Shot Timestamps: [2, 3, 11, 14, 19, 21, 23, 26, 28, 29, 31, 32, 37, 39, 41, 44, 45, 47, 48, 52, 55]
+Shot Features Length: 21
+Video number: 29
+Video ID: 74018dcbf908a0a0319e889a70a920896b63ed99.flv
+Shot Timestamps: [12, 18, 19, 20, 21, 22, 24, 25, 29, 30, 32, 33, 38, 39, 41, 42, 43]
+Shot Features Length: 17
+Video number: 30
+Video ID: 9026d2a43d0e645901aa9138136bbc1491856ffb.flv
+Shot Timestamps: [12, 17, 18, 19, 20, 21, 22, 24, 25, 26, 29, 31, 32, 34, 37, 38, 39, 41, 43]
+Shot Features Length: 19
+Video number: 31
+Video ID: 97c71f57e83f6ab16906fdd7edc8e3f88d2ceee1.flv
+Shot Timestamps: [1, 2, 3]
+Shot Features Length: 3
+Video number: 32
+Video ID: a100d2d414f1faa59abdb409e8858d6a4ba96618.flv
+Shot Timestamps: [2, 14, 23, 24, 25, 26, 27, 29, 30, 31, 35, 38, 39, 40, 42, 43, 44, 48, 51, 55, 57, 58, 60, 61, 63, 64, 65, 69, 71, 72, 73, 76]
+Shot Features Length: 32
+Video number: 33
+Video ID: ab12206048207553294916664d0ebf1cd9e81ef6.flv
+Shot Timestamps: [12, 18, 20, 21, 22, 24, 25, 29, 31, 32, 38]
+Shot Features Length: 11
+Video number: 34
+Video ID: b34b81ce75ea0773ba04b3f1ddedf3f3fac823fa.flv
+Shot Timestamps: [12, 18, 19, 20, 21, 22, 24, 25, 26, 29, 30, 32, 33, 37, 38, 39, 41, 42]
+Shot Features Length: 18
+Video number: 35
+Video ID: c4384b8402362a0351d4e1dc9de0c01d7117322f.flv
+Shot Timestamps: [12, 18, 19, 20, 21, 22, 24, 25, 26, 29, 30, 32, 37, 38, 39, 41, 42]
+Shot Features Length: 17
+Video number: 36
+Video ID: d28c7952b8a60139126446bc81bff5ecebcf5129.flv
+Shot Timestamps: [12, 18, 19, 20, 21, 22, 24, 25, 29, 31, 32, 33, 39, 41, 42, 43]
+Shot Features Length: 16
+Video number: 37
+Video ID: e4516162efaa2bb36d38fbf245bc41b6fd24f443.flv
+Shot Timestamps: [4, 16, 22, 23, 24, 25, 26, 28, 29, 30, 33, 35, 36, 37, 41, 42, 43, 45, 46, 47, 57]
+Shot Features Length: 21
+Video number: 38
+Video ID: e6f1dd4881c0088d861763dadd83db04fb353500.flv
+Shot Timestamps: [2, 14, 23, 24, 25, 26, 27, 29, 30, 31, 35, 38, 39, 40, 42, 43, 44, 48, 51, 55, 57, 58, 60, 61, 63, 64, 65, 69, 71, 72, 73, 76]
+Shot Features Length: 32
+Video number: 39
+Video ID: f9395fd63d7f59cae6103cfb00e116b4a1d0be5e.flv
+Shot Timestamps: [6, 10, 12, 14, 18, 21, 42, 43, 44, 45, 47, 50, 57, 58, 59, 62, 64, 67, 69, 74, 79, 80, 84, 86, 92, 95, 97, 98, 100, 101, 103, 106, 111, 113, 114, 119, 120, 121, 123, 124, 126, 129, 132, 139, 144, 145, 146, 148, 149, 150, 155, 165]
+Shot Features Length: 52
+Video number: 40
+Video ID: f98075fcebb2596c91cf6886b30a39521cc60855.flv
+Shot Timestamps: [12, 18, 19, 20, 21, 22, 24, 25, 29, 30]
+Shot Features Length: 10
+Video number: 41
+Video ID: fa0aa890db611cbe029b8c222663579ec7081bb6.flv
+Shot Timestamps: [12, 17, 18, 19, 20, 21, 22, 24, 25, 26, 29, 30, 32, 33, 37, 38, 39, 41, 42]
+Shot Features Length: 19
+Video number: 42
+Video ID: 09ff1e69bf3accfcf029ad987f61f791a005c358.flv
+Shot Timestamps: [60, 120, 180, 240, 248]
+Shot Features Length: 5
+Video number: 43
+Video ID: 410ba1c253fb8d4a8ba6e59aa9e39d39cb3b245b.flv
+Shot Timestamps: [13, 14, 74, 134, 194, 254, 268, 270]
+Shot Features Length: 8
+Video number: 44
+Video ID: 630d6d7a0c534717c09acb316b0408a7e80a0a32.flv
+Shot Timestamps: [60, 120, 180, 240, 254]
+Shot Features Length: 5
+Video number: 45
+Video ID: 682329105c2fa291ceb13eebfe0544fb9a115c0b.flv
+Shot Timestamps: [4, 64, 124, 184, 244, 256]
+Shot Features Length: 6
+Video number: 46
+Video ID: ab8bd55b3fefca37c7dc57e973a7cea1ae3555ad.flv
+Shot Timestamps: [4, 64, 124, 184, 244, 256]
+Shot Features Length: 6
+Video number: 47
+Video ID: c1e67ad94259a2015304ee0b42323dd48f820309.flv
+Shot Timestamps: [4, 6, 8, 11, 14, 18, 20, 21, 23, 25, 26, 27, 28, 29, 31, 32, 37, 43, 53, 59, 65, 75, 84, 91, 102, 108, 116]
+Shot Features Length: 27
+Video number: 48
+Video ID: e9e65688a633e99bd3cc6e4078a2ef0157153cd5.flv
+Shot Timestamps: [60, 120, 180, 240, 254]
+Shot Features Length: 5
+Video number: 49
+Video ID: 0268faef0f0ae291f5ede0a7c3f2d176a6101a08.flv
+Shot Timestamps: [6, 13, 19, 22, 25, 28, 29, 32, 46, 48, 50, 53, 54, 56, 57, 60, 62, 63, 64, 71, 72, 73, 75, 76, 82, 87, 102, 107, 108, 114, 120, 138, 139, 140, 142, 144, 146, 147, 148, 150, 152, 153, 157, 158, 167]
+Shot Features Length: 45
+Video number: 50
+Video ID: 098df9c477ecf6c4f3818b198490b0258163015d.flv
+Shot Timestamps: [1, 2, 3, 5, 6, 7]
+Shot Features Length: 6
+Video number: 51
+Video ID: 0e3aee10650afd14d9a2d8b1440924c7968dd0ee.flv
+Shot Timestamps: [2, 6, 27, 32]
+Shot Features Length: 4
+Video number: 52
+Video ID: 225eceebd0f24728bd1740f642de6705d43a4da0.flv
+Shot Timestamps: [2, 6, 27, 32]
+Shot Features Length: 4
+Video number: 53
+Video ID: 2b1a3faf58c38efc393635e3cc007946914516d0.flv
+Shot Timestamps: [4, 12, 36, 54, 59, 64]
+Shot Features Length: 6
+Video number: 54
+Video ID: 359b3ef99acac4136096052c6d812a6248811e10.flv
+Shot Timestamps: [1, 2, 3, 5]
+Shot Features Length: 4
+Video number: 55
+Video ID: 56b8c2103555cf056db670c7e952c1fa7418e73d.flv
+Shot Timestamps: [3, 6, 18, 19, 21, 22, 26, 27, 30, 32, 40, 42, 49, 51, 54, 57, 58, 59, 68, 78, 81, 83, 84, 86, 89, 92, 93, 94, 99, 102, 105, 107, 109, 112, 126, 135, 144, 151, 156, 159, 163, 164, 165, 166, 168, 178, 181, 182, 183, 186, 188, 194, 197, 206, 213, 214, 216, 220, 221, 227, 230, 232, 237]
+Shot Features Length: 63
+Video number: 56
+Video ID: 5b1b41404d1bad5d231bd8c7fdbae109e0ea1fc2.flv
+Shot Timestamps: [4, 5, 7, 10, 11, 13, 15, 17, 31, 33]
+Shot Features Length: 10
+Video number: 57
+Video ID: 90d2508777b93f5acace5694e70a2bb00efad351.flv
+Shot Timestamps: [6, 13, 19, 25, 29, 30, 32, 46, 48, 50, 51, 53, 54, 56, 57, 60, 61, 62, 63, 64, 71, 72, 74, 75, 76, 82, 84, 87, 102, 107, 108, 114, 120, 138, 140, 141, 143, 146, 147, 148, 150, 152, 153, 157, 158, 167]
+Shot Features Length: 46
+Video number: 58
+Video ID: c7d5eb4355e2ce9c90bf681e28ca740b1e7c62ca.flv
+Shot Timestamps: [5, 9, 29, 39, 40, 54, 67, 80, 86, 94, 133, 149, 173, 180]
+Shot Features Length: 14
+Video number: 59
+Video ID: d30e718464711d5903b53d36aef8c8212bad1d07.flv
+Shot Timestamps: [6, 13, 19, 22, 25, 28, 29, 32, 46, 48, 50, 53, 54, 56, 57, 60, 62, 63, 64, 71, 72, 73, 75, 76, 82, 87, 102, 107, 108, 114, 120, 138, 139, 140, 142, 144, 146, 147, 148, 150, 152, 153, 157, 158, 167]
+Shot Features Length: 45
+Video number: 60
+Video ID: e8e45390a65d2eac522a42b969d2adb87fac7315.flv
+Shot Timestamps: [6, 13, 19, 22, 25, 28, 29, 32, 46, 48, 50, 53, 54, 56, 57, 60, 61, 63, 71, 72, 74, 75, 76, 82, 87, 102, 107, 108, 114, 120, 138, 139, 140, 142, 144, 146, 147, 148, 150, 152, 153, 154, 157, 158, 167]
+Shot Features Length: 45
+Video number: 61
+Video ID: 0cad474aedea70d42f8d8f2a6f9a21e3c40fa40b.flv
+Shot Timestamps: [1]
+Shot Features Length: 1
+Video number: 62
+Video ID: 12b96f2d055a6eb05241a9aeed95a8be8e5cf79c.flv
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 10, 12, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 44
+Video number: 63
+Video ID: 296961b67d89d82a362fb046e333718e1579691d.flv
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 10, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 43
+Video number: 64
+Video ID: 3932dee75c7ddd9785d7d502235892d1b0380f5a.flv
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 10, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 43
+Video number: 65
+Video ID: 3df02ec5ddb74647d8fb96f08adba8e152050ef9.flv
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 10, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 43
+Video number: 66
+Video ID: 554d94559dcfcdff9312053469c9c64940dbca20.flv
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 10, 12, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 44
+Video number: 67
+Video ID: 9c42a6ce9b8bb966040d9eed9255c1001fffdba6.flv
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 10, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 43
+Video number: 68
+Video ID: ee7a5a870cbe3215a87a2798c81a0d43c118e62d.flv
+Shot Timestamps: [2, 3, 5, 6, 8, 9, 10, 12, 13, 15, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 30, 32, 33, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60]
+Shot Features Length: 43
+Video number: 69
+Video ID: 09b682c899b0727e9990d8e347cdce3df7c5550e.flv
+Shot Timestamps: [3, 5, 6, 13, 15, 17, 18, 19, 21, 25, 27, 33, 37, 38, 42, 43, 45, 47, 51, 53, 58, 62, 71, 74, 77, 84]
+Shot Features Length: 26
+Video number: 70
+Video ID: 54c560a6b270647b28ea2746853c937885e2718b.flv
+Shot Timestamps: [2, 5, 6, 7, 9, 13, 14, 35, 55, 58, 70, 97, 100, 123, 137, 143, 144, 145, 150, 151, 152, 154]
+Shot Features Length: 22
+Video number: 71
+Video ID: 56adf39cc2f2f342b0a589038f6d11bac861028e.flv
+Shot Timestamps: [17, 18, 23, 28, 31, 40, 48, 61, 68, 83, 84, 86, 95, 103, 110, 124, 125, 126, 128, 130, 133, 135, 140, 146]
+Shot Features Length: 24
+Video number: 72
+Video ID: 5ac8651ce41781440c8595d174748f1a6cad1ff7.flv
+Shot Timestamps: [2, 19, 20, 21, 32, 44, 59, 61, 65]
+Shot Features Length: 9
+Video number: 73
+Video ID: 874a7d3cbfc17a46040b2d657667520bde309ca4.flv
+Shot Timestamps: [2, 6, 9, 10, 15, 22, 31, 34, 36, 44]
+Shot Features Length: 10
+Video number: 74
+Video ID: 8f8ecb70bd37b0c6fc468c2aab24d6d9b89fe28d.flv
+Shot Timestamps: [17, 18, 23, 28, 31, 40, 48, 61, 68, 83, 84, 86, 95, 103, 110, 124, 125, 126, 128, 130, 133, 135, 140, 146]
+Shot Features Length: 24
+Video number: 75
+Video ID: c80dd6dfe271e4887c11bd76248411a8e7c853b0.flv
+Shot Timestamps: [2, 19, 20, 21, 32, 44, 59, 61, 65]
+Shot Features Length: 9
+Video number: 76
+Video ID: d2015b438b70f022967713d6f977ebc67a16839e.flv
+Shot Timestamps: [1, 14, 38, 49, 50, 51, 55, 56, 57, 67, 73, 76, 83, 89, 93, 95, 114, 126, 132, 192, 193, 195, 216, 228, 239, 243, 244, 246, 267, 286, 311, 312, 321, 335, 337, 354, 374, 377, 381, 389, 398, 399, 401, 416, 417, 418, 429, 442, 456, 457]
+Shot Features Length: 50
+Video number: 77
+Video ID: 127dab55025984673f65d3a23b1fea99ecc79b15.mp4
+Shot Timestamps: [7, 22, 39, 49, 60, 78, 80, 81, 82, 83, 86, 89, 93, 94, 110, 118, 128, 134, 148, 149, 150, 151, 152, 153, 155, 156, 158, 159, 160, 162, 163, 164, 166, 167, 168, 169, 170, 172, 173, 174, 175, 176, 177, 178, 179, 190, 203, 213, 244, 257, 266, 277, 281, 287, 294, 301]
+Shot Features Length: 56
+Video number: 78
+Video ID: 12e5b295f88e0c387a4326c73613b1c7a05f2eda.flv
+Shot Timestamps: [4, 8, 17, 20, 22, 24, 28, 36, 59, 70, 74]
+Shot Features Length: 11
+Video number: 79
+Video ID: 3f551cfb6385305e37906ce36ba8adc47ebc4cb3.flv
+Shot Timestamps: [3, 6, 8, 12, 17, 25, 28, 30, 34, 36, 43, 44, 67, 72, 78, 83, 87]
+Shot Features Length: 17
+Video number: 80
+Video ID: 46fa74f0aa8e67c49c64802317c4de3894f0e1b9.flv
+Shot Timestamps: [4, 8, 17, 20, 22, 24, 28, 36, 59, 60, 70, 74]
+Shot Features Length: 12
+Video number: 81
+Video ID: 487be7c83186caba89dc3004a1bd24350e35a099.flv
+Shot Timestamps: [4, 8, 17, 20, 22, 23, 28, 36, 59, 70, 74]
+Shot Features Length: 11
+Video number: 82
+Video ID: 4cfa923904010814758c07c039b0388ed0be08ec.flv
+Shot Timestamps: [4, 9, 17, 20, 36, 37, 39, 59, 75]
+Shot Features Length: 9
+Video number: 83
+Video ID: 4ebe32fc10f0594a6d6a54df8617d38c2806ec9e.flv
+Shot Timestamps: [5, 16, 37, 38, 39, 47, 50, 53, 55, 58, 66, 70]
+Shot Features Length: 12
+Video number: 84
+Video ID: 4fed5faaf981b1082089916f2ff52c844b260efa.mp4
+Shot Timestamps: [8, 11, 13, 26, 47, 52, 57]
+Shot Features Length: 7
+Video number: 85
+Video ID: 705d504994af63494d0e6e3e42f64d6b165b9584.flv
+Shot Timestamps: [3, 6, 8, 12, 17, 25, 28, 30, 34, 36, 44, 67, 72, 78, 83, 87]
+Shot Features Length: 16
+Video number: 86
+Video ID: 707ffde910facfe859304ae491bc154ab33dd2de.flv
+Shot Timestamps: [4, 8, 17, 20, 22, 25, 26, 27, 36, 59, 65, 69, 75]
+Shot Features Length: 13
+Video number: 87
+Video ID: 75ac32c788e5d5d2e058a24f6a2deffbab3288fc.flv
+Shot Timestamps: [5, 16, 37, 38, 39, 47, 50, 53, 55, 58, 66, 70]
+Shot Features Length: 12
+Video number: 88
+Video ID: 7b2158aad4ea2e6c8f149bb869801b96734c1b1c.flv
+Shot Timestamps: [2, 6, 15, 18, 57, 67, 95, 99]
+Shot Features Length: 8
+Video number: 89
+Video ID: 7c9d142bf1b1ede846c059117f422b1c8ea6bb9e.mp4
+Shot Timestamps: [3, 6, 11, 19, 22, 24, 39, 40, 61, 81]
+Shot Features Length: 10
+Video number: 90
+Video ID: 7dd1b7a83128fb78f018c557d918b0670989457e.mp4
+Shot Timestamps: [4, 5, 13, 16, 18, 24, 32, 49, 55, 58]
+Shot Features Length: 10
+Video number: 91
+Video ID: 8870293c58fbed9cc03a738577e5802164199d8b.flv
+Shot Timestamps: [4, 9, 17, 20, 22, 27, 29, 36, 59, 60, 64, 70, 75]
+Shot Features Length: 13
+Video number: 92
+Video ID: 8c207ab5a07d12d37dcb666ee8b69c3357bc07fb.flv
+Shot Timestamps: [4, 11, 18, 32, 40, 43, 45, 47, 49, 52, 58, 60, 62, 64, 67, 68, 71, 73, 74, 77, 80, 83, 86, 94, 102, 106, 107, 114, 129, 130, 133, 138, 157, 173, 178, 194, 202, 219, 221, 236, 238, 250, 256, 263, 268, 270, 278, 284]
+Shot Features Length: 48
+Video number: 93
+Video ID: 8fb97b98e2f27c9f162d6c1d6c27806c84af8e8d.flv
+Shot Timestamps: [3, 6, 8, 12, 17, 25, 28, 30, 34, 36, 44, 67, 72, 78, 83, 87]
+Shot Features Length: 16
+Video number: 94
+Video ID: 97429f47c45ec4da9849b7f4df36e22939649158.mp4
+Shot Timestamps: [1, 4, 8, 15, 18, 20, 24, 32, 33, 52, 53, 58, 62, 65]
+Shot Features Length: 14
+Video number: 95
+Video ID: 9c1d7e91288e07083e4456f8fe6b771aba039ed1.flv
+Shot Timestamps: [4, 8, 17, 20, 22, 24, 28, 36, 59, 60, 70, 74]
+Shot Features Length: 12
+Video number: 96
+Video ID: b3205b97de392174f3905831fc0dba5724fdabf1.flv
+Shot Timestamps: [5, 13, 16, 32, 34, 35, 55, 70]
+Shot Features Length: 8
+Video number: 97
+Video ID: b581ea1130d0c4c9af02e98dcb887cb8d58350e8.flv
+Shot Timestamps: [4, 9, 17, 20, 22, 28, 36, 59, 77, 82]
+Shot Features Length: 10
+Video number: 98
+Video ID: bbdbe357f408fb84d5f57c1522a90504f3162d6f.flv
+Shot Timestamps: [4, 7, 9, 12, 15, 18, 19, 20, 24, 27, 29, 32, 35, 38, 41]
+Shot Features Length: 15
+Video number: 99
+Video ID: be51dbc2d72ae574934de1b972b18037dba73b8e.flv
+Shot Timestamps: [1, 6, 14, 17, 33, 36, 56, 70]
+Shot Features Length: 8
+Video number: 100
+Video ID: bf9df08bb9164d1b971557a9b9f6140096c92b0c.mp4
+Shot Timestamps: [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 22, 25, 26, 34, 37, 38, 48, 53, 54, 55, 70, 71, 72, 74, 78, 84, 86, 90, 92, 94, 95, 97, 99, 104, 114, 117, 123, 126, 127, 130, 133, 141, 143, 144, 145, 148, 149, 150, 157, 162, 175, 176, 178, 179, 181, 182, 187, 188, 189, 190, 192, 193, 194, 196, 200, 201, 202, 206]
+Shot Features Length: 74
+Video number: 101
+Video ID: cac9dff859597360de5a5f011139c845c0d08e6c.flv
+Shot Timestamps: [4, 8, 17, 20, 22, 23, 28, 36, 59, 70, 74]
+Shot Features Length: 11
+Video number: 102
+Video ID: caec7bae88f5b5d60a08487e9d9a8cd27251c64e.flv
+Shot Timestamps: [14, 18, 22, 30, 33, 36, 39, 41, 45, 50, 72, 88, 92, 93, 96, 99, 106, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 123, 141, 142, 146, 150, 154, 163, 166]
+Shot Features Length: 38
+Video number: 103
+Video ID: f7ba4ea780e11256ed5439e33d169eb242a8a18f.flv
+Shot Timestamps: [6, 14, 15, 17, 18, 20, 21, 32, 34, 36, 38, 40, 41, 42, 43, 44, 46, 50, 56, 62, 63, 66, 68, 69, 70, 72, 73, 74, 76, 78, 80, 81, 83, 84, 86, 87, 90, 91, 92, 94, 97, 98, 101, 104, 106, 108, 110, 112, 114, 117, 121, 126, 127, 129, 132, 134, 138, 140, 141, 145, 148, 149, 153, 157, 159]
+Shot Features Length: 65
+Video number: 104
+Video ID: 242f1fb1c242b8b01b994185c0111d1ca25ee03e.flv
+Shot Timestamps: [7, 11, 16, 28, 31, 32, 34, 40, 41, 42, 45, 48, 50, 52, 59, 71, 75, 77, 78, 93, 105, 107, 114, 115, 117, 120, 122, 128, 129, 131, 134, 138, 142, 150, 152, 153, 154, 157, 160, 161, 162, 164, 165, 167, 170, 172, 175, 178, 186, 197, 199, 201, 202, 206, 207, 208, 210, 211, 223, 224, 225, 227, 228, 230, 232, 234, 237, 243, 245, 246, 249, 252, 253, 257, 260, 262, 264, 268, 269, 282, 283, 286]
+Shot Features Length: 82
+Video number: 105
+Video ID: 3499b9fd4316131ebf0f5d9bbecf6f3f8600c4fb.flv
+Shot Timestamps: [1, 2, 3, 4, 5]
+Shot Features Length: 5
+Video number: 106
+Video ID: 58e5bb3a6c16fa795310152410de9ecaee19e90f.flv
+Shot Timestamps: [9, 16, 22, 24, 26, 28, 29, 30, 34, 36, 38, 40, 41, 42, 44, 46, 48, 50, 52, 54, 58, 59, 60, 62, 63, 64, 66, 68, 70, 71, 73, 89, 93, 97, 100, 102, 103, 104, 108, 110, 113, 128, 132, 140, 143, 145, 153, 156, 157, 159, 161, 163, 166, 167, 170, 174, 176, 180, 188, 205, 208, 213, 214, 216, 220, 222, 223, 244, 250, 252, 254, 257, 259, 261, 263, 276, 279, 280, 287, 290]
+Shot Features Length: 80
+Video number: 107
+Video ID: 5b46e9007b0add1d73a11d2f4414efe35b017acb.flv
+Shot Timestamps: [6, 9, 13, 22, 34, 38, 39, 40, 46, 47, 48, 52, 58, 60, 62, 64, 67, 77, 83, 95, 99, 111, 117, 120, 121, 124, 127, 128, 132, 134, 136, 137, 141, 144, 148, 156, 158, 160, 161, 162, 163, 166, 167, 169, 171, 172, 174, 176, 179, 182, 185, 195, 200, 208, 209, 212, 214, 216, 217, 219, 221, 229, 231, 233, 234, 236, 238, 241, 243, 249, 251, 252, 255, 258, 259, 262, 263, 266, 268, 270, 275, 276, 277, 280, 285, 288, 289, 292, 294]
+Shot Features Length: 89
+Video number: 108
+Video ID: 5b90735d0a44043685ced4a784dfd3fc8489317a.mp4
+Shot Timestamps: [1, 3, 7, 8, 13, 15, 17, 20, 24, 26, 27, 29, 31, 33, 35, 36, 39, 43, 44, 46, 47, 49, 50, 51, 53, 56, 60, 63, 65, 66, 68, 69, 75, 76, 78, 83, 87, 91, 93, 95, 97, 99, 100, 101, 103, 105, 106, 107, 109, 110, 113, 114, 115, 119, 121, 125, 127, 129, 130, 131, 133, 134, 135, 137, 139, 140, 142, 143, 145, 147, 149, 152, 153, 155, 157, 160, 161, 165, 168, 170, 172, 174, 176, 177, 178, 180, 183, 185, 186, 188, 189, 190, 192, 194, 195, 196, 198, 200, 202, 203, 205, 206, 208, 209, 211, 212, 214, 215, 217, 218, 221, 224, 226, 227, 229, 232, 236, 237, 240, 241]
+Shot Features Length: 120
+Video number: 109
+Video ID: 60c5b3896a5a75b43ee11719952ebb2a18a20d56.flv
+Shot Timestamps: [9, 13, 19, 22, 29, 31, 35, 38, 40, 42, 50, 53, 55, 58, 60, 63, 65, 68, 69, 70, 71, 73, 74, 75, 80, 86, 89, 91, 97, 103, 113, 118, 119, 123, 129, 133, 136, 137, 142, 161, 163, 165, 166, 168, 169, 170, 181, 182, 184, 185, 186, 187, 189, 190, 194, 198, 199, 207, 209, 211, 218, 222, 227, 245, 247, 250, 252, 269, 279, 281, 284, 287]
+Shot Features Length: 72
+Video number: 110
+Video ID: 621e548a6730fef0d8e3ff041c751881a9432af4.flv
+Shot Timestamps: [9, 16, 22, 24, 26, 28, 29, 30, 34, 36, 38, 40, 41, 42, 44, 46, 50, 52, 54, 58, 59, 60, 66, 68, 70, 71, 106, 113, 128, 132, 140, 143, 145, 153, 156, 157, 159, 161, 163, 176, 188, 206, 208, 213, 216, 244, 251, 252, 254, 257, 259, 279, 280, 287, 289, 290]
+Shot Features Length: 56
+Video number: 111
+Video ID: 6834f12ea580a4e7309bd8541fb6fbe4daeeda0f.flv
+Shot Timestamps: [9, 11, 13, 19, 22, 29, 31, 35, 38, 40, 50, 53, 55, 58, 59, 60, 63, 65, 68, 69, 70, 71, 73, 74, 75, 80, 86, 89, 91, 94, 97, 103, 113, 120, 123, 129, 133, 136, 137, 141, 161, 163, 164, 166, 167, 168, 169, 171, 181, 182, 183, 184, 186, 187, 189, 190, 194, 197, 199, 207, 209, 211, 218, 222, 227, 245, 252, 269, 279, 280, 284, 287]
+Shot Features Length: 72
+Video number: 112
+Video ID: 875ea06d092a04ffd4e875e1f311e6aa2eb9ff87.flv
+Shot Timestamps: [9, 16, 22, 24, 26, 28, 29, 30, 34, 36, 38, 40, 41, 42, 43, 46, 48, 50, 52, 54, 58, 59, 60, 62, 63, 64, 66, 68, 70, 71, 73, 75, 89, 92, 97, 100, 101, 102, 104, 113, 119, 124, 128, 132, 135, 140, 143, 145, 153, 156, 157, 159, 161, 163, 166, 167, 170, 174, 176, 180, 187, 205, 208, 213, 214, 215, 216, 219, 220, 222, 223, 244, 250, 251, 252, 254, 257, 258, 260, 261, 263, 276, 279, 280, 287, 289, 290]
+Shot Features Length: 87
+Video number: 113
+Video ID: ef831f0fe7c633be5ed9edd29dd28d6066ea6d88.flv
+Shot Timestamps: [1, 3, 4, 5, 6, 7, 8]
+Shot Features Length: 7
+Video number: 114
+Video ID: f13e7eb9b90b57b1613daa44c15a50fdef456176.flv
+Shot Timestamps: [1, 9, 16, 22, 24, 26, 28, 29, 30, 34, 36, 38, 40, 41, 42, 44, 46, 50, 52, 54, 58, 59, 60, 66, 68, 70, 71, 106, 113, 128, 132, 140, 153, 156, 157, 159, 161, 163, 170, 176, 188, 206, 208, 213, 216, 251, 252, 254, 257, 259, 279, 280, 287, 289, 290]
+Shot Features Length: 55
+Video number: 115
+Video ID: f8b09ea589093ea7fc20cb530963fe610e90fd12.flv
+Shot Timestamps: [6, 9, 13, 22, 34, 38, 39, 40, 46, 47, 48, 52, 58, 60, 62, 64, 67, 77, 83, 95, 99, 111, 117, 120, 121, 124, 127, 128, 132, 134, 136, 137, 141, 144, 148, 156, 158, 160, 161, 162, 163, 166, 167, 169, 171, 172, 174, 176, 179, 182, 185, 195, 200, 208, 209, 212, 214, 216, 217, 219, 221, 229, 231, 233, 234, 236, 238, 241, 243, 249, 251, 252, 255, 258, 259, 262, 263, 266, 268, 270, 275, 276, 277, 280, 285, 288, 289, 292, 294]
+Shot Features Length: 89
+Video number: 116
+Video ID: 007d931e5f8d6dc6367964748ed862739425303b.flv
+Shot Timestamps: [2, 5, 9, 14, 17, 18, 20, 29, 30, 31, 33, 35, 38, 45, 49, 50, 51, 53, 56, 57, 70, 73, 80, 84, 89, 103, 106, 108, 109, 111, 118]
+Shot Features Length: 31
+Video number: 117
+Video ID: 031dacfeacdc715e755c01f4d37b49577336006e.mp4
+Shot Timestamps: [6, 11, 25, 28]
+Shot Features Length: 4
+Video number: 118
+Video ID: 23254771545e5d278548ba02d25d32add952b2a4.flv
+Shot Timestamps: [7, 8, 13, 18, 32, 35, 41, 42, 54]
+Shot Features Length: 9
+Video number: 119
+Video ID: 2620a515a196e5d4329f320f478010e578980bee.flv
+Shot Timestamps: [1, 2]
+Shot Features Length: 2
+Video number: 120
+Video ID: 434cbcdf0562eb6c5ccdef59cf3401ed1067112c.flv
+Shot Timestamps: [1, 5, 8, 9, 11, 13, 17, 18, 19, 21, 23, 31, 33, 34, 35, 37, 39, 41, 43, 48, 52, 53, 55, 56, 58, 59, 61, 62, 63, 73, 77, 83, 87, 92, 107, 109, 111, 115, 123, 125, 126, 128, 130, 132, 133, 135, 136, 137, 139, 140, 141, 143, 145, 147, 149, 152, 154, 155, 157, 159, 168, 171, 172, 174, 177, 179, 181, 183, 186, 189, 193, 196, 201, 204, 207, 208, 210, 211, 213, 215, 218, 221, 223, 224, 226, 227, 229, 230, 232, 234, 235, 237, 239, 240, 242, 243, 245, 247, 249, 250, 255, 258, 260, 261, 263, 264, 265, 267, 268, 269, 273, 274, 275, 277, 283, 285, 286, 289, 291, 293, 294, 297, 299, 301, 305, 308, 310, 312, 314, 319, 321, 322, 323, 326, 329, 335, 336, 337]
+Shot Features Length: 138
+Video number: 121
+Video ID: 468410600142c136d707b4cbc3ff0703c112575d.flv
+Shot Timestamps: [6, 11, 25, 28]
+Shot Features Length: 4
+Video number: 122
+Video ID: 4a79c873b671f3452afde9d247250d8c3776e7c6.flv
+Shot Timestamps: [6, 11, 25, 28]
+Shot Features Length: 4
+Video number: 123
+Video ID: 67f1feff7f624cf0b9ac2ebaf49f547a922b4971.flv
+Shot Timestamps: [1, 3, 5, 7, 10, 15, 19, 21, 23, 25, 34, 35, 37, 39, 40, 43, 46, 51, 55, 56, 57, 59, 62, 63, 76, 79, 85, 89, 94, 109, 111, 113, 115, 117, 121, 123]
+Shot Features Length: 36
+Video number: 124
+Video ID: 68868f88c7c8f4887bf441ea1f61500dbcd1da5b.flv
+Shot Timestamps: [2, 5, 7, 9, 11, 14, 15, 17, 18, 20, 29, 30, 31, 33, 35, 38, 41, 45, 49, 51, 52, 53, 55, 57, 58, 59, 71, 74, 80, 84, 89, 104, 106, 109, 111, 118]
+Shot Features Length: 36
+Video number: 125
+Video ID: 7a80366e144e759603a9ebecfd91848196e255d2.flv
+Shot Timestamps: [3, 7, 9, 13, 15, 18, 19, 21, 22, 24, 33, 34, 35, 37, 38, 39, 42, 45, 49, 53, 55, 56, 57, 59, 61, 62, 75, 78, 84, 88, 93, 108, 110, 113, 115, 125, 126, 127, 129, 131, 133, 135, 136, 137, 139, 140, 141, 143, 144, 146, 148, 150, 153, 155, 157, 169, 172, 173, 175, 179, 181, 182, 183, 187, 191, 194, 197, 201, 205, 208, 209, 211, 213, 214, 217, 219, 221, 223, 224, 226, 228, 229, 231, 233, 235, 237, 240, 241, 243, 245, 246, 248, 250, 251, 256, 257, 259, 261, 263, 265, 266, 267, 269, 271, 273, 275, 276, 279, 283, 285, 286, 288, 290, 293, 294, 295, 298, 300, 302, 307, 309, 311, 313, 315, 321, 322, 323, 325, 327, 330, 336]
+Shot Features Length: 131
+Video number: 126
+Video ID: 7deff9e47e47c98bb341c4355dfff9a82bfba221.flv
+Shot Timestamps: [6, 11, 25, 28, 31, 34, 36, 38, 41, 44, 45, 48, 51, 56, 58, 59, 61, 64, 67, 68, 71, 76, 80, 86, 98, 113, 138, 143, 151, 153, 155, 157, 160, 161, 163, 165, 170, 176, 182, 186, 196, 200, 203, 208, 211, 215, 224, 227, 229, 235, 238, 298, 311, 318, 322, 331, 348, 354, 361, 373]
+Shot Features Length: 60
+Video number: 127
+Video ID: 7e4fe3c124a00ce43ce0b5b0aca342d79e3c1ed7.flv
+Shot Timestamps: [7, 10, 14, 15, 19, 22, 25, 33, 40, 50, 54, 58, 61, 89, 109, 111, 113, 114, 116, 125]
+Shot Features Length: 20
+Video number: 128
+Video ID: aca39f299bade8a43abc80bac36d598239c63906.flv
+Shot Timestamps: [1, 3, 5, 6, 8, 12, 15, 17, 19, 20, 23, 25, 27, 28, 29, 38, 39, 41, 43, 45, 48, 50, 55, 59, 60, 61, 63, 65, 66, 67, 69, 80, 83, 90, 93, 99, 113, 116, 118, 121, 126]
+Shot Features Length: 41
+Video number: 129
+Video ID: b22db6382d74710e88eb1cb50bf3f74bec402491.flv
+Shot Timestamps: [4, 7, 11, 14, 16, 18, 19, 23, 25, 26, 27, 29, 37, 39, 40, 43, 45, 47, 49, 54, 58, 59, 61, 63, 65, 67, 79, 83, 89, 93, 98, 113, 115, 117, 121, 129]
+Shot Features Length: 36
+Video number: 130
+Video ID: c224dece59ecedc0a54ddafe5b1ab0ecf1f7a729.flv
+Shot Timestamps: [1, 3, 11, 12, 13, 14, 15, 16, 18, 21, 23, 28, 32, 33, 34, 35, 36, 38, 39, 41, 42, 53, 56, 63, 67, 72, 87, 89, 91, 92, 94, 101]
+Shot Features Length: 32
+Video number: 131
+Video ID: c70491f4b4d4a8e90561c11ac929edf430e62641.flv
+Shot Timestamps: [2, 3, 6, 10, 13, 15, 17, 18, 22, 23, 25, 26, 28, 37, 38, 39, 41, 43, 46, 49, 52, 53, 57, 58, 59, 61, 63, 65, 66, 67, 79, 81, 88, 92, 97, 112, 114, 116, 117, 119, 127]
+Shot Features Length: 41
+Video number: 132
+Video ID: e8e7aaf3d965501ca315099c1d2b4c8fe12cce68.flv
+Shot Timestamps: [3, 5, 17, 21, 27, 31, 36, 51, 52, 55, 63]
+Shot Features Length: 11
+Video number: 133
+Video ID: 0df916fdd13b8579ba1d12190b931f14daeb72eb.flv
+Shot Timestamps: [2, 3, 7, 8, 9, 10, 15, 18, 22, 23, 24, 25, 27, 29, 30, 31]
+Shot Features Length: 16
+Video number: 134
+Video ID: 1f518e563d7fcdc4f21aedc1e2b30298255dd10c.flv
+Shot Timestamps: [2, 3, 6, 7, 8, 9, 10, 12, 15, 17, 18, 20, 22, 23, 24, 25, 27, 28, 29, 30]
+Shot Features Length: 20
+Video number: 135
+Video ID: 2283dfecf92111bfb035888b4810c011ac164876.flv
+Shot Timestamps: [4, 5, 6, 11, 12, 15, 16, 17, 18, 20, 21, 22, 23, 24, 28, 29, 30, 32, 33, 36, 38, 39, 40, 41, 43, 44, 45, 46, 50, 75, 76, 89]
+Shot Features Length: 32
+Video number: 136
+Video ID: 60424fb57dae4de20a1672b9019d54dea5179073.flv
+Shot Timestamps: [21, 33, 44, 54, 56, 59, 61, 63, 64, 66, 67, 68, 70, 71, 72, 74, 77]
+Shot Features Length: 17
+Video number: 137
+Video ID: 6a2f5ceaa65dd1187ff57ff1c1fccee9da91985b.flv
+Shot Timestamps: [2, 5, 7, 8, 14, 15, 16, 19, 22]
+Shot Features Length: 9
+Video number: 138
+Video ID: 71ba3405d1e896d04c89754ff618b4198d2e65d5.flv
+Shot Timestamps: [8, 28, 31, 32, 33, 37]
+Shot Features Length: 6
+Video number: 139
+Video ID: 77452e0b0c34723b656047c3cbd5d9bf2e11eaaf.flv
+Shot Timestamps: [3, 10, 28, 37]
+Shot Features Length: 4
+Video number: 140
+Video ID: 80fd5c866390b8caf4129486e0f11beeca47d952.flv
+Shot Timestamps: [2, 3, 6, 8, 9, 10, 15, 16, 17, 18, 21, 22, 24, 25, 27, 28, 29, 30]
+Shot Features Length: 18
+Video number: 141
+Video ID: 8a268ef5ad1f250fca37321ba2e9c9224b084dba.flv
+Shot Timestamps: [7, 12, 13, 14, 19, 22, 28, 29, 30, 32, 33, 34, 36, 37, 38, 40, 41, 43]
+Shot Features Length: 18
+Video number: 142
+Video ID: 8b99b013165faa0c1cb36794f0d20d38a621f496.flv
+Shot Timestamps: [4, 5, 6, 7, 9, 13, 14, 15, 16, 17, 19, 20, 23, 25, 26, 27, 28, 29, 30, 31, 32, 34]
+Shot Features Length: 22
+Video number: 143
+Video ID: 925a69d13824e3521d6eccbe8c6d7ff0c54486fe.flv
+Shot Timestamps: [3, 4, 7, 8, 9, 11, 12, 15, 18, 26, 27, 29, 30, 31, 32, 33, 34, 35, 38]
+Shot Features Length: 19
+Video number: 144
+Video ID: a8253d279cbeb3a29bd346b63083c054eab1407a.flv
+Shot Timestamps: [9, 12, 15, 17, 18, 26, 35, 36, 38, 39, 40, 41, 42, 44, 45, 46, 48]
+Shot Features Length: 17
+Video number: 145
+Video ID: acdf1a72b8cf37ee2609cdc03ff70747f36e0476.flv
+Shot Timestamps: [2, 3, 7, 8, 9, 10, 15, 18, 21, 22, 24, 26, 27, 29, 30, 31]
+Shot Features Length: 16
+Video number: 146
+Video ID: b1d0d41066ffb0afa9e3a3375199824f35a80c4d.flv
+Shot Timestamps: [44, 46, 49, 56]
+Shot Features Length: 4
+Video number: 147
+Video ID: e05b9149d1a03f651df63b63657e7de1e106e061.flv
+Shot Timestamps: [9, 12, 15, 17, 18, 26, 35, 36, 38, 39, 40, 41, 42, 44, 45, 46, 48]
+Shot Features Length: 17
+Video number: 148
+Video ID: e2cae9c5ef92cbb53d823cfeb4d75c294baed21c.flv
+Shot Timestamps: [2, 5, 7, 8, 14, 15, 16, 19, 22]
+Shot Features Length: 9
+Video number: 149
+Video ID: f6e296bfd930f585e165246530efa97bc035330f.flv
+Shot Timestamps: [2, 3, 6, 8, 12, 13, 15, 16, 18, 19, 20, 22, 23, 24, 28, 30, 31, 32, 36, 37, 38, 40, 41, 43, 44, 46, 48, 49, 50, 51, 52, 54, 55, 56, 58, 59, 60, 61, 63, 64, 66, 67, 68, 69, 70, 72, 78, 100, 106, 112, 114, 126, 130, 133, 134, 140, 141, 143, 144, 145, 146, 148, 149, 150, 151]
+Shot Features Length: 65
+Video number: 150
+Video ID: 02ffeecd09331f27f731b2eabc6d1e0dcd91daa4.flv
+Shot Timestamps: [1, 3, 10, 13, 14, 16, 19, 21, 22, 23, 26]
+Shot Features Length: 11
+Video number: 151
+Video ID: 1ae7b9a578d5cdff57415e3701cd064d03ca3246.flv
+Shot Timestamps: [5, 7, 10]
+Shot Features Length: 3
+Video number: 152
+Video ID: 2e246b45e7dfba0a7cfb2beb557c40d81dc02c99.flv
+Shot Timestamps: [7, 17, 28, 32, 40, 41, 50, 53, 56, 59, 64, 68, 73, 74, 76]
+Shot Features Length: 15
+Video number: 153
+Video ID: 36d4ff38748397fadca52e851f1b6f4679bf3027.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 154
+Video ID: 375e6b7b7b63d2a84798226ef0cef8f50135e90a.flv
+Shot Timestamps: [12, 20, 22, 30, 38]
+Shot Features Length: 5
+Video number: 155
+Video ID: 377f81e79938ba062762e74a3b8d4136b5523fa3.flv
+Shot Timestamps: [2, 5, 10, 23, 24, 26, 30, 33, 38, 39, 41, 42, 46, 48, 50, 51, 52, 57, 59, 62, 63, 70, 82, 86, 88]
+Shot Features Length: 25
+Video number: 156
+Video ID: 3ec7ab68ed6a1690d7c0074bc563d0dccac57726.flv
+Shot Timestamps: [8, 20, 22, 28, 61, 78, 88, 98, 99, 100, 102, 103, 104, 105, 106, 115, 121, 135, 140, 161, 183, 185]
+Shot Features Length: 22
+Video number: 157
+Video ID: 3ed4f5c0eb04c94353594e8be1a72bcc657e27c7.flv
+Shot Timestamps: [5, 6, 11, 12, 14, 22, 23, 27]
+Shot Features Length: 8
+Video number: 158
+Video ID: 5496ef100ec5a5151c058cb264d9877bf7e90960.flv
+Shot Timestamps: [8, 11]
+Shot Features Length: 2
+Video number: 159
+Video ID: 55b5cf91ebbb1f98879f64e74b8155fe98cad23a.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 160
+Video ID: 5965d78e520ef5c162f22da88745f4c6dccd6fcf.flv
+Shot Timestamps: [3, 7, 9, 10]
+Shot Features Length: 4
+Video number: 161
+Video ID: 5c4792c066b3e445d46c603878b1be0a33808111.flv
+Shot Timestamps: [8, 11, 21]
+Shot Features Length: 3
+Video number: 162
+Video ID: 5f6d3fba8821f4e3358d5ff9dd6d3bc55b03b119.flv
+Shot Timestamps: [16, 25]
+Shot Features Length: 2
+Video number: 163
+Video ID: 6cc806641ede517d2ba98b9ffc5691c152b6c1db.flv
+Shot Timestamps: [8, 11]
+Shot Features Length: 2
+Video number: 164
+Video ID: 6f5bbd3e080c65e9a9e52404c9054b2203d3f540.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 165
+Video ID: 811a34d320785afe0f50b9ff7a67a8b7c22e9891.flv
+Shot Timestamps: [4, 5, 12, 14, 18, 20, 27, 35, 38, 46]
+Shot Features Length: 10
+Video number: 166
+Video ID: 84ce12a5fff66f4cd789c90bf61156f44fe21fbc.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 167
+Video ID: 8d6bd2b5607cbd53fd782843392105c020b9aa7d.flv
+Shot Timestamps: [2, 4, 6, 7, 9, 10, 12]
+Shot Features Length: 7
+Video number: 168
+Video ID: 9110765efc621b8e551b94889875201f36a48d49.flv
+Shot Timestamps: [1, 9, 13]
+Shot Features Length: 3
+Video number: 169
+Video ID: 925548514617c04feb99967cd1d40d985c467a2f.flv
+Shot Timestamps: [3, 5, 18, 20, 28, 32, 33, 34, 35, 37, 56, 64, 69, 71, 72]
+Shot Features Length: 15
+Video number: 170
+Video ID: 934c1d493bed0e2fae442e8970d787f176ac89cb.flv
+Shot Timestamps: [7, 9, 11]
+Shot Features Length: 3
+Video number: 171
+Video ID: ab3d22a99b1f0fee38cf842f51b1dce60bed631f.flv
+Shot Timestamps: [6, 8, 10, 15]
+Shot Features Length: 4
+Video number: 172
+Video ID: b3e2f9a02ee873972fcb0ce144996ad850c7b4af.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 173
+Video ID: ce1451b329a9cd5ad178f0927644f81fad4c69c2.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 174
+Video ID: d31adc1a71b72bb36f32b67cb6d52d4840a322c5.flv
+Shot Timestamps: [3, 12, 14, 19, 24, 34, 38, 39, 46, 48, 51, 52, 54, 60, 69, 71]
+Shot Features Length: 16
+Video number: 175
+Video ID: de71afa5fe2363589c28021940d2902d8701efdf.flv
+Shot Timestamps: [10, 17]
+Shot Features Length: 2
+Video number: 176
+Video ID: df4001c1e9d3e8fe3c61d9b6bac46cd377e6d2be.flv
+Shot Timestamps: [7, 9, 10]
+Shot Features Length: 3
+Video number: 177
+Video ID: df839544c199b12b5de023c1ee8511b947f5c999.flv
+Shot Timestamps: [7, 9, 11, 14, 18, 24, 25, 26, 27, 33, 39]
+Shot Features Length: 11
+Video number: 178
+Video ID: e018528afcd7682556a4049b76d76105f60fa922.flv
+Shot Timestamps: [6, 8]
+Shot Features Length: 2
+Video number: 179
+Video ID: f5d187eb9c7e5cfc6eaa206f479ede5c10603c68.flv
+Shot Timestamps: [9, 10, 12, 13, 14, 15, 16, 18, 27, 32, 40]
+Shot Features Length: 11
+Video number: 180
+Video ID: 2ba013a3f6fa57793c242766e27ec77d001fe03a.flv
+Shot Timestamps: [9, 24, 25, 26, 28, 33, 38, 42, 48, 52, 58, 64, 69, 73, 74, 76, 78, 82, 83, 86, 92, 93, 94, 95, 96, 98, 100, 101, 104, 106, 107, 109, 110, 114, 116, 117, 118, 120, 126, 127, 129, 132, 134, 136, 137, 138, 141, 143, 148, 150, 152, 155, 156, 158, 159, 160, 170, 171, 172, 173, 174, 179, 185, 187, 190, 194, 196, 198, 199, 202, 203, 206, 210, 211, 213, 214, 216, 218, 219, 220, 221, 222, 224, 226, 228, 230, 232, 233, 234, 236, 237, 239, 240, 242, 243, 246]
+Shot Features Length: 96
+Video number: 181
+Video ID: 38f11a4162d8e94227ac644f117f942735b9a504.mp4
+Shot Timestamps: [1, 10, 26, 32, 43, 50, 53, 56, 61, 63, 67, 69, 71, 74, 78, 79, 84, 90, 94, 101, 104, 110, 116, 122, 126, 128, 130, 136, 139, 146, 150, 151, 154, 155, 159, 160, 161, 163, 164, 165, 169, 171, 172, 174, 175, 181, 183, 184, 188, 190, 192, 194, 195, 197, 199, 205, 209, 213, 217, 227, 228, 230, 231, 232, 245, 249, 252, 255, 256, 260, 262, 264, 269, 270, 272, 274, 275, 277, 278, 279, 280, 282, 284, 288, 290, 292, 293, 294, 296, 297, 301, 302, 304, 306, 307, 309]
+Shot Features Length: 96
+Video number: 182
+Video ID: 39c96fc7117a0ff1fdc02637285c13d8efe7ce93.flv
+Shot Timestamps: [2, 18, 20, 23, 34, 40, 43, 46, 51, 52, 57, 59, 61, 64, 65, 66, 67, 68, 73, 77, 79, 82, 89, 92, 98, 104, 109, 113, 115, 117, 122, 124, 126, 132, 133, 134, 136, 137, 138, 140, 141, 145, 146, 147, 148, 149, 150, 155, 156, 157, 159, 160, 166, 167, 168, 169, 173, 174, 177, 178, 179, 180, 181, 184, 186, 189, 193, 196, 197, 198, 201, 210, 211, 213, 214, 215, 218, 228, 231, 234, 237, 239, 242, 244, 246, 249, 250, 251, 252, 253, 254, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 267, 268, 270, 271]
+Shot Features Length: 105
+Video number: 183
+Video ID: 7caa7fcef0e0b17725a0bda8b101d819e6ca2dbd.flv
+Shot Timestamps: [2, 18, 20, 23, 34, 40, 43, 46, 51, 52, 57, 59, 61, 64, 65, 66, 67, 68, 73, 77, 79, 82, 89, 92, 98, 104, 109, 113, 115, 117, 122, 124, 126, 132, 133, 134, 136, 137, 138, 140, 141, 145, 146, 147, 148, 149, 150, 155, 156, 157, 159, 160, 166, 167, 168, 169, 173, 174, 177, 178, 179, 180, 181, 184, 186, 189, 193, 196, 197, 198, 201, 210, 211, 213, 214, 215, 218, 228, 231, 234, 237, 239, 242, 244, 246, 249, 250, 251, 252, 253, 254, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 267, 268, 270, 271]
+Shot Features Length: 105
+Video number: 184
+Video ID: 801dbd9a5a5f97442c7bbd14046d71e67cccbf4b.mp4
+Shot Timestamps: [60, 120, 180, 240, 244]
+Shot Features Length: 5
+Video number: 185
+Video ID: 9ac82ed37390f45bdc81b699c53085b29143ee70.flv
+Shot Timestamps: [2, 6, 10, 12, 14, 20, 29, 30, 33, 34, 37, 44, 45, 46, 48, 52, 53, 54, 56, 57, 63, 64, 70, 71, 74, 75, 76, 77, 81, 86, 90, 94, 95, 98, 107, 108, 110, 111, 112, 125, 127, 131, 134, 136, 139, 140, 143, 147, 150, 151, 153, 154, 157, 158, 159, 161]
+Shot Features Length: 56
+Video number: 186
+Video ID: be51784c0b0676bf487376af362b088922efa954.flv
+Shot Timestamps: [16, 21, 32, 38, 41, 44, 48, 50, 55, 57, 58, 62, 64, 66, 71, 76, 80, 86, 90, 96, 102, 107, 111, 113, 115, 124, 130, 135, 138, 139, 144, 146, 147, 149, 153, 154, 155, 157, 158, 164, 165, 170, 172, 174, 176, 177, 179, 182, 190, 195, 198]
+Shot Features Length: 51
+Video number: 187
+Video ID: bf582249cfc79d691195a8681961029cc5149a76.flv
+Shot Timestamps: [3, 5, 6, 8, 10, 14, 15, 16, 18, 20, 25, 27, 29, 32, 34, 37, 38, 39, 41]
+Shot Features Length: 19
+Video number: 188
+Video ID: d2f4aca96d44a144b12abc300b781b8ff8bb0842.flv
+Shot Timestamps: [1, 10, 26, 32, 43, 50, 53, 56, 61, 63, 67, 69, 71, 74, 77, 79, 84, 90, 94, 101, 104, 110, 116, 122, 126, 128, 130, 136, 139, 146, 150, 151, 154, 155, 159, 160, 161, 163, 164, 165, 169, 171, 172, 174, 175, 181, 183, 184, 188, 190, 192, 194, 195, 197, 200, 205, 209, 213, 214, 217, 227, 228, 230, 231, 232, 245, 249, 252, 255, 257, 260, 262, 264, 269, 270, 272, 274, 275, 277, 279, 280, 282, 283, 284, 286, 288, 290, 292, 293, 294, 296, 297, 301, 302, 304, 306, 307, 309]
+Shot Features Length: 98
+Video number: 189
+Video ID: e2adc784b83446ae775f698b9d17c9fd392b2f75.flv
+Shot Timestamps: [2, 18, 20, 23, 34, 40, 43, 46, 51, 52, 57, 59, 60, 61, 64, 67, 68, 73, 79, 82, 89, 92, 98, 104, 109, 113, 115, 117, 123, 124, 126, 132, 133, 134, 136, 137, 140, 141, 145, 146, 147, 149, 151, 155, 156, 157, 159, 160, 166, 167, 168, 169, 173, 174, 177, 178, 179, 180, 181, 184, 189, 193, 195, 196, 197, 198, 210, 211, 213, 214, 215, 220, 222]
+Shot Features Length: 73
+Video number: 190
+Video ID: e8aa839caca7b98a0bf5437db144f23530d39b25.flv
+Shot Timestamps: [1, 2, 4, 5, 6, 15, 30, 32, 34, 36, 38, 42, 47, 48, 53, 56, 59, 64, 65, 70, 72, 74, 76, 78, 80, 81, 86, 90, 92, 95, 102, 105, 111, 117, 122, 126, 128, 130, 136, 137, 138, 145, 146, 149, 150, 153, 154, 157, 159, 160, 161, 162, 164, 168, 169, 170, 172, 173, 178, 180, 181, 182, 185, 187, 190, 191, 192, 193, 196, 198, 202, 203, 205, 208, 210, 211, 214, 223, 224, 225, 226, 228, 234, 238, 240]
+Shot Features Length: 85
+Video number: 191
+Video ID: 06f0dd6a00b38b553844d0550696e5ce1fb448b6.flv
+Shot Timestamps: [3, 4, 17, 22, 24, 27, 30, 32, 35, 43, 49, 61, 62, 64, 75, 78, 83, 90, 107, 109, 115, 117, 130, 132, 150, 151, 152, 159, 165, 166, 169, 172, 174, 175, 176, 177, 178, 180, 181, 182, 191, 195, 198, 200, 202, 204, 206, 208, 209, 212, 214, 215, 217, 218, 221, 223, 231, 238, 241, 242, 244, 245, 246, 247, 248, 250, 253, 254, 259, 262, 263, 268, 270, 271, 272, 274, 276, 278, 279, 281, 282, 284, 289, 294, 298, 302, 304, 305, 318, 320, 321, 322, 323, 327, 332, 333, 334, 335, 336, 339, 340, 344, 348, 359, 362, 364, 366, 367, 372, 373, 375, 376, 378, 379, 381, 382, 384, 392, 407, 411, 412, 414, 415, 416, 418, 419, 420, 421, 422, 424, 425, 426, 442, 457, 467, 486, 496, 500, 502, 504, 508, 514, 518, 529, 544, 545, 548, 551, 556, 559, 562, 564, 568, 573]
+Shot Features Length: 154
+Video number: 192
+Video ID: 10732a0e6a0edef9dcbb2155236e46a7ed5047c0.flv
+Shot Timestamps: [15, 16, 17, 21]
+Shot Features Length: 4
+Video number: 193
+Video ID: 126d3e5b61ad28f847ad1ff6d15315742e780ac6.mp4
+Shot Timestamps: [12, 20, 22, 23, 24, 26, 29]
+Shot Features Length: 7
+Video number: 194
+Video ID: 126f24a39b0ce19993d1fd7bd620fa98a3eda3a7.mp4
+Shot Timestamps: [5, 6, 8, 16, 25, 27, 28, 32, 36, 43, 45, 48, 52, 60, 63, 66, 71, 74, 76, 77, 78, 80, 85, 91, 93, 94, 105, 107]
+Shot Features Length: 28
+Video number: 195
+Video ID: 14c262ea09b4ca66feb7e88cf57e0faaeacc301f.mp4
+Shot Timestamps: [13]
+Shot Features Length: 1
+Video number: 196
+Video ID: 14c81d68b80d04743a107d4de859cb4724ccc2c1.flv
+Shot Timestamps: [4, 14, 16, 18, 19, 30, 31, 34, 38, 49, 52, 56, 69]
+Shot Features Length: 13
+Video number: 197
+Video ID: 170914a51f3b81a48ada1a1e8c6a97fc9d61e3c2.flv
+Shot Timestamps: [11, 13, 14]
+Shot Features Length: 3
+Video number: 198
+Video ID: 1923a4832593ecf189271664f80e8fbdfa451dec.flv
+Shot Timestamps: [3, 14, 15, 16, 17, 19]
+Shot Features Length: 6
+Video number: 199
+Video ID: 1f73466d86f0a92140bd2f89eb95e8c147b47935.flv
+Shot Timestamps: [60, 120, 143]
+Shot Features Length: 3
+Video number: 200
+Video ID: 28ae1e3aa722872cec66e9c83a35243accd27e2d.flv
+Shot Timestamps: [9, 10, 11, 12]
+Shot Features Length: 4
+Video number: 201
+Video ID: 28d2bcbf01d0572073d4e7543b0a43cda23887f2.flv
+Shot Timestamps: [2, 3]
+Shot Features Length: 2
+Video number: 202
+Video ID: 296daa1f5eff17f2a2cb02cf052deccdacca0c24.flv
+Shot Timestamps: [2, 3]
+Shot Features Length: 2
+Video number: 203
+Video ID: 2d381cece55255b4ea7c5e18d20f5a07ee39ddf5.flv
+Shot Timestamps: [11, 12, 14]
+Shot Features Length: 3
+Video number: 204
+Video ID: 2d623f928f8b37ce5978269e4198728c13e3f590.mp4
+Shot Timestamps: [10, 11, 12, 14]
+Shot Features Length: 4
+Video number: 205
+Video ID: 3216eba70c40df452e982aabf4b6a19e40f037f4.mp4
+Shot Timestamps: [4, 14, 16, 18, 19, 30, 31, 34, 38, 48, 50, 52, 56, 69]
+Shot Features Length: 14
+Video number: 206
+Video ID: 4376c0e8e1e226a63b6b2aac5c1962aa02028071.mp4
+Shot Timestamps: [2, 4]
+Shot Features Length: 2
+Video number: 207
+Video ID: 4aec2dcc12e748c4d2ff51fd6e84fac3fd9b5748.flv
+Shot Timestamps: [11, 14, 17]
+Shot Features Length: 3
+Video number: 208
+Video ID: 4df943d4903333df61bb3854d47365edf3076b5b.flv
+Shot Timestamps: [11, 14, 19]
+Shot Features Length: 3
+Video number: 209
+Video ID: 553d57eaab222c10c21018a6adc6d79841ba07e0.flv
+Shot Timestamps: [10, 12, 13, 14]
+Shot Features Length: 4
+Video number: 210
+Video ID: 58a33de5c9bd85b5dfe782eca6af35eeb390bd92.flv
+Shot Timestamps: [9, 10, 11, 12, 13, 14]
+Shot Features Length: 6
+Video number: 211
+Video ID: 650b4f7667e95e743b944c7e6602ada613b87377.flv
+Shot Timestamps: [21, 24, 34, 37, 41]
+Shot Features Length: 5
+Video number: 212
+Video ID: 67a70784ba5e4a26b6a3d95900a6b737f92af14c.mp4
+Shot Timestamps: [8, 9, 10, 12, 15, 19, 23]
+Shot Features Length: 7
+Video number: 213
+Video ID: 86a3afc4f23edb7fa6919bd7371ea7d5f4a946f9.flv
+Shot Timestamps: [11, 12, 14]
+Shot Features Length: 3
+Video number: 214
+Video ID: 8c2dac44da15031268363aec2fe33a9124a0a505.flv
+Shot Timestamps: [32, 33]
+Shot Features Length: 2
+Video number: 215
+Video ID: 93a48fd66a22cf0189c14a6b8571d72f657b64bc.mp4
+Shot Timestamps: [6, 8, 20, 27, 29, 45, 49, 58, 62, 64, 80]
+Shot Features Length: 11
+Video number: 216
+Video ID: 957f17421e19ce01afd6f92c895aba72342bd8ea.flv
+Shot Timestamps: [11, 12, 13, 14, 16, 21, 23, 32, 33, 34, 37, 42, 45, 51, 52, 53, 54, 56, 57, 59, 60, 63, 72, 107, 111, 115, 119, 122, 126, 130, 134, 142, 144, 150, 153, 156, 158, 159, 161, 166, 169, 171, 175, 176, 178, 179, 180, 182, 183, 184, 186, 188, 204, 213, 215, 216, 218, 220, 222, 223, 224, 225, 227, 231, 235, 250, 256, 257, 258, 260, 261, 262, 264, 265, 266, 267, 268, 270, 271, 272, 274, 275, 276, 278, 279, 281, 283, 284, 289, 291, 294, 295, 297, 298, 300, 302, 307, 308, 309, 310, 312, 313, 318, 326, 339, 344, 350, 355, 363, 405, 408, 414, 415, 417, 422, 424, 450, 452, 454, 460, 465, 481, 486, 496, 502, 507, 510, 512, 518, 528, 541, 558, 572, 574, 580, 590, 595, 655, 672, 720, 730, 746, 754, 768, 772, 773, 776, 781, 782, 785, 786, 789, 791, 792, 793, 794, 796, 798, 800, 801, 807, 831, 833, 839, 842, 849, 854, 865, 870, 930, 932, 969, 972, 978, 983, 988, 989, 995, 997, 1004, 1009, 1012, 1015, 1016, 1018, 1028, 1070, 1089, 1099, 1101, 1104, 1116, 1124, 1134, 1148, 1150, 1158, 1161, 1164, 1169, 1170, 1172, 1175, 1178, 1187, 1191, 1196, 1202, 1207, 1210, 1228, 1235, 1250, 1254, 1265, 1268, 1280, 1289, 1292, 1294, 1297, 1298, 1304, 1308, 1311, 1315, 1316, 1322, 1327, 1332, 1336, 1341, 1347, 1359, 1371, 1388, 1390, 1392, 1393, 1396, 1399, 1400, 1402, 1403, 1424, 1434, 1439, 1446, 1452, 1457, 1462, 1469, 1470, 1471, 1474, 1477, 1481, 1485, 1497, 1501, 1506, 1507, 1516, 1523, 1526, 1538, 1543, 1544, 1552, 1557, 1560, 1563, 1566, 1569, 1577, 1578, 1586, 1595, 1599, 1603, 1604, 1607, 1609, 1611, 1615, 1622, 1626, 1640, 1659, 1661, 1663, 1665, 1667, 1669, 1671, 1674, 1694, 1703, 1708, 1711, 1716, 1722, 1727, 1754, 1757, 1759, 1763, 1768, 1781, 1785, 1792, 1793, 1794, 1795, 1796, 1800, 1801, 1802, 1804, 1805, 1806, 1807, 1808, 1810, 1818, 1822, 1826, 1830, 1834, 1843, 1847, 1850, 1856, 1859, 1865, 1868, 1881, 1885, 1887, 1888, 1892, 1894, 1896, 1901, 1909, 1911, 1912, 1915, 1918, 1920, 1924, 1927, 1931, 1936, 1943, 1960, 1968, 1977, 1989, 1991, 1999, 2009, 2015, 2023, 2028, 2038, 2045, 2054, 2055, 2060, 2069, 2073, 2076, 2079, 2084, 2092, 2096, 2097, 2098, 2099, 2100, 2102, 2103, 2112, 2114, 2125, 2127, 2141, 2142, 2146, 2148, 2150, 2155, 2158, 2160, 2162, 2167, 2169, 2170, 2172, 2173, 2175, 2176, 2177, 2184, 2191, 2200, 2202, 2212, 2215, 2218, 2247, 2248, 2250, 2251, 2252, 2254, 2255, 2256, 2257, 2267, 2270, 2276, 2281, 2288, 2290, 2293, 2301, 2306, 2322, 2366, 2369, 2400, 2402, 2408, 2416, 2426, 2427, 2434, 2474, 2476, 2496, 2501, 2502, 2508, 2516, 2522, 2527, 2530, 2532, 2533, 2536, 2539, 2542, 2546, 2566, 2574, 2589, 2599, 2629, 2654, 2662]
+Shot Features Length: 462
+Video number: 217
+Video ID: 963f76298aaaab30e407bfe87eb25f3f2621d52d.flv
+Shot Timestamps: [11, 14]
+Shot Features Length: 2
+Video number: 218
+Video ID: 9f6c4b5fb07564529bd75142e29757b36770359c.flv
+Shot Timestamps: [5, 6, 7, 8, 13, 17, 22, 26, 32, 37, 45, 49, 50, 52, 55, 57, 60]
+Shot Features Length: 17
+Video number: 219
+Video ID: a9ef8194429b65cd61ce681caff308530c9fc8b3.flv
+Shot Timestamps: [11, 14]
+Shot Features Length: 2
+Video number: 220
+Video ID: affa7581a002ca360df8c76b4ddc9f462b797fd5.mp4
+Shot Timestamps: [11, 12, 15, 18, 24, 27]
+Shot Features Length: 6
+Video number: 221
+Video ID: b4adf259a412ffc4cfbfecd4bc14693b683791b0.flv
+Shot Timestamps: [11, 12, 14]
+Shot Features Length: 3
+Video number: 222
+Video ID: c22d8160f6950e9748d3c0d1cf26e342d54f281f.mp4
+Shot Timestamps: [2, 13, 16, 18, 20, 22]
+Shot Features Length: 6
+Video number: 223
+Video ID: c4684f69b4fe383c4c3bf502f6444a9abc7342ac.mp4
+Shot Timestamps: [8, 9, 10, 12]
+Shot Features Length: 4
+Video number: 224
+Video ID: c854dfdd9b038a39cf36d5ded719822e1e5e942a.flv
+Shot Timestamps: [21, 24, 34, 37, 41]
+Shot Features Length: 5
+Video number: 225
+Video ID: cf2ead1b5a8474f80e34ea569c8dee86140828a6.flv
+Shot Timestamps: [11, 12, 14]
+Shot Features Length: 3
+Video number: 226
+Video ID: d4ff86e0f64fcf4d664f3199e19bd6a38482c3e1.flv
+Shot Timestamps: [5, 6, 16, 21, 23, 26, 29, 30, 32, 34, 35, 45, 46, 47, 48, 50, 51, 61]
+Shot Features Length: 18
+Video number: 227
+Video ID: df0c9e9664cfa6720c94e13eae35ddb7a9b5b927.flv
+Shot Timestamps: [3, 5, 6, 8, 12, 15, 20, 31, 32, 33, 34, 37, 40, 43, 45]
+Shot Features Length: 15
+Video number: 228
+Video ID: e47d10d837cacf72bb23c45339b1cbc307a513be.mp4
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 510, 512]
+Shot Features Length: 10
+Video number: 229
+Video ID: e7957b138bcb543c63f100343c91d5731611c1ba.mp4
+Shot Timestamps: [2, 3, 4, 5, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32, 33, 34, 35, 37, 38, 39, 40, 42, 43, 44, 46, 47, 48, 49, 50, 52, 54, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 88, 90, 91, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104, 105, 106, 107, 108, 109, 110, 112, 113, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 129, 132, 133, 134, 135, 136, 137, 140]
+Shot Features Length: 108
+Video number: 230
+Video ID: f150e062960b477adcac3f12ef4543337f5a91a4.flv
+Shot Timestamps: [10, 12, 13, 14]
+Shot Features Length: 4
+Video number: 231
+Video ID: f26a39de8e8ec290703f4937977fc17322974748.flv
+Shot Timestamps: [10, 12, 14, 20]
+Shot Features Length: 4
+Video number: 232
+Video ID: ff71ba9adb281236cb8ebeed7aa4f654fdac9444.flv
+Shot Timestamps: [10, 12, 13, 22, 25, 26, 48, 51, 52, 55, 56, 61, 64]
+Shot Features Length: 13
+Video number: 233
+Video ID: ffd89ce37eb32ff8748e5168da52b0e32dcd3022.mp4
+Shot Timestamps: [7, 8, 9, 12]
+Shot Features Length: 4
+Video number: 234
+Video ID: 1c3639a371f22ee3e5f111d4b9d2b045cfa6fb02.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 538, 546]
+Shot Features Length: 10
+Video number: 235
+Video ID: 24a6a7d24464d6fe488abb181d89e426e8eeb837.mp4
+Shot Timestamps: [17, 20, 24, 26, 34, 37, 39, 43, 46, 50, 54, 60, 64, 66, 68, 70, 71, 72, 74, 75, 82, 83, 84, 95, 98, 99]
+Shot Features Length: 26
+Video number: 236
+Video ID: 28a7b8e86a5bc14c3668248d3a1395af9d58cdcb.mp4
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 731]
+Shot Features Length: 13
+Video number: 237
+Video ID: 3edda6ce4f34d8bcc1b3843100c36ddbef3c46df.flv
+Shot Timestamps: [3, 4, 5, 6, 8, 9, 13, 14, 15, 75, 79, 80, 86, 87, 88, 90, 96, 122, 125, 185, 245, 256, 263, 277, 291, 294, 295, 311, 319, 321, 322, 330, 359, 361, 421, 461, 482, 542, 557, 558, 560]
+Shot Features Length: 41
+Video number: 238
+Video ID: 3f81759e6e56e326c0deb3f1ca002e4c68d87eec.flv
+Shot Timestamps: [22, 24, 42, 102, 123, 124, 158, 161, 168, 176, 190, 193, 202, 210, 234]
+Shot Features Length: 15
+Video number: 239
+Video ID: 3f8bfd743657405ffa42909e84260dbd843bd9c2.flv
+Shot Timestamps: [2, 62, 122, 182, 242, 302, 363, 423, 483, 543, 559, 568]
+Shot Features Length: 12
+Video number: 240
+Video ID: 44aa92f8d96a98a015dba6eb0680bb97699af83f.mp4
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 559, 568]
+Shot Features Length: 11
+Video number: 241
+Video ID: 458480841d12331e4dea9557886acd2ac957e9cd.mp4
+Shot Timestamps: [5, 23, 24, 26, 28, 31, 33, 34, 35, 36, 39, 56, 58, 66, 67, 68, 74, 76, 79, 80, 82, 85, 86, 88, 89, 90, 91, 95, 97, 98, 102, 106, 108, 109, 112, 114, 115, 116, 117, 120, 123, 126, 135, 136, 137, 138, 139, 140, 143, 144, 148, 149, 151, 152, 154, 158, 159, 165, 166, 167, 170, 171, 173, 178, 183, 189]
+Shot Features Length: 66
+Video number: 242
+Video ID: 53ff5686f46ac55ae5357e6e7856faf0f5f15173.flv
+Shot Timestamps: [4, 39, 42, 102, 162, 222, 282, 331, 332, 339, 346, 356, 358, 418, 422, 482, 485]
+Shot Features Length: 17
+Video number: 243
+Video ID: 5f67871d5d377ddc9743ec8fce5f362f09621466.mp4
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 568, 571]
+Shot Features Length: 11
+Video number: 244
+Video ID: 6209e90f48cea8649c0c632f2486554524f11ca5.flv
+Shot Timestamps: [60, 120, 160]
+Shot Features Length: 3
+Video number: 245
+Video ID: 6885d63183d393307f6f2206f0dfaccec2d09389.mp4
+Shot Timestamps: [1, 61, 121, 181, 241, 267, 327, 387, 447, 507, 542, 546, 573, 575, 576, 578, 580, 640, 659, 704, 706]
+Shot Features Length: 21
+Video number: 246
+Video ID: 6c6135f9fb597c1d4a1e96861c4d90a03544d570.mp4
+Shot Timestamps: [60, 120, 154]
+Shot Features Length: 3
+Video number: 247
+Video ID: 77cf367bdc30892faa364bab0006c316a4e86f8e.flv
+Shot Timestamps: [2, 15, 18, 20, 24, 31, 91, 137, 138, 141, 148]
+Shot Features Length: 11
+Video number: 248
+Video ID: 7b0ad0591b074a11dccac902cb5729f658645f01.mp4
+Shot Timestamps: [60, 120, 180, 240, 258, 318, 378, 438, 498, 558]
+Shot Features Length: 10
+Video number: 249
+Video ID: 89b40b8ef5ec589cd8e4ebe5970e6b488f6b31ad.flv
+Shot Timestamps: [3, 8, 15, 16, 18, 44, 45, 46, 48, 49, 78, 85, 88, 111, 114, 116, 120, 141, 145, 148, 149, 150, 151, 180, 182, 183, 185, 186, 187, 189, 213, 214, 215, 217, 218, 219, 248, 249, 252, 254, 260, 269, 280, 282, 316, 318, 319, 324, 343, 351, 352, 355, 380, 385, 386, 387, 390, 392, 417, 419, 422, 455, 456, 461, 463, 486, 487, 488, 520, 524, 525, 558, 559, 572, 581, 608]
+Shot Features Length: 76
+Video number: 250
+Video ID: 91b2f55c188b8aa362fd2d2ac6bd08dbe7146bd5.flv
+Shot Timestamps: [60, 62, 122, 182, 232]
+Shot Features Length: 5
+Video number: 251
+Video ID: 9b618181a0cb19eaaa18728b72825b0b4d7d5ef4.mp4
+Shot Timestamps: [60, 120, 180, 240, 270]
+Shot Features Length: 5
+Video number: 252
+Video ID: 9d75e3dc43f2ca2384f91cc2bdcf1dd3fe0c3234.flv
+Shot Timestamps: [1, 2, 4, 6, 11, 14, 20, 25, 27, 29, 32, 34, 38, 41, 54, 56, 58, 62, 65, 67, 70, 74]
+Shot Features Length: 22
+Video number: 253
+Video ID: a8ad757811a9292d6184ff2f16f7be2ce686a605.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 573]
+Shot Features Length: 10
+Video number: 254
+Video ID: a92bd54b230f71a3542ffda4285be00336118261.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 323]
+Shot Features Length: 6
+Video number: 255
+Video ID: b65af0803a5dcaac7776b7c8648091ca3bec8471.mp4
+Shot Timestamps: [24, 32, 45, 51, 66, 73, 101, 107, 125, 130, 134, 136, 155, 161, 181]
+Shot Features Length: 15
+Video number: 256
+Video ID: bb1de1926803eea0fa311556b1c991fab3a73396.flv
+Shot Timestamps: [15, 19, 79, 139, 150, 157, 217, 277, 337, 374, 434, 462, 463, 466, 476, 513, 516, 576, 600]
+Shot Features Length: 19
+Video number: 257
+Video ID: bc0f16fd0538091a9e1eba02a8da9559e2751f6f.mp4
+Shot Timestamps: [26, 67, 70, 130, 190, 250, 269, 277, 337, 356]
+Shot Features Length: 10
+Video number: 258
+Video ID: d073f04bba4abb056f4be01b6f1bf5b58bb330de.flv
+Shot Timestamps: [1, 61, 79, 122, 170, 230, 290, 350, 410, 470, 494, 555, 563]
+Shot Features Length: 13
+Video number: 259
+Video ID: d7fd4ee52ade46db49e9fbabdf5d964ce0677961.flv
+Shot Timestamps: [6, 8, 9, 69, 129, 189, 249, 309, 369, 429, 489, 549, 576]
+Shot Features Length: 13
+Video number: 260
+Video ID: d8bc8b695ab831b8f511dd2ab56d7e7ac0cd1a21.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 518, 568]
+Shot Features Length: 10
+Video number: 261
+Video ID: daa0d7da05e7475ca5cb9b2a91fb968e65725ecb.flv
+Shot Timestamps: [60, 118]
+Shot Features Length: 2
+Video number: 262
+Video ID: df9176364d95bda36fced3537e44b838cb548e78.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 567, 568, 570, 571, 572, 573, 575, 576, 580]
+Shot Features Length: 18
+Video number: 263
+Video ID: e3cfb1f40fb5690a700aba9ac1fa35be2fd4ff1f.flv
+Shot Timestamps: [60, 120, 148]
+Shot Features Length: 3
+Video number: 264
+Video ID: eaa384490867c32e4b3cc0d7d969af63d1a6edda.flv
+Shot Timestamps: [60]
+Shot Features Length: 1
+Video number: 265
+Video ID: ebe5fd08a5d05f2af96f425bc894860bac3f9ba6.flv
+Shot Timestamps: [30]
+Shot Features Length: 1
+Video number: 266
+Video ID: ecae756c95dc0d66827d30767e944c781eef7ea7.flv
+Shot Timestamps: [37, 97, 157, 217, 277, 337, 397, 457, 504, 541]
+Shot Features Length: 10
+Video number: 267
+Video ID: edae2238f87dce9981af2e1c472096e6694da1a1.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 600, 660, 720, 780, 840, 900, 923, 927]
+Shot Features Length: 17
+Video number: 268
+Video ID: f27d7252cfb03e3e051488a53801235840f7a58e.flv
+Shot Timestamps: [60, 120, 180, 240, 300, 360, 420, 480, 540, 560]
+Shot Features Length: 10
+Video number: 269
+Video ID: fc168483b05a1a3534dedd973585642bd0f0edb8.flv
+Shot Timestamps: [4, 8, 68, 96, 108, 112, 116]
+Shot Features Length: 7
+Video number: 270
+Video ID: 00274a923e13506819bd273c694d10cfa07ce1ec.flv
+Shot Timestamps: [9, 13, 15, 17, 21, 23, 24, 33, 35, 45, 63, 66, 67, 71, 73, 75, 81]
+Shot Features Length: 17
+Video number: 271
+Video ID: 0234aef03d60f071f6fb30f366e79bcc1a05cf14.flv
+Shot Timestamps: [15, 16, 28, 56, 69, 70, 80, 86, 88, 101, 104, 106, 108, 112, 114, 116, 124, 126, 137, 154, 157, 158, 162, 164, 168, 173, 175, 180, 185, 187, 190, 192, 198, 200, 204, 206, 224, 228, 248, 252, 258, 261, 264, 265, 267, 269, 270, 272, 276, 277, 278, 280, 282, 293, 295, 313, 316, 338, 353, 354, 356, 357, 358, 359, 366, 379, 384, 385, 402, 442, 459, 475]
+Shot Features Length: 72
+Video number: 272
+Video ID: 089bc4a7f6d8747dad92507019b100c5ec09a883.flv
+Shot Timestamps: [14, 16, 18, 20, 21, 30, 43, 60, 63, 65, 68, 70, 74, 79, 82, 84, 95, 101, 107, 137, 142, 148, 152, 199, 204, 208, 223, 230, 235, 244, 255, 261, 273, 279, 284, 323, 330, 339, 343, 363, 367, 426, 429, 435, 437, 460, 462, 467, 472, 483, 504, 508, 521, 526, 534, 540, 557, 562, 587, 592, 597, 599]
+Shot Features Length: 62
+Video number: 273
+Video ID: 0dc847c3b563024b2052b75a28952c2434d059d1.flv
+Shot Timestamps: [4, 6, 17, 22, 34, 36, 37, 38, 40, 41, 42, 46, 48, 51, 53, 55, 56, 59, 65, 67, 69, 71, 72, 73, 74, 75, 78, 79, 80, 81, 84]
+Shot Features Length: 31
+Video number: 274
+Video ID: 10f0d273cc6c1f888004537f30d5ef577b6d95e3.flv
+Shot Timestamps: [2, 13, 31, 34, 35, 38]
+Shot Features Length: 6
+Video number: 275
+Video ID: 1d4062ded72a30caa898d2bb9c105994c8a96acc.flv
+Shot Timestamps: [5, 6, 17, 35, 38, 39, 43, 44, 48, 54, 56, 61, 65, 68, 71, 73, 78, 80, 84, 85, 86, 87]
+Shot Features Length: 22
+Video number: 276
+Video ID: 1f025a1f075ff2d25d5469a1343932e09ea13b2a.flv
+Shot Timestamps: [9, 12, 15, 16, 20, 24, 33, 45, 63, 66, 67, 71, 72, 75, 78, 82, 83, 88, 91, 92, 93, 96, 101, 105, 106, 113, 116, 123, 128, 131, 132, 136, 142]
+Shot Features Length: 33
+Video number: 277
+Video ID: 32b25dee50d2c710b1122afe7371b9fa274241d6.flv
+Shot Timestamps: [2, 3, 8, 10, 13, 31, 33, 35, 39, 41, 43, 45, 47, 50, 52, 53, 57, 58]
+Shot Features Length: 18
+Video number: 278
+Video ID: 3f4c158b7f419867204968bd5e1f70003fefc889.flv
+Shot Timestamps: [1, 3, 36, 38, 44, 51, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 75, 76, 77]
+Shot Features Length: 30
+Video number: 279
+Video ID: 4120e70bc6332bd6010e76b0054c45653bfa6f94.flv
+Shot Timestamps: [2, 4, 14, 32, 35, 36, 40, 41, 45, 51, 53, 58, 62, 65, 68, 70, 75, 78, 81, 82, 83, 84, 89, 91, 99]
+Shot Features Length: 25
+Video number: 280
+Video ID: 50267c2376f0e05d38f8d468d4bb403fab5cc454.flv
+Shot Timestamps: [4, 14, 22, 23, 34, 46, 56, 63, 66, 68, 73]
+Shot Features Length: 11
+Video number: 281
+Video ID: 54b8c1ae26a16400c15badbae407c809b3ebf03c.flv
+Shot Timestamps: [1, 5, 8, 10, 21, 38, 41, 43, 46, 47, 49, 52, 53, 55, 57, 59, 60, 63, 66, 67, 73, 78, 79, 81, 82, 83, 85, 86, 88, 89, 91, 95, 104, 105, 123, 133, 143, 147, 149, 183, 189, 195, 198, 232, 242, 245, 250, 254, 281, 291, 311, 327, 329, 331, 333, 338, 369, 372, 381, 385, 393, 400, 409, 413, 473, 478, 483, 494, 500, 505, 509, 510, 533, 551, 555, 567, 585, 603, 609, 620, 634, 639, 643, 649, 688, 692, 695, 707, 710, 716, 720, 729, 732, 747, 755, 758, 760, 768, 797, 799, 815, 819, 842, 845, 847, 849, 855, 899, 904, 923, 927, 943, 944, 947, 950, 975, 981, 1000, 1005, 1016, 1023, 1027, 1045, 1049, 1077, 1087, 1105, 1117, 1127, 1140, 1147, 1161, 1165, 1170, 1189, 1196, 1207, 1264, 1266, 1267, 1269, 1277, 1285, 1287, 1289, 1297, 1299, 1302, 1308, 1310, 1311, 1313, 1314, 1315, 1317, 1318, 1319, 1321, 1322, 1323, 1325, 1328, 1332, 1336, 1338, 1339, 1341, 1342, 1343, 1345, 1359, 1365, 1369]
+Shot Features Length: 173
+Video number: 282
+Video ID: 55dde762dc283ee301065f670b6d7c08c3c32668.flv
+Shot Timestamps: [18, 20, 23, 36, 39, 42, 43, 47, 49, 51, 60, 61, 72, 90, 93, 96, 98, 102, 104, 107, 109, 111, 114, 121, 123, 124, 129, 130, 133, 134, 135, 137, 141, 142, 143, 146, 150]
+Shot Features Length: 37
+Video number: 283
+Video ID: 66246823d79897fd7d93677c6c0244a3cbd4657f.flv
+Shot Timestamps: [11, 14, 17, 18, 22, 24, 26, 35, 36, 47, 65, 68, 69, 73, 74, 77, 79, 80, 84, 85, 87, 91, 93, 94, 95, 98, 103, 107, 108, 115, 118, 119]
+Shot Features Length: 32
+Video number: 284
+Video ID: 69bcf906c79504494d9f23192f4801b61b4fd966.flv
+Shot Timestamps: [2, 15, 18, 21, 22, 27, 28, 30, 38, 41, 52, 68, 72, 75, 77, 81, 82, 86, 88, 89, 93, 99, 102, 103, 108, 109, 112, 115, 120, 122, 125, 128, 132, 134, 136, 140, 142, 143]
+Shot Features Length: 38
+Video number: 285
+Video ID: 750357acf34899c1c99eb2ae22880c88a776c946.flv
+Shot Timestamps: [7, 25, 28, 30, 31, 33, 35, 40, 41, 43, 46, 48, 50, 53]
+Shot Features Length: 14
+Video number: 286
+Video ID: 7c34e7d6022bcd3c7c225feed3fca1e8e72249a4.flv
+Shot Timestamps: [2, 4, 14, 32, 35, 36, 40, 41, 45, 51, 53, 58, 62, 65, 68, 70, 75, 78, 81, 82, 83, 84, 89, 91, 99]
+Shot Features Length: 25
+Video number: 287
+Video ID: 855f0c045b8b0f8f74a6e8a8d7cfc4aff5fbcc4b.flv
+Shot Timestamps: [3, 4, 6, 9, 11, 17, 19, 30, 38, 69, 70, 72, 86, 87, 103, 110, 114, 116, 119, 134, 136, 139]
+Shot Features Length: 22
+Video number: 288
+Video ID: 8cd04dbb4576f83ebe1f480d6a33a24c3a5882bd.flv
+Shot Timestamps: [7, 9, 20, 37, 40, 41, 45, 47, 51, 56, 58, 66, 68, 70, 73, 75, 81, 83, 87, 88]
+Shot Features Length: 20
+Video number: 289
+Video ID: 8f95e2c9940b1ea46fa23702ca70f4cbefd9e3ef.flv
+Shot Timestamps: [6, 8, 19, 36, 39, 40, 44, 45, 50, 51, 52, 55, 57, 62, 66, 69, 71, 79, 87]
+Shot Features Length: 19
+Video number: 290
+Video ID: 9d4fe306b83253fdd9734daaf6d56df5a5ec648f.flv
+Shot Timestamps: [4, 17, 34, 37, 39, 43, 44, 45, 46, 47, 49, 50, 53]
+Shot Features Length: 13
+Video number: 291
+Video ID: 9e9f2730f5f2bb277d07f7125372352597274f6b.flv
+Shot Timestamps: [5, 7, 18, 35, 38, 39, 43, 45, 49, 54, 56, 61, 66, 68, 71, 73, 79]
+Shot Features Length: 17
+Video number: 292
+Video ID: 9efa8c1165cc587476f284ecda53b88c9fd92697.flv
+Shot Timestamps: [4, 17, 34, 37, 39, 43, 44, 45, 46, 47, 49, 50, 53]
+Shot Features Length: 13
+Video number: 293
+Video ID: a9edef40077c3d7c638dae4a24a83bf6e42b34b1.flv
+Shot Timestamps: [5, 7, 25, 35]
+Shot Features Length: 4
+Video number: 294
+Video ID: b728eae73b1705d4ef3884b5d536273c5cb47fbd.flv
+Shot Timestamps: [5, 6, 17, 35, 38, 39, 43, 44, 48, 54, 56, 61, 65, 68, 71, 73, 78, 80, 84, 85, 86, 87]
+Shot Features Length: 22
+Video number: 295
+Video ID: c6d6d37c73f364e3902407e1da07c8e354f66c13.flv
+Shot Timestamps: [5, 7, 8, 17, 30, 47, 50, 52, 56, 57, 61, 66, 68, 74, 78, 80, 83, 85, 91, 93, 97, 98, 100, 101, 105, 107, 112, 114, 116, 120, 124, 128, 136, 137, 140, 142, 149, 156, 159, 192, 198, 204, 208, 254, 260, 264, 291, 300, 328, 335, 340, 379, 381, 383, 388, 392, 394, 398, 409, 419, 423, 482, 488, 493, 504, 509, 514, 518, 523, 528, 531, 533, 536, 538, 560, 564, 577, 582, 592, 594, 612, 620, 643, 648, 653, 671, 673, 675, 684, 691, 692, 699, 701, 704, 717, 719, 725, 730, 739, 741, 756, 764, 768, 769, 777, 806, 808, 825, 828, 852, 854, 857, 859, 865, 909, 914, 932, 936, 952, 956, 960, 984, 990, 1009, 1015, 1026, 1032, 1036, 1055, 1059, 1087, 1096, 1115, 1126, 1156, 1171, 1175, 1179, 1198, 1205, 1216, 1273, 1276, 1277, 1280, 1283, 1287, 1288, 1292, 1295, 1308, 1310]
+Shot Features Length: 152
+Video number: 296
+Video ID: d083d6a9a987fb0e37dddc0f134704a29677899c.flv
+Shot Timestamps: [6, 8, 19, 36, 40, 41, 44, 46]
+Shot Features Length: 8
+Video number: 297
+Video ID: df097cb467b3a43683f48082099cfdfddae84f37.flv
+Shot Timestamps: [4, 17, 34, 37, 39, 43, 44, 45, 46, 47, 49, 50, 53]
+Shot Features Length: 13
+Video number: 298
+Video ID: e29e65d0e362b8e7d450d833227ea3c0f5f65f12.flv
+Shot Timestamps: [2, 4, 14, 32, 35, 36, 40, 41, 45, 51, 53, 58, 62, 65, 68, 70, 75, 78, 81, 82, 83, 84, 89, 91, 99]
+Shot Features Length: 25
+Video number: 299
+Video ID: e2cecbbd4e5683a610152e4b0e83deaa5090384a.flv
+Shot Timestamps: [1, 6, 9, 10, 12, 23, 24, 26, 27, 28, 31, 33, 34, 40, 43, 44, 46, 47, 49, 50, 53, 54, 55, 56, 59, 61, 62, 65, 68, 69, 70, 73, 75, 76, 77, 78, 82, 84, 90, 92, 93, 95, 98, 100, 105, 106, 107, 108, 109, 110, 113, 116, 121, 125]
+Shot Features Length: 54
+Video number: 300
+Video ID: ea224722e7d3ef9c44d8140a2e435469384204d8.flv
+Shot Timestamps: [3, 7, 9, 12, 15, 28, 31, 33, 35, 39, 40, 41, 42, 43, 51, 53, 64, 69, 73, 81, 83, 84, 86, 89, 91, 92, 93, 94, 95, 99, 100, 102, 103, 104, 105, 106, 107, 108, 110, 115, 116, 121, 122, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 135, 137, 138, 147, 151, 166, 172, 174, 176, 187, 190, 192, 193, 196]
+Shot Features Length: 67
+Video number: 301
+Video ID: f410b354eec142d6e0f1124bffe6aad83d8dc427.flv
+Shot Timestamps: [3, 4, 9, 10, 12, 21, 23, 33, 51, 54, 56]
+Shot Features Length: 11
+Video number: 302
+Video ID: fca7e9c46b6ec4b8cb53ff17d93bef484a341c5b.flv
+Shot Timestamps: [3, 5, 7, 11, 13, 14, 15, 23, 25, 36, 47, 53, 56, 58, 59, 61, 63, 66, 67, 69, 72, 74, 75, 76, 79, 82, 83, 84, 85, 86, 87, 88, 91, 95, 97, 103, 105, 106, 109, 112, 113, 118, 119, 122, 123, 126, 134, 139, 144, 145, 148, 155, 157, 162, 167]
+Shot Features Length: 55
+Video number: 303
+Video ID: 0c3c3c22cd9caef7491e07a3176e6e27a0ef06a2.flv
+Shot Timestamps: [33, 34, 35, 58, 77, 79, 80, 97, 98]
+Shot Features Length: 9
+Video number: 304
+Video ID: 275ca13a391d89d08b7de46c23c4430070c3251c.flv
+Shot Timestamps: [1, 4, 12, 16, 18, 19, 26, 30, 56, 57, 59, 62, 64, 112, 114, 137, 156, 159, 177, 178, 180, 185]
+Shot Features Length: 22
+Video number: 305
+Video ID: 4f1435d832285500d7663d893b9eeba69262321a.flv
+Shot Timestamps: [2, 6, 9, 12, 14, 39, 40, 44, 46, 95, 96, 120, 138, 140, 159, 162, 165]
+Shot Features Length: 17
+Video number: 306
+Video ID: 5567a1bb5b9767342dc99baea8d67508ca22c046.flv
+Shot Timestamps: [2, 6, 9, 12, 14, 39, 40, 44, 46, 95, 96, 120, 138, 140, 159, 162, 165]
+Shot Features Length: 17
+Video number: 307
+Video ID: 64c86092addbb5b3de44a4412d52509fdda5c38c.flv
+Shot Timestamps: [1, 4, 12, 16, 18, 19, 20, 22, 23, 26, 28, 30, 47, 52, 56, 58, 59, 62, 63, 64, 65, 112, 114, 115, 118, 120]
+Shot Features Length: 26
+Video number: 308
+Video ID: 980970c70070421c46fb122e7a6ebc59682e697d.flv
+Shot Timestamps: [1, 4, 12, 16, 18, 19, 26, 30, 56, 57, 59, 62, 64, 112, 114, 137, 156, 159, 177, 178, 180, 185]
+Shot Features Length: 22
+Video number: 309
+Video ID: a5df43e25319b10af46225849677bd30b916ce81.flv
+Shot Timestamps: [1, 4, 12, 16, 18, 19, 26, 30, 56, 57, 59, 62, 64, 112, 114, 137, 156, 159, 177, 178, 180, 185]
+Shot Features Length: 22
+Video number: 310
+Video ID: ab2879d4e100749bb69b5892c86778853022af77.flv
+Shot Timestamps: [1, 4, 12, 16, 18, 19, 26, 30, 56, 57, 59, 62, 64, 112, 114, 137, 156, 159, 177, 178, 180, 185]
+Shot Features Length: 22
+Video number: 311
+Video ID: af580b9a475c8f5c4143ab604f85751a68e3beb1.flv
+Shot Timestamps: [2, 6, 9, 12, 14, 39, 40, 44, 46, 95, 96, 120, 138, 140, 159, 162, 165]
+Shot Features Length: 17
+Video number: 312
+Video ID: b88ae034eae2bb791dd880f003eb73882380a488.mp4
+Shot Timestamps: [1, 3, 4, 5, 7, 8, 9, 11, 12, 22, 25, 27, 28, 30, 31, 33, 35, 37, 38, 40, 42, 43, 44, 45, 47, 48, 56, 61, 63, 65, 67, 85, 88, 94, 95, 96, 100, 119, 121, 129, 130, 131, 133, 135, 136, 138, 139, 140, 142, 143, 144, 146, 148, 152, 155]
+Shot Features Length: 55
+Video number: 313
+Video ID: d909ebd329acb38fdfd631252e05c273e58e60d3.mp4
+Shot Timestamps: [2, 6, 9, 12, 14, 34, 39, 40, 44, 46, 95, 96, 120, 138, 140, 159, 162, 165]
+Shot Features Length: 18
+Video number: 314
+Video ID: 067fb2aa9623905a42a2b0b286de1386e45c5bf8.flv
+Shot Timestamps: [3, 6, 9, 14, 18, 24, 28, 29, 30, 32, 39, 52, 58, 66, 68, 69, 70, 72, 73, 74, 76, 77, 78, 80, 82, 83, 84, 85, 86, 88, 89, 91, 93, 94, 98, 99, 100, 101, 104, 105, 106, 107, 108, 110, 112, 114, 117, 119, 120, 122, 123, 124, 126, 127, 128, 130, 131, 132, 133, 134, 136, 137, 138]
+Shot Features Length: 63
+Video number: 315
+Video ID: 1777dc7aada63176bc9d3d87a5ce322163cfe4e6.flv
+Shot Timestamps: [2, 3, 5, 6, 8, 9, 11, 12, 13, 15, 17, 20, 22, 25, 28, 31, 33, 34, 36, 38, 42, 44, 46, 48, 51, 54, 60, 62, 63, 65, 69, 73, 74, 75, 80, 92, 94, 95, 101]
+Shot Features Length: 39
+Video number: 316
+Video ID: 1e5aec100a5b897342a4be9246995fc16f784e66.flv
+Shot Timestamps: [9, 40, 81, 95, 99, 100, 102, 108, 118, 119, 138, 154, 156, 161, 162, 170, 175, 180, 184, 188, 190, 191, 193, 195, 196, 199, 200, 204, 207, 210, 212, 213, 214, 217, 219, 220, 221, 222, 223, 225, 228, 231, 234, 240, 242, 243, 244, 246, 247, 250, 254, 255, 256, 261, 273, 276, 277, 283, 287, 297, 309, 314, 315, 316, 317, 319, 327, 334, 342, 352, 361, 380, 405, 413, 418, 421, 423, 428, 431, 438, 456, 457, 500, 504]
+Shot Features Length: 84
+Video number: 317
+Video ID: 7ac8224504f430258be5cf7c3e21bd2611fa7c77.flv
+Shot Timestamps: [4, 6, 7, 9, 10, 12, 13, 14, 16, 17, 19, 21, 22, 24, 25, 29, 32, 35, 37, 38, 40, 42, 43, 44, 46, 48, 50, 52, 55, 58, 64, 66, 67, 68, 69, 72, 73, 77, 78, 79, 84, 87, 91, 94, 96, 99, 101, 102, 103, 104, 105, 106, 108, 109, 111, 113, 114, 116, 117, 118, 119, 120, 121, 124, 125, 126, 131, 133, 135, 143, 152, 159, 160, 164, 168, 173, 174, 177, 183, 186, 192, 195, 200, 201, 202, 207, 209, 210, 212, 219, 221, 226, 234, 235, 236, 237, 238, 239, 241, 243, 245, 246, 248, 249, 254, 255, 258, 259, 260, 262, 263, 264, 265, 266, 267, 268, 270, 271, 272, 274, 275, 276, 277, 278, 296, 298, 301, 304, 315, 317, 318, 319, 320, 321, 322, 323, 326, 328, 332, 340, 341, 343, 344, 347, 349, 350, 351, 353, 354, 355, 356, 357, 360, 361, 362, 363, 364, 365, 366, 368, 389, 390, 391, 395, 400, 406, 412, 414, 416, 417, 418, 419, 420, 421, 422, 423, 424, 428, 429, 430, 431, 432, 433, 434, 436, 443, 446, 447, 448, 449, 451, 452, 453, 454, 456, 464, 473, 474, 479, 497, 500, 502, 503, 505, 506, 507, 508, 510, 511, 532, 540, 556, 562, 565, 569, 570, 574, 580, 582, 583, 588, 594, 598, 608, 619, 625, 630, 634, 637, 641, 642, 643, 646, 653, 660, 667, 677, 683, 690, 692, 694, 695, 705, 722, 724, 728, 733, 745, 751, 756, 763, 795, 798, 805, 806, 820, 825, 829, 861, 871, 890, 917]
+Shot Features Length: 262
+Video number: 318
+Video ID: 8f19329946455ae5c2c7b788ea6f6513bf5e1c9a.flv
+Shot Timestamps: [3]
+Shot Features Length: 1
+Video number: 319
+Video ID: b545808db002bde2b5f478efbb57e5fe62a8f324.flv
+Shot Timestamps: [3, 4, 5, 7, 8, 10, 11, 14, 16, 17, 18, 20, 21, 23, 26, 30, 33, 35, 36, 38, 39, 40, 42, 45, 48, 51, 54, 57, 60, 62, 65, 66, 68, 72, 75, 76, 78, 84, 87, 89, 96, 98, 100, 106, 107, 109, 111, 114, 118, 119, 121, 124, 128, 132, 138, 143, 148, 158, 162]
+Shot Features Length: 59
+Video number: 320
+Video ID: c39a06345b2c3b563c5f8a43dfef7541cf8f0e61.flv
+Shot Timestamps: [3, 4, 5, 7, 8, 10, 11, 14, 16, 17, 18, 20, 21, 23, 26, 30, 33, 35, 36, 38, 39, 40, 42, 45, 48, 51, 54, 57, 60, 62, 65, 66, 68, 70, 72, 75, 76, 78, 84, 87, 89, 96, 98, 100, 106, 107, 109, 111, 114, 118, 121, 124, 128, 132, 138, 143, 148, 158, 162]
+Shot Features Length: 59
+Video number: 321
+Video ID: da8b354493c2707adb8f361814cd2af92a7a040d.flv
+Shot Timestamps: [3, 4, 5, 7, 8, 10, 11, 14, 16, 17, 18, 20, 21, 23, 26, 30, 33, 35, 36, 38, 39, 40, 42, 45, 48, 51, 54, 57, 60, 62, 65, 66, 68, 72, 75, 76, 78, 84, 87, 89, 96, 98, 100, 106, 107, 109, 111, 114, 118, 119, 121, 124, 128, 132, 138, 143, 148, 158, 162]
+Shot Features Length: 59
+Video number: 322
+Video ID: 0421e862855ae81fd14e804d0758ab7917b5335c.flv
+Shot Timestamps: [7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 24, 25, 26, 27, 28, 30, 32, 36, 38, 40, 42, 43, 46, 47, 48, 49, 51, 53, 55, 59, 61, 62, 64, 67, 69, 70, 71, 74, 76, 81, 82, 84, 85, 86, 87, 92, 100]
+Shot Features Length: 48
+Video number: 323
+Video ID: 1a9a30abe7dee2eaa52c82490ee117cc399f583e.flv
+Shot Timestamps: [1, 2, 3, 18, 19, 20, 26, 31, 32, 33, 37, 43, 46, 47, 48, 49, 51, 52, 54, 55, 56, 58, 59, 63, 66, 73, 74, 75, 76, 77, 78, 81, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 101, 102, 103, 104, 105, 107, 108, 110, 112, 116, 117, 118, 119, 122, 123, 124, 127, 128, 129, 130, 131, 132, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150, 152, 155, 156, 157, 158, 159, 160, 162, 163, 164, 165, 166, 167, 168, 169, 170, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 198, 199, 200, 202, 203, 204, 205, 206, 208, 209, 210, 211, 212, 213, 215, 216, 217, 218, 219, 221, 223, 224, 225, 227, 228, 229, 230, 237, 238, 239, 240, 241, 245, 246, 249, 253, 258, 259, 260, 261, 262, 263, 264, 268, 269, 270, 271, 272, 274, 276, 277, 278, 279, 285, 286, 289, 291, 292, 293, 294, 295, 297, 298, 300, 303, 305, 306, 307, 308, 309, 312, 313, 314, 315, 316, 317, 319, 320, 321, 322, 323, 324, 325, 327, 328, 330, 331, 332, 333, 334, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 358, 366, 367, 368, 373, 374, 375, 376, 377, 386, 394, 395, 396, 397, 398, 399, 401, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 419, 420, 421, 422, 424, 426, 429, 430, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 443, 444, 445, 448, 449, 450, 451, 452, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 469, 471, 472, 473, 474, 475, 476, 478, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 512, 513, 514, 515, 516, 518, 519, 520, 526, 528, 529, 530, 532, 541, 543, 544, 545, 546, 547, 552, 553, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 575, 576, 577, 578, 579, 580, 582]
+Shot Features Length: 373
+Video number: 324
+Video ID: 200130e0c39f0239a22ad3f873feac30e88134df.flv
+Shot Timestamps: [1, 2, 3, 4]
+Shot Features Length: 4
+Video number: 325
+Video ID: 25b4ccc2b3166b565dde7192ed3b7b43921439dd.flv
+Shot Timestamps: [4, 9, 12, 13, 14, 16, 17, 19, 20, 23, 25, 27, 31, 32, 34, 38, 43, 44, 46, 48, 49, 54, 55, 56, 58, 59, 60, 62, 63, 64, 67, 68, 70, 71, 72, 73, 77, 82, 83, 86, 95, 98, 100, 101, 102, 103, 105, 108, 109, 114, 116, 117, 118, 120, 122, 123, 124, 125, 126, 128, 130, 133, 134, 135, 138, 140, 141, 142, 146, 148, 150, 152, 154, 155, 156, 158, 159, 161, 162, 163, 168, 169, 170, 171, 175, 177, 178, 180, 182, 183, 184, 186, 188, 190, 194, 195, 196, 200, 201, 202, 204, 206, 209, 213, 217, 218, 220, 235, 236, 237, 239, 240, 245, 246, 249, 255]
+Shot Features Length: 116
+Video number: 326
+Video ID: 25ba77da725f9247cf8a84bb370cf40ac74297d2.flv
+Shot Timestamps: [14, 16, 17, 18, 20, 21, 22, 24, 25, 26, 30, 31, 32, 34, 36, 37, 38, 52, 54, 56, 61, 66, 67, 68, 69, 72, 78, 80, 81, 82, 83, 86, 88, 89, 90, 92, 94, 98, 101, 108, 110, 111, 112, 114, 116, 117, 118, 120, 121, 122, 123, 124, 126, 127, 128, 130, 131, 132, 133, 134, 136, 137, 138, 139, 140, 142, 143, 148, 151, 153, 154, 157, 158, 162, 164, 165, 166, 168, 170, 172, 173, 174, 176, 177, 178, 179, 180, 182, 183, 184, 186, 187, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 204, 205, 206, 207, 208, 210, 211, 212, 213, 214, 216, 217, 218, 219, 220, 222, 223, 224, 226, 227, 228, 229, 231, 232, 234, 235, 237, 238, 239, 240, 242, 243, 244, 245, 246, 248, 249, 250, 251, 252, 254, 255, 258, 259, 260, 262, 263, 264, 265, 268, 269, 271, 272, 274, 275, 280, 281, 282, 284, 287, 288, 292, 293, 294, 296, 297, 298, 301, 302, 304, 306, 308, 309, 310, 316, 319, 322, 323, 324, 326, 327, 328, 330, 331, 332, 336, 337, 338, 340, 341, 343, 344, 346, 347, 348, 351, 352, 354, 355, 356, 358, 359, 360, 362, 363, 364, 366, 367, 368, 369, 370, 372, 373, 374, 375, 376, 378, 379, 396, 397, 398, 402, 404, 405, 406, 414, 416, 417, 418, 419, 420, 422, 427, 428, 430, 431, 432, 433, 434, 436, 437, 438, 439, 440, 442, 443, 444, 445, 446, 448, 450, 451, 452, 454, 455, 456, 458, 459, 460, 462, 463, 464, 465, 466, 469, 470, 472, 473, 474, 476, 477, 478, 479, 480, 482, 483, 484, 485, 486, 488, 490, 492, 493, 495, 496, 498, 500, 501, 502, 504, 505, 506, 507, 508, 510, 511, 512, 514, 515, 516, 517, 518, 520, 521, 522, 524, 525, 526, 527, 528, 530, 531, 534]
+Shot Features Length: 316
+Video number: 327
+Video ID: 283043f1c1433d9205416d2922764421d3d7e34e.flv
+Shot Timestamps: [3, 4, 5, 7, 10, 12, 15, 17, 18, 20, 21, 22, 24, 26, 27, 28, 30, 31, 32, 33, 35, 38, 39, 44, 46, 48, 50, 51, 52, 54, 56, 57, 61, 63, 64, 65, 66, 68, 69, 70, 72, 73, 74, 77, 78, 80, 82, 83, 87, 88, 90, 91, 92, 94, 95, 96, 98, 99, 100, 101, 103, 104, 105, 123, 125, 126, 131, 132, 138, 143, 148, 158, 162]
+Shot Features Length: 73
+Video number: 328
+Video ID: 31a250020d2cd699bc5fc42897f7522043713cf5.flv
+Shot Timestamps: [1, 2, 3, 4, 5]
+Shot Features Length: 5
+Video number: 329
+Video ID: 5aff6ecadb439bb9c16a215188258f9474052fae.flv
+Shot Timestamps: [3, 4, 6, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22, 25, 26, 27, 28, 30, 33, 35, 36, 37, 41, 42, 44, 50, 52, 56, 57, 60, 61, 62, 63, 67, 68, 75, 76, 77, 78, 82, 86, 88, 91, 92, 99, 100, 103, 107, 110, 111, 112, 119, 120, 122, 124, 127, 128, 130, 131, 133, 136, 138, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 156, 157, 159, 163, 169, 171, 172, 181, 186, 187, 188, 190, 194, 195, 198, 199, 204, 209, 212, 216, 219, 223, 227, 228, 229, 233, 236, 238, 239, 240, 241, 242, 243, 246, 247, 248, 249, 250, 251, 253, 254, 255, 257, 258, 259, 261, 262, 264, 265, 266, 267, 268, 270, 271, 273, 274, 277, 278, 279, 283, 284, 285, 287, 288, 291, 292, 294, 296, 297, 298, 299, 301, 302, 303, 304, 305, 309, 313, 314, 316, 317, 318, 320]
+Shot Features Length: 159
+Video number: 330
+Video ID: 694b83f937e8ae9a390c5ed1004d5ef1f8643ae4.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 34, 35, 37, 39, 42, 44, 46, 49, 50, 54, 56, 57, 58, 59, 62, 63, 64, 65, 66, 67, 68, 69, 71, 72, 73, 74, 76, 77, 78, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 123, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 140, 141, 142, 143, 145, 146, 147, 149, 151, 152, 153, 154, 155, 156, 162, 164, 165, 166, 167, 172, 173, 175, 179, 184, 185, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 197, 200, 201, 202, 203, 204, 206, 208, 210, 214, 215, 217, 218, 219, 220, 221, 223, 224, 225, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 240, 243, 244, 246, 247, 248, 249, 250, 251, 252, 254, 255, 256, 257, 260, 261, 262, 263, 264, 265, 266, 267, 271]
+Shot Features Length: 200
+Video number: 331
+Video ID: 7033506abf8c15d8f22f26f9ad88dd531cbffb8f.flv
+Shot Timestamps: [14, 15, 17, 18, 20, 21, 22, 24, 25, 30, 31, 33, 34, 35, 36, 38, 40, 54, 55, 57, 63, 68, 69, 70, 71, 73, 74, 80, 83, 85, 86, 89, 91, 92, 93, 95, 98, 105, 106, 111, 113, 114, 115, 116, 118, 120, 121, 123, 124, 125, 126, 128, 129, 130, 131, 133, 139, 149, 155, 159, 163]
+Shot Features Length: 61
+Video number: 332
+Video ID: 704ed7f6755163d92e4344ede58a30e14ceb5ed4.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 6, 8, 10, 12, 17, 20, 21, 22, 29, 31, 32, 35, 36, 38, 41, 44, 45, 48, 49, 51, 52, 53, 55, 56, 57, 58, 60, 61, 62, 63, 65, 66, 68, 69, 71, 74, 80, 86, 90, 93, 95, 96, 98, 99, 100, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 128, 130, 131, 133, 135, 141, 145, 146, 147, 150, 151, 152, 153, 154, 156, 157, 159, 160, 161, 162, 163, 164, 165, 167, 168, 169, 170, 171, 172, 174, 175, 176, 177, 179, 180, 181, 182, 183, 184, 185, 186, 191, 193, 194, 197, 201, 203, 206, 207, 208, 209, 210, 212, 213, 214, 215, 216, 218, 219, 220, 223, 224, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 244, 246, 247, 249, 251, 252, 253, 254, 256, 257, 258, 259, 261, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 278, 279, 280, 281, 282, 283, 292, 296, 298, 299, 300, 301, 304, 305, 306, 307, 308, 310, 311, 313]
+Shot Features Length: 194
+Video number: 333
+Video ID: 743b4b30bf4fa11e3231dd0cc319016db1cb5b73.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 6, 8, 10, 12, 17, 20, 21, 22, 29, 31, 32, 35, 36, 38, 41, 44, 45, 48, 49, 51, 52, 53, 55, 56, 57, 58, 60, 61, 62, 63, 65, 66, 68, 69, 71, 74, 80, 86, 90, 93, 95, 96, 98, 99, 100, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 128, 130, 131, 133, 135, 141, 145, 146, 147, 150, 151, 152, 153, 154, 156, 157, 159, 160, 161, 162, 163, 164, 165, 167, 168, 169, 170, 171, 172, 174, 175, 176, 177, 179, 180, 181, 182, 183, 184, 185, 186, 191, 193, 194, 197, 201, 203, 206, 207, 208, 209, 210, 212, 213, 214, 215, 216, 218, 219, 220, 223, 224, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 244, 246, 247, 249, 251, 252, 253, 254, 256, 257, 258, 259, 261, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 278, 279, 280, 281, 282, 283, 292, 296, 298, 299, 300, 301, 304, 305, 306, 307, 308, 310, 311, 313]
+Shot Features Length: 194
+Video number: 334
+Video ID: 7759574accbb8bf3b47365c39f31ba8a728481c4.flv
+Shot Timestamps: [24, 32, 33, 35, 36, 37, 38, 40, 41, 43, 45, 46, 47, 48, 50, 51, 52, 54, 57, 59, 63, 65, 67, 68, 69, 70, 72, 73, 75, 76, 77, 78, 80, 81, 82, 84, 85, 86, 88, 89, 90, 92, 93, 94, 95, 97, 98, 100, 109, 112, 114, 115, 116, 118, 119, 120, 121, 122, 124, 125, 127, 128, 129, 130, 132, 134, 135, 138, 140, 141, 142, 145, 146, 147, 148, 150, 151, 152, 153, 155, 156, 158, 159, 160, 162, 163, 165, 166, 168, 169, 170, 171, 172, 178, 179, 180, 181, 182, 187, 188, 190, 191, 194, 195, 199, 200, 202, 203, 205, 206, 208, 209, 211, 212, 213, 215, 216, 218, 220, 221, 222, 223, 225, 226, 228, 229, 230, 231, 232, 234, 235, 237, 238, 239, 240, 243, 244, 258]
+Shot Features Length: 138
+Video number: 335
+Video ID: 81898f5820b268138f9c80284d0118105ffc3712.flv
+Shot Timestamps: [15, 16, 17, 20, 23, 26, 32, 36, 43, 50, 52, 55, 56, 60, 68, 74, 76, 77, 78, 80, 84, 87, 88, 89, 90, 92, 94, 95, 96, 100, 102, 103, 124, 127, 130, 132, 136, 138, 139, 141, 143, 148, 150, 156, 157, 158, 160, 161, 162, 164, 166, 167, 168, 169, 173, 176, 178, 180, 181, 182, 187, 188, 199]
+Shot Features Length: 63
+Video number: 336
+Video ID: 8bb9090a95a07edf2fd021d64335bf7b4f428eb2.flv
+Shot Timestamps: [25, 41, 53, 61, 64, 65, 66, 68, 69, 71, 73, 86, 89, 95, 99, 106, 110, 113, 120, 122, 143, 145, 146, 147, 148, 152, 153, 154, 155, 156, 157, 159, 160, 161, 163, 164, 165, 166, 168, 170, 171, 172, 174, 175, 176, 177, 178, 179, 180, 182, 183, 184, 185, 187, 188, 189, 193, 194, 196, 197, 198, 199, 200, 202, 204, 206, 207, 208, 209, 210, 213, 214, 215, 216, 217, 223, 224, 225, 226, 230, 231, 232, 237, 238, 239, 242, 243, 244, 245, 247, 249, 250, 252, 254, 256, 260, 261, 263, 264, 265, 268, 269, 270, 271, 272, 273, 275, 276, 277, 278, 279, 280, 282, 283, 284, 285, 286, 287, 288, 291, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 309, 310, 311, 312, 313, 314, 315, 316, 319, 320, 321, 323, 325, 327, 328, 329, 333, 335, 336, 337, 340, 341, 342, 343, 344, 345, 346, 350, 352, 353, 355, 356, 357, 359, 362, 367, 369, 370, 373, 374, 375, 379, 382, 383, 384, 385, 387, 388, 389, 393, 396, 397, 400, 401, 402, 403, 406, 413, 417, 418, 434, 435, 439, 441, 443, 444, 445, 446, 447, 448, 449, 450, 453, 454, 465, 470, 471, 475, 514, 535, 536]
+Shot Features Length: 211
+Video number: 337
+Video ID: 952cdd6aa1a8c2f63f9900960b3e18ffb217b97f.flv
+Shot Timestamps: [9, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 29, 32, 33, 34, 35, 37, 38, 39, 45, 51, 52, 53, 55, 61, 65, 66, 67, 68, 69, 71, 72, 77, 78, 80, 81, 84, 86, 87, 88, 89, 90, 92, 93, 94, 98, 101, 102, 107, 109, 110, 111, 112, 117, 119, 120, 121, 122, 124, 125, 126, 127, 128, 130, 131, 132, 133, 134, 135, 137, 138, 141, 142, 143, 145, 147, 156, 158, 161, 163, 165, 166, 167, 169, 170, 172, 175, 177, 178, 179, 182, 183, 185, 186, 187, 190, 191, 192, 193, 194, 196, 197, 198, 199, 200, 202, 203, 204, 205, 207, 208, 210, 211, 213, 214, 215, 216, 217, 218, 219, 220, 221, 223, 224, 225, 227, 229, 231, 233, 234, 238, 240, 241, 242, 243, 244, 245, 246, 248, 249, 250, 251, 253, 255, 259, 260, 261, 262, 263, 264, 272, 273, 274, 275, 279, 280, 287, 292, 293, 294, 295, 296, 297, 298, 301, 302, 304, 308, 310, 311, 314, 319, 321, 324, 325, 326, 327, 328, 331, 332, 334, 335, 337, 338, 339, 340, 341, 343, 344, 345, 346, 347, 348, 349, 350, 351, 354, 355, 356, 357, 359, 367, 368, 369, 373, 374, 375, 376, 377, 380, 382, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 410, 411, 413, 414, 417, 419, 421, 422, 424, 425, 427, 428, 430, 431, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 444, 445, 446, 447, 448, 449, 451, 452, 453, 454, 455, 456, 457, 458, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 485, 486, 487, 489, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 515, 517, 520, 521, 522, 523, 524, 526, 528, 530, 531, 532, 533, 535, 536, 537, 538, 544, 545, 549, 550, 551, 552, 553, 554, 555, 556, 558, 559, 560, 562, 563, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 578, 579, 582, 583, 584, 585, 586, 587, 588, 590, 591, 592, 594, 595, 596, 602, 603, 605, 607, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 626, 627, 628, 629, 630, 632, 633, 637, 638, 639, 640, 641, 642, 643, 644, 645, 647, 648, 652, 653, 655, 657, 660, 662, 663, 664, 665, 667, 668, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 713, 714, 717, 718, 719, 720, 721, 722, 723, 725, 726, 727, 728, 730, 731, 732, 736, 737, 738, 739, 740, 741, 743, 744, 745, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 758, 759, 760, 761, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 810, 811, 812, 813, 815, 816, 817, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 833, 835, 838, 839, 840, 843, 844, 845, 846, 847, 850, 851, 852, 853, 854, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870]
+Shot Features Length: 594
+Video number: 338
+Video ID: 96642d7998cdd226b395153b7d8f3d36655c0176.flv
+Shot Timestamps: [4, 6, 7, 19, 21, 22, 24, 30, 32, 34, 36, 40, 41, 47, 49, 50, 51, 52, 55, 56, 58, 59, 62, 63, 67, 70, 76, 78, 79, 80, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 94, 95, 96, 98, 99, 100, 101, 102, 104, 105, 106, 107, 109, 110, 112, 116, 120, 122, 123, 125, 126, 128, 129, 133, 134, 136, 137, 138, 139, 140, 142, 144, 147, 148, 149, 152, 154, 155, 156, 157, 158, 160, 161, 162, 163, 164, 166, 167, 168, 169, 172, 173, 174, 175, 176, 178, 179, 180, 181, 182, 184, 185, 186, 187, 188, 190, 191, 193, 195, 196, 198, 199, 200, 202, 203, 204, 206, 207, 208, 209, 211, 212, 213, 214, 216, 217, 219, 221, 222, 224, 225, 226, 227, 233, 234, 235, 236, 238, 249]
+Shot Features Length: 139
+Video number: 339
+Video ID: 9f3d3762943c662470d78368a29a067952a97933.flv
+Shot Timestamps: [2, 3, 5, 6, 7, 8, 11, 13, 15, 18, 20, 22, 23, 24, 25, 27, 29, 31, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 67, 68, 69, 70, 71, 73, 76, 78, 80, 81, 82, 83, 84, 86, 87, 89, 91, 92, 93, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 109, 111, 113, 114, 115, 117, 118, 119, 120, 121, 122, 124, 126, 127, 128, 129, 131, 135, 140, 141, 143, 144, 145, 148, 149, 150, 151, 152, 155, 156, 157, 158, 159, 162, 164, 165, 166, 168, 169, 170, 171, 173, 174, 176, 177, 179, 182, 183, 184, 186, 188, 190, 196]
+Shot Features Length: 130
+Video number: 340
+Video ID: a257de343d6734f0fc478da98cfedf773ea407a4.mp4
+Shot Timestamps: [12, 14, 16, 17, 19, 21, 22, 24, 26, 28, 29, 31, 33, 34, 36, 38, 41, 44, 46, 47, 49, 51, 53, 54, 56, 61, 63, 65, 67, 69, 71, 72, 78, 81, 83, 84, 86, 88, 90, 91, 93, 96, 99, 101, 103, 104, 106, 109, 111, 113, 115, 116, 118, 120, 122, 123, 125, 127, 128, 130, 132, 134, 137, 139, 140, 142, 144, 146, 147, 151, 153, 154, 156, 159, 160, 163, 165, 169, 171, 174, 176, 178, 179, 181, 183, 184, 186, 188, 190, 191, 193, 195, 196, 199, 201, 202, 204, 206, 208, 209, 211, 213, 215, 216, 218, 220, 221, 223, 225, 227, 228, 230, 232, 234, 235, 237, 239, 240, 242, 246, 248, 250, 252, 253, 255, 257, 259, 260, 262, 264, 265, 267, 269, 271, 272, 274, 276, 277, 279, 281, 283, 284, 289, 290, 293, 295, 297, 299, 302, 303, 305, 307, 308, 310, 312, 314, 315, 317, 319, 321, 322, 324, 326, 327, 329, 331, 333, 334, 336, 338, 340, 341, 343, 345, 347, 349, 351, 352, 354, 356, 358, 359, 361, 363, 364, 366, 368, 370, 371, 373, 375, 377, 378, 380, 382, 383, 385, 387, 389, 390, 392, 396, 398, 400, 406, 408, 410, 412, 414, 415, 417, 419, 421, 422, 424, 429]
+Shot Features Length: 216
+Video number: 341
+Video ID: aa314017a4a18f05208d8702c27d16d57df3f55f.mp4
+Shot Timestamps: [1, 15, 18, 19, 20, 24, 31, 37, 40, 42, 43, 46, 47, 49, 54, 57]
+Shot Features Length: 16
+Video number: 342
+Video ID: aba6851ca7f78f3a83216005bef58766e3dfb26d.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 6]
+Shot Features Length: 6
+Video number: 343
+Video ID: bdce7faffa2ce63db64ddab4fa10ac6752079020.flv
+Shot Timestamps: [1, 2, 4, 6, 7, 11, 13, 14, 20, 26, 28, 31, 36, 38, 41, 44, 45, 48, 49, 51, 52, 54, 55, 57, 58, 60, 61, 62, 63, 64, 66, 68, 70, 72, 73, 74, 75, 76, 78, 79, 80, 82, 84, 88, 90, 92, 94, 95, 98, 100, 101, 102, 104, 105, 106, 110, 112, 114, 115, 118, 120, 121, 123, 124, 125, 127, 128, 132, 134, 135, 138, 140, 141, 142, 143, 144, 146, 147, 148, 150, 152, 153, 154, 155, 158, 159, 160, 161, 162, 164, 166, 168, 171, 172, 173, 175, 176, 178, 179, 180, 181, 182, 185, 186, 188, 189, 190, 196, 198, 199, 200, 202, 203, 206, 212, 213, 214, 216, 229, 231, 232, 234, 235, 236, 238, 239, 240, 242, 243, 245, 246, 247, 248, 250, 252, 253, 255, 257, 259, 264, 267, 268, 270, 272, 273, 276, 277, 280, 281, 282, 283, 286, 288, 289, 290, 292, 298, 299, 300, 303, 304, 306, 307, 308, 310, 312, 313, 315, 316, 319, 320, 322, 324, 326, 328, 330, 334, 335, 337, 347, 349, 353, 358, 360, 364, 366, 367, 368, 370, 374, 376, 377, 378, 379, 380, 382, 383, 384, 387, 388, 390, 391, 393, 394, 396, 397, 398, 400, 401, 402, 403, 404, 406, 407, 410, 411, 412, 413, 414, 416, 417, 419, 424, 425, 427, 428, 430, 431, 432, 434, 439, 445, 446, 448, 449, 451, 452, 460, 462, 464, 465, 466, 468, 469, 472, 473, 475, 476, 477, 478, 480, 481, 485, 488, 491, 492, 494, 495, 496, 497, 498, 500, 502, 504, 511, 514, 515, 516, 518, 519, 521, 522, 524, 526, 528, 532, 534, 537, 539, 542, 546, 548, 552, 553, 554, 558, 562, 563, 565, 566, 567, 568, 570, 574, 575, 577, 578, 580, 581, 582, 583, 588, 590, 591, 592, 604, 607, 612, 614, 616, 618, 619, 620, 622, 623, 624, 625, 626, 633, 641, 645, 649, 665, 678, 682, 684, 685, 688, 719]
+Shot Features Length: 329
+Video number: 344
+Video ID: db06eed340d0873fc48b2129115f16c79c48678c.flv
+Shot Timestamps: [3, 4, 5, 7, 10, 12, 15, 17, 18, 20, 21, 22, 24, 26, 27, 28, 30, 31, 32, 33, 35, 38, 39, 44, 46, 48, 50, 51, 52, 54, 56, 57, 61, 63, 64, 65, 66, 68, 69, 70, 72, 73, 74, 77, 78, 80, 82, 83, 87, 88, 90, 91, 92, 94, 95, 96, 98, 99, 100, 101, 103, 104, 105, 123, 125, 126, 131, 132, 138, 143, 148, 158, 162]
+Shot Features Length: 73
+Video number: 345
+Video ID: e7831eba03ee7083a9d547fdde6adadaa05f3eeb.flv
+Shot Timestamps: [13, 16, 18, 26, 28, 30, 31, 33, 36, 37, 39, 40, 41, 44, 45, 46, 47, 48, 50, 51, 52, 54, 57, 58, 60, 61, 63, 66, 67, 70, 73, 74, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 89, 90, 91, 92, 93, 94, 95, 97, 98, 104, 105, 106, 107, 108, 110, 114, 119, 122, 123, 124, 125, 126, 129, 131, 132, 135, 136, 137, 140, 141, 142, 143, 145, 146, 147, 149, 150, 151, 152, 153, 155, 157, 158, 159, 160, 161, 162, 163, 165, 166, 170, 171, 173, 174, 175, 176, 177, 178, 179, 180, 183, 184, 185, 186, 190, 192, 193, 194, 203, 204, 206, 219, 220, 222, 226, 230, 238, 241, 258, 259, 270, 275, 277, 280, 319]
+Shot Features Length: 127
+Video number: 346
+Video ID: 010aeeb1a5d471418ceab8f8c0d5f34d84059cff.flv
+Shot Timestamps: [5, 10, 14, 18, 20, 21, 25, 27, 30, 35, 39, 40, 44, 47, 50, 52, 57, 58, 63, 67, 72, 73, 75, 78, 86, 87, 90, 95, 98, 99, 101, 102, 103, 104, 106, 107, 110, 112, 114, 115, 117, 118, 124, 127, 130, 132, 134, 136, 138, 141, 143]
+Shot Features Length: 51
+Video number: 347
+Video ID: 136eff8ef85eee42b2370ad6e444498980ba63a8.mp4
+Shot Timestamps: [4, 12, 18, 22, 25, 28, 32, 35, 37, 43, 47, 48, 54, 55, 58, 60, 64, 66, 75, 79, 80, 82, 85, 92, 95, 97, 102, 105, 107, 110, 111, 114, 115, 117, 120, 122, 123, 125, 126, 130, 132, 135, 138, 139, 142, 144, 146, 149, 150]
+Shot Features Length: 49
+Video number: 348
+Video ID: 16f1dd96af646d6ec01c5ec51c0fdfafd8206c0a.flv
+Shot Timestamps: [2, 6, 15, 20, 24, 28, 31, 35, 37, 38, 40, 41, 45, 49, 51, 54, 57, 58, 60, 62, 67, 68, 73, 78, 81, 83, 84, 86, 88, 89, 96, 98, 100, 101, 105, 108, 109, 112, 113, 114, 116, 117, 119, 120, 122, 125, 126, 128, 129, 134, 137, 140, 142, 144, 146, 148, 151, 152]
+Shot Features Length: 58
+Video number: 349
+Video ID: 1b1badb376661cc4822989e45505f66e23cb65e4.flv
+Shot Timestamps: [2, 8, 11, 14, 16, 26, 29, 37, 40, 56, 59, 62, 65, 70, 72, 75, 76, 82, 85, 89, 93, 97, 110, 138, 141, 145, 149, 152, 153, 158, 165, 170, 175, 182, 189, 192, 196, 200, 208, 209, 212, 214, 222, 225, 229, 232, 238, 242, 245, 247, 251, 255, 261, 265, 269, 279, 282, 289, 291, 294, 296, 300, 312, 316, 318, 320, 322, 326, 329, 361, 365, 373, 379, 383, 387, 390, 393, 398, 404, 408, 409, 415, 419, 421, 425, 428, 436, 440, 442, 454, 456, 458, 463, 466, 468, 471, 473, 475, 478, 481, 483, 484, 486, 488, 492, 496, 499, 500, 503, 505, 507, 512, 514, 519, 522, 538, 554, 557, 562, 572, 592, 600]
+Shot Features Length: 122
+Video number: 350
+Video ID: 1ca9e47028d5d38e082ff7fbac68fb24d4bafc4f.mp4
+Shot Timestamps: [7, 8, 12, 16, 20, 21, 22, 26, 28, 31, 32, 36, 40, 41, 45, 47, 48, 50, 52, 57, 58, 63, 67, 69, 71, 72, 74, 75, 76, 77, 84, 86, 88, 90, 93, 96, 97, 98, 100, 101, 102, 104, 105, 108, 110, 112, 113, 115, 116, 121, 124, 125, 127, 129, 131, 133, 135, 138, 139]
+Shot Features Length: 59
+Video number: 351
+Video ID: 20d29f3a064272395f59c40cc0c29e7f6c4ff48c.flv
+Shot Timestamps: [2, 8, 11, 14, 16, 26, 29, 37, 40, 56, 59, 62, 65, 70, 73, 75, 76, 82, 86, 89, 97, 105, 111, 138, 141, 145, 149, 152, 153, 158, 165, 170, 175, 182, 189, 192, 196, 200, 207, 209, 213, 222, 225, 229, 232, 239, 242, 244, 247, 251, 254, 261, 262, 266, 269, 279, 282, 289, 291, 294, 296, 300, 312, 316, 318, 320, 322, 326, 328, 361, 365, 373, 379, 383, 387, 390, 393, 396, 398, 404, 408, 415, 417, 419, 421, 425, 428, 436, 443, 455, 456, 458, 463, 466, 468, 471, 473, 475, 478, 481, 483, 484, 486, 488, 493, 496, 499, 501, 503, 505, 507, 512, 514, 519, 521, 538, 554, 557, 563, 588, 592, 600]
+Shot Features Length: 122
+Video number: 352
+Video ID: 23b0c2b21d1471204cd3e3a1de22e8d98849abfe.flv
+Shot Timestamps: [9, 15, 19, 22, 25, 29, 34, 40, 44, 51, 55, 57, 61, 63, 72, 78, 92, 94, 99, 102, 107, 108, 110, 114, 117, 119, 120, 122, 124, 129, 131, 132, 135, 136, 139, 141, 143, 148]
+Shot Features Length: 38
+Video number: 353
+Video ID: 2a3a855c1a79ccfda28c57c4a2bcdaa85c725787.flv
+Shot Timestamps: [2, 4, 10, 13, 16, 18, 24, 27, 29, 31, 37, 45, 49, 52, 56, 59, 61, 65, 73, 78, 83, 89, 92, 96, 100, 104, 107, 115, 116, 120, 121, 130, 132, 137, 140, 146, 151, 152, 155, 159, 160, 162, 166, 170, 172, 176, 180, 184, 185, 186, 188, 189, 191, 192, 194, 196, 197, 198, 200, 201, 202, 204, 209, 210, 215, 218, 220, 222, 224, 225, 226, 227, 229, 230, 231, 238, 239, 243, 244, 246, 247, 248, 249, 250, 252, 253, 254, 256, 257, 258, 260, 262, 265, 266]
+Shot Features Length: 94
+Video number: 354
+Video ID: 2cd2f88502bf8d74a3da0f257b47da823e0d42a0.flv
+Shot Timestamps: [23, 27, 35, 40, 44, 48, 50, 51, 54, 57, 59, 60, 64, 68, 73, 75, 77, 78, 80, 85, 86, 91, 95, 99, 102, 103, 105, 113, 114, 117, 118, 121, 124, 126, 128, 129, 130, 132, 133, 136, 138, 140, 142, 143, 145, 150, 152, 153, 155, 157, 159, 161, 163, 166, 167, 170, 172]
+Shot Features Length: 57
+Video number: 355
+Video ID: 2fe7b38b1cbdfdf5d6075ee2b2cd9fee2cf7d7c1.flv
+Shot Timestamps: [2, 10, 16, 20, 23, 25, 26, 30, 32, 34, 36, 40, 44, 45, 48, 51, 53, 54, 56, 60, 62, 66, 71, 75, 76, 77, 78, 80, 81, 88, 89, 92, 97, 100, 101, 103, 104, 106, 108, 109, 111, 114, 116, 117, 118, 120, 125, 127, 128, 131, 132, 135, 137, 139, 142]
+Shot Features Length: 55
+Video number: 356
+Video ID: 31c0c6ca1fb0a7c86e0aff458bffd0002d42ef3e.flv
+Shot Timestamps: [4, 6, 7, 38, 41, 50, 51, 55, 59, 62, 64, 65, 69, 71, 74, 75, 79, 82, 84, 88, 90, 91, 93, 95, 100, 101, 106, 110, 114, 115, 117, 118, 120, 127, 128, 131, 136, 139, 140, 142, 144, 145, 146, 148, 150, 153, 155, 156, 158, 159, 163, 164, 166, 168, 170, 172, 174, 176, 178, 181, 182, 185, 189]
+Shot Features Length: 63
+Video number: 357
+Video ID: 3325a3c9120eb6e7d55bf2963a52991f7f47538d.flv
+Shot Timestamps: [9, 15, 19, 22, 25, 29, 32, 34, 40, 44, 45, 49, 51, 55, 57, 61, 63, 68, 72, 78, 82, 90, 92, 94, 99, 102, 103, 106, 107, 108, 110, 114, 117, 119, 120, 122, 123, 128, 131, 132, 135, 136, 139, 141, 143, 146, 147]
+Shot Features Length: 47
+Video number: 358
+Video ID: 46b544ed68b9a32afb08f2509c1e6776e9807037.flv
+Shot Timestamps: [3, 12, 18, 21, 25, 27, 28, 32, 37, 43, 46, 48, 52, 54, 57, 59, 64, 66, 70, 75, 79, 81, 85, 86, 93, 94, 97, 102, 105, 106, 109, 110, 111, 112, 113, 114, 117, 119, 122, 123, 125, 126, 131, 135, 137, 139, 142, 144, 146, 150]
+Shot Features Length: 50
+Video number: 359
+Video ID: 481f7052a3be44d9f7d1f6d2f809c0a4f17cb175.mp4
+Shot Timestamps: [4, 8, 17, 22, 26, 30, 32, 33, 37, 39, 42, 43, 47, 51, 52, 56, 58, 59, 62, 64, 68, 70, 75, 79, 83, 84, 86, 87, 88, 89, 97, 98, 102, 103, 106, 110, 111, 113, 114, 115, 116, 117, 118, 122, 124, 126, 127, 129, 130, 131, 136, 138, 139, 142, 144, 146, 148, 150, 153, 154, 155, 157, 160]
+Shot Features Length: 63
+Video number: 360
+Video ID: 5b14829fbd7b9a97df21db5b990a57bc13e38a89.flv
+Shot Timestamps: [10, 14, 17, 21, 24, 25, 30, 37, 42, 46, 52, 59, 62, 66, 70, 77, 78, 82, 83, 91, 94, 98, 101, 107, 110, 113, 115, 119, 122, 129, 133, 136, 146, 149, 155, 157, 160, 162, 166, 178, 181, 183, 185, 188, 191, 193, 224, 228, 236, 242, 245, 249, 252, 256, 258, 260, 266, 269, 274, 276, 280, 282, 286, 288, 296, 301, 303, 315, 318, 322, 326, 329, 330, 332, 334, 335, 337, 340, 342, 343, 344, 346, 351, 353, 354, 356, 358, 360, 363, 364, 368, 369, 372, 376, 378, 380]
+Shot Features Length: 96
+Video number: 361
+Video ID: 72b76094f00ba7454dcf6fbeffc5f58f4977ce8b.flv
+Shot Timestamps: [7, 9, 13, 19, 21, 24, 27, 31, 42]
+Shot Features Length: 9
+Video number: 362
+Video ID: 75b4b9a9fc4801a2f625297c698e5eef4ec37cfe.flv
+Shot Timestamps: [3, 9, 12, 13, 14, 15, 17, 21, 24, 26, 29, 30, 31, 33, 36, 38, 40, 41, 46, 48, 50, 52, 53, 55, 56, 57, 60, 61, 63, 65, 66, 68, 74, 88, 91, 96, 100, 103, 104, 105, 107, 111, 112, 113, 116, 117, 118, 120, 121, 124, 128, 130, 136, 137, 140, 141, 142, 143, 145, 146, 148, 150, 152, 153, 154, 155, 156, 158, 160, 162, 165, 166, 172, 173, 174, 176, 177, 178, 180, 181, 186, 188, 189, 190, 194, 198, 203, 207, 210, 214, 218, 222, 225, 226, 228, 231, 234, 235, 240, 242, 249, 252, 254, 255, 257, 260, 261, 262, 270]
+Shot Features Length: 109
+Video number: 363
+Video ID: 76d63613abd080fe83b99cffe29e85ef01b12d40.flv
+Shot Timestamps: [2, 7, 11, 15, 22, 27, 32, 37, 44, 47, 49, 53, 54, 56, 59, 60, 65, 71, 84, 87, 89, 91, 101]
+Shot Features Length: 23
+Video number: 364
+Video ID: 7f520561558b365860cb88d5eb3e1e277f6a6a29.flv
+Shot Timestamps: [12]
+Shot Features Length: 1
+Video number: 365
+Video ID: 813837205d30049992f5fce833fcc668229cd204.flv
+Shot Timestamps: [7, 9, 12, 16, 20, 23, 25, 27, 32, 36, 39, 47, 55, 58, 61, 77, 88, 92, 95, 99, 102, 104, 108, 115, 121, 126, 132, 139, 142, 147, 150, 158, 159, 163, 164, 172, 175, 179, 182, 189, 192, 195, 197, 201, 205, 211, 212, 216, 219, 229, 232, 241, 244, 246, 251, 263, 266, 268, 270, 273, 276, 278, 279, 311, 315, 324, 325, 329, 333, 337, 338, 339, 340, 341, 344, 346, 347, 349, 350, 354, 358, 359, 363, 364, 365, 366, 368, 369, 371, 376, 377, 382, 386, 390, 391, 393, 394, 395, 397, 405, 406, 409, 414, 417, 418, 421, 422, 423, 424, 425, 426, 428, 429, 431, 433, 434, 436, 437, 442, 443, 446, 447, 449, 451, 453, 455, 457, 460, 462, 465, 469]
+Shot Features Length: 131
+Video number: 366
+Video ID: 931eee04c9bc764b3005c949528dec603d1d8394.flv
+Shot Timestamps: [2, 7, 11, 15, 22, 27, 32, 37, 44, 47, 49, 53, 54, 56, 59, 60, 65, 71, 84, 87, 89, 91, 101]
+Shot Features Length: 23
+Video number: 367
+Video ID: 99ed602c360a9781ed792eaa504ad1b89b51ae06.flv
+Shot Timestamps: [4, 13, 18, 22, 26, 29, 30, 33, 35, 38, 39, 43, 47, 52, 55, 58, 60, 65, 67, 71, 75, 80, 82, 84, 86, 94, 95, 98, 103, 106, 107, 110, 111, 112, 113, 114, 115, 118, 120, 122, 123, 125, 126, 132, 135, 138, 140, 142, 144, 146, 151, 154, 158]
+Shot Features Length: 53
+Video number: 368
+Video ID: ac1543adad8ecc32d98d9a67d75fb0a39f67b685.flv
+Shot Timestamps: [2, 8, 11, 14, 16, 26, 29, 37, 40, 56, 59, 62, 65, 70, 73, 75, 76, 82, 86, 89, 97, 105, 111, 138, 141, 145, 149, 152, 153, 158, 165, 170, 175, 182, 189, 192, 196, 200, 207, 209, 213, 222, 225, 229, 232, 239, 242, 244, 247, 251, 254, 261, 262, 266, 269, 279, 282, 289, 291, 294, 296, 300, 312, 316, 318, 320, 322, 326, 328, 361, 365, 373, 379, 383, 387, 390, 393, 396, 398, 404, 408, 415, 417, 419, 421, 425, 428, 436, 443, 455, 456, 458, 463, 466, 468, 471, 473, 475, 478, 481, 483, 484, 486, 488, 493, 496, 499, 501, 503, 505, 507, 512, 514, 519, 521, 538, 554, 557, 563, 588, 592, 600]
+Shot Features Length: 122
+Video number: 369
+Video ID: b9d57bdc2d729020825f9617089e1aee6be798fe.flv
+Shot Timestamps: [10, 12, 15, 19, 23, 26, 27, 29, 34, 38, 41, 45, 49, 56, 62, 88, 91, 94, 98, 101, 103, 107, 114, 119, 124, 130, 137, 140, 144, 147, 155, 156, 160, 161, 169, 172, 176, 178, 184, 188, 190, 193, 196, 200, 206, 207, 210, 214, 221, 223, 226, 233, 234, 238, 240, 244, 255, 259, 261, 262, 265, 268, 270, 271, 302, 306, 314, 319, 323, 326, 328, 330, 333, 335, 338, 343, 347, 348, 352, 354, 355, 357, 359, 364, 366, 370, 374, 378, 380, 381, 382, 384, 391, 392, 393, 396, 397, 400, 403, 404, 407, 408, 409, 411, 412, 415, 417, 418, 419, 420, 422, 424, 428, 431, 432, 434, 436, 438, 440, 442, 445, 446, 449, 454, 456, 472, 484, 488, 490, 495, 497, 504, 508, 509, 510, 512, 515, 518, 520, 521, 524]
+Shot Features Length: 141
+Video number: 370
+Video ID: c29e02d9e847bcde39ee667b454e4d67b22b105c.flv
+Shot Timestamps: [1, 5, 6, 8, 11, 14, 16, 48, 51, 60, 65, 69, 72, 74, 75, 79, 81, 84, 89, 93, 94, 98, 100, 101, 103, 105, 110, 111, 116, 120, 124, 126, 128, 129, 130, 137, 138, 141, 146, 149, 150, 152, 154, 155, 157, 158, 160, 163, 165, 166, 168, 169, 174, 177, 180, 182, 184, 186, 188, 192, 195, 199, 202, 205]
+Shot Features Length: 64
+Video number: 371
+Video ID: c9cee9c02cc23af3a26ee9548b895addd643974f.flv
+Shot Timestamps: [4, 5, 8, 9, 10, 41, 45, 51, 53, 55, 58, 62, 66, 67, 68, 69, 72, 75, 77, 82, 86, 87, 91, 92, 93, 94, 95, 96, 99, 103, 105, 109, 113, 117, 118, 119, 120, 121, 122, 123, 124, 130, 131, 132, 135, 138, 139, 142, 143, 144, 146, 147, 148, 149, 150, 151, 154, 156, 157, 158, 159, 161, 162, 168, 170, 171, 174, 175, 178, 180, 182, 184, 185, 186, 189, 190, 191, 195, 198, 200, 201, 203, 205, 206, 208, 209, 211, 215, 217, 222, 228]
+Shot Features Length: 91
+Video number: 372
+Video ID: d1a19730dcc2b5ea5bec61756c452772aae031dd.flv
+Shot Timestamps: [3, 8, 12, 16, 18, 19, 23, 25, 28, 33, 37, 38, 42, 45, 47, 48, 50, 55, 56, 61, 65, 70, 71, 73, 76, 84, 85, 88, 92, 96, 97, 99, 100, 101, 102, 104, 105, 108, 110, 112, 113, 115, 116, 117, 122, 124, 125, 128, 130, 132, 134, 136, 140]
+Shot Features Length: 53
+Video number: 373
+Video ID: d503fe96854919e67233ef3367d8fef6a23e0220.flv
+Shot Timestamps: [6, 9, 18, 21, 23, 28, 40, 43, 45, 47, 50, 53, 55, 56, 88, 92, 101, 106, 110, 113, 116, 117, 121, 123, 126, 131, 135, 136, 140, 142, 144, 145, 148, 152, 154, 159, 163, 168, 170, 171, 174, 181, 183, 186, 190, 194, 195, 197, 199, 200, 201, 202, 204, 206, 208, 210, 211, 213, 215, 219, 222, 224, 226, 228, 230, 232, 234, 237, 239, 240, 247, 252, 257, 262, 266, 270]
+Shot Features Length: 76
+Video number: 374
+Video ID: da1854c05d28b4d56f176c1aae5b14d7b9e36536.flv
+Shot Timestamps: [9, 13, 19, 21, 25, 27, 31, 43, 47, 49, 50, 53, 57, 58, 59, 91, 95, 104, 106, 109, 113, 117, 118, 119, 120, 121, 124, 126, 127, 129, 135, 138, 140, 144, 146, 147, 149, 151, 156, 158, 162, 167, 171, 173, 174, 175, 178, 185, 186, 189, 194, 197, 198, 201, 202, 203, 204, 206, 207, 208, 209, 212, 214, 215, 217, 218, 223, 226, 227, 230, 231, 234, 236, 238, 241, 243, 245, 250, 252, 268, 272, 281, 285, 288, 291]
+Shot Features Length: 85
+Video number: 375
+Video ID: ddf4ea3ad374dad0d4abc418418581632547f2fc.flv
+Shot Timestamps: [5, 7, 9, 13, 47, 54, 63, 69, 90, 93, 99, 101, 102, 104, 105, 107, 108, 109, 110, 112, 113, 114, 116, 118, 119, 120, 122, 123, 124, 125, 126, 127, 129, 132, 133, 134, 136, 137, 138, 141, 142, 143, 144, 146, 148]
+Shot Features Length: 45
+Video number: 376
+Video ID: e2409fb1749da3d3412fa0e5a1751c2fa0a6965d.flv
+Shot Timestamps: [3, 12, 18, 22, 25, 27, 28, 32, 35, 37, 43, 47, 52, 54, 58, 60, 64, 66, 70, 75, 79, 80, 81, 84, 85, 93, 94, 97, 102, 105, 106, 109, 110, 111, 112, 114, 115, 117, 120, 122, 123, 125, 126, 130, 131, 134, 135, 137, 139, 142, 144, 146, 149, 150]
+Shot Features Length: 54
+Video number: 377
+Video ID: e3e5cae3b58a6338c9a1b13d66b69c9e3d4fc785.flv
+Shot Timestamps: [10, 12, 15, 18, 23, 25, 27, 29, 34, 37, 40, 45, 48, 56, 62, 88, 91, 94, 98, 101, 103, 107, 114, 119, 124, 130, 136, 140, 144, 147, 154, 156, 159, 160, 168, 171, 175, 178, 184, 188, 190, 192, 196, 200, 206, 210, 214, 221, 223, 226, 232, 234, 237, 240, 244, 255, 258, 260, 262, 265, 268, 270, 271, 302, 305, 314, 319, 322, 326, 328, 329, 333, 335, 338, 343, 346, 348, 352, 354, 355, 357, 359, 363, 365, 370, 374, 378, 380, 381, 383, 384, 389, 391, 392, 395, 400, 403, 404, 406, 408, 409, 411, 412, 414, 417, 419, 420, 422, 423, 428, 430, 432, 434, 436, 438, 440, 442, 445, 446, 449, 453]
+Shot Features Length: 121
+Video number: 378
+Video ID: e89539c5310189d7333610e2a4b57b8648d30af5.flv
+Shot Timestamps: [12, 16, 18, 19, 22, 26, 27, 28, 60, 64, 73, 78, 82, 86, 88, 89, 90, 93, 95, 98, 103, 107, 109, 113, 115, 118, 120, 125, 127, 131, 136, 140, 141, 143, 146, 154, 156, 158, 163, 166, 167, 170, 171, 172, 173, 175, 176, 178, 181, 183, 184, 186, 187, 192, 195, 196, 199, 200, 203, 205, 207, 210]
+Shot Features Length: 62
+Video number: 379
+Video ID: ee126b94478ec14c15bc7305974fbcfc07f4d40c.flv
+Shot Timestamps: [6, 9, 18, 21, 23, 28, 40, 43, 45, 47, 50, 53, 55, 56, 88, 92, 101, 106, 110, 113, 116, 117, 121, 123, 126, 131, 135, 136, 140, 142, 144, 145, 148, 152, 154, 159, 163, 168, 170, 171, 174, 181, 183, 186, 190, 194, 195, 197, 199, 200, 201, 202, 204, 206, 208, 210, 211, 213, 215, 219, 222, 224, 226, 228, 230, 232, 234, 237, 239, 240, 247, 252, 257, 262, 266, 270]
+Shot Features Length: 76
+Video number: 380
+Video ID: f30a503af68c95032a23557171ed7f788f0df018.flv
+Shot Timestamps: [9, 15, 19, 22, 25, 29, 32, 34, 40, 44, 49, 51, 55, 57, 61, 63, 72, 78, 82, 92, 94, 99, 102, 103, 106, 107, 108, 111, 114, 117, 119, 120, 122, 123, 128, 131, 132, 135, 136, 139, 141, 143, 147]
+Shot Features Length: 43
+Video number: 381
+Video ID: f3c8c0c9b93e0a49d2508eee4aae618c1d69e082.flv
+Shot Timestamps: [3, 9, 12, 15, 17, 26, 30, 38, 41, 57, 60, 63, 66, 71, 73, 75, 77, 83, 86, 90, 94, 98, 105, 111, 138, 142, 146, 150, 153, 154, 159, 166, 171, 176, 183, 190, 193, 197, 201, 208, 210, 214, 215, 223, 226, 230, 233, 239, 243, 245, 248, 252, 255, 262, 263, 267, 270, 279, 283, 292, 295, 297, 301, 313, 317, 319, 321, 323, 327, 329, 362, 365, 372, 374, 380, 384, 387, 389, 390, 395, 397, 399, 400, 405, 409, 410, 414, 416, 418, 419, 422, 426, 428, 433, 437, 441, 443, 445, 446, 447, 455, 456, 457, 460, 464, 468, 469, 471, 473, 474, 475, 477, 478, 482, 484, 485, 487, 488, 493, 497, 500, 501, 504, 506, 508, 511, 512, 515, 520, 523, 531, 538, 551, 555, 558, 563, 565, 573, 576, 578, 579, 581, 584, 589, 590, 591, 593]
+Shot Features Length: 147
+Video number: 382
+Video ID: fbd257e13786ad8bc65da9830f99da038a845079.flv
+Shot Timestamps: [2, 8, 11, 14, 16, 26, 29, 37, 40, 56, 59, 62, 65, 70, 73, 75, 76, 82, 86, 89, 97, 105, 111, 138, 141, 145, 149, 152, 153, 158, 165, 170, 175, 182, 189, 192, 196, 200, 207, 209, 213, 222, 225, 229, 232, 239, 242, 244, 247, 251, 254, 261, 262, 266, 269, 279, 282, 289, 291, 294, 296, 300, 312, 316, 318, 320, 322, 326, 328, 361, 365, 373, 379, 383, 387, 390, 393, 396, 398, 404, 408, 415, 417, 419, 421, 425, 428, 436, 443, 455, 456, 458, 463, 466, 468, 471, 473, 475, 478, 481, 483, 484, 486, 488, 493, 496, 499, 501, 503, 505, 507, 512, 514, 519, 521, 538, 554, 557, 563, 588, 592, 600]
+Shot Features Length: 122
+Video number: 383
+Video ID: 09516f733d69613b8f6085b83d0aacd6f1a7f75d.mp4
+Shot Timestamps: [1, 2, 4, 14, 15, 17, 33, 36, 37, 40, 48, 49, 50, 63, 64, 65, 70, 73, 74, 76, 78, 81, 83, 84, 85, 86, 87, 91, 95, 99, 102, 103, 105, 107, 108, 109, 127, 128, 130, 131, 133, 134, 135, 137, 139, 141, 143, 145, 146, 148, 156, 162, 163, 165, 170, 171, 172, 173, 175, 176, 177, 178, 179, 181, 182, 186, 188, 189, 193, 194, 195, 196, 198, 199, 205, 206, 208, 209, 211, 214, 217, 222, 225, 227, 228, 229, 230, 231, 233, 234, 236, 241, 243, 244, 245, 247, 248, 250, 256, 258, 261, 263, 266]
+Shot Features Length: 103
+Video number: 384
+Video ID: 0bd7440f5fdf08fa30d2281f111ed4ae97d836a4.flv
+Shot Timestamps: [9, 11, 12, 25, 26, 27, 35, 37, 38, 39, 40, 43, 46, 47, 48, 49, 50, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 85, 88, 91, 117, 118, 119, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, 135, 136, 140, 141, 142, 143, 147, 148, 149, 151, 152, 159, 160, 162, 163, 164, 168, 177, 178, 179]
+Shot Features Length: 64
+Video number: 385
+Video ID: 18f317405a4f8e49e546b3f4df689030a1f6664c.flv
+Shot Timestamps: [8, 10, 11, 16, 30, 54, 59, 63, 67, 73, 74, 78, 87, 89, 90, 106, 107, 116, 118, 119, 120, 123, 126, 127, 129, 130, 133, 134, 139, 142, 146, 164, 190, 191, 192, 198, 200, 201, 202, 205, 208, 213, 217, 218, 219, 220, 222, 223, 224, 225, 226, 233, 234, 237, 239, 255, 265, 266, 267, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 285, 288, 289, 290, 292, 296, 297, 300, 308, 310, 311, 312, 316, 325, 328, 334, 392, 394, 395, 397, 398, 399, 400, 401, 404, 411, 418, 419, 420, 422, 423, 426, 433, 436, 437]
+Shot Features Length: 104
+Video number: 386
+Video ID: 2bdf8029b38735a992a56e32cfc81466eea81286.flv
+Shot Timestamps: [8, 10, 11, 16, 30, 54, 59, 63, 67, 73, 74, 78, 87, 89, 90, 106, 107, 116, 118, 119, 120, 123, 126, 127, 129, 130, 133, 134, 139, 142, 146, 164, 190, 191, 192, 198, 200, 201, 202, 205, 208, 213, 217, 218, 219, 220, 222, 223, 224, 225, 226, 233, 234, 237, 239, 255, 265, 266, 267, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 285, 288, 289, 290, 292, 296, 297, 300, 308, 310, 311, 312, 316, 325, 328, 334, 392, 394, 395, 397, 398, 399, 400, 401, 404, 411, 418, 419, 420, 422, 423, 426, 433, 436, 437]
+Shot Features Length: 104
+Video number: 387
+Video ID: 35cea0d48b9b69a6cda373766ea586ccaa5ba78d.flv
+Shot Timestamps: [1, 4, 14, 16, 29, 30, 31, 36, 39, 41, 42, 43, 44, 47, 50, 51, 52, 53, 58, 61, 65, 74, 98, 99, 100, 106, 108, 109, 110, 117, 118, 120, 121, 125, 126, 127, 129, 130, 132, 133, 134, 135, 139, 141, 143, 145, 147, 173, 174, 176, 181, 182, 183, 184, 185, 187, 188, 190, 191, 192, 193, 197, 198, 199, 200, 205, 206, 208, 209, 217, 219, 220, 221, 222, 223, 225, 228, 233, 234, 237, 243, 301, 302, 303, 304, 305, 306, 307, 308, 309, 320, 327, 328, 329, 332, 334, 342, 343, 344, 345, 347, 350, 356]
+Shot Features Length: 103
+Video number: 388
+Video ID: 3d05bb64144049ccc7bc64001538f7e8ea50bf8b.flv
+Shot Timestamps: [8, 10, 11, 16, 30, 54, 59, 63, 73, 74, 78, 87, 89, 90, 106, 107, 116, 119, 120, 123, 127, 128, 129, 130, 133, 134, 138, 139, 142, 146, 164, 190, 191, 192, 198, 200, 201, 206, 208, 209, 213, 216, 217, 218, 220, 222, 223, 224, 225, 226, 233, 234, 237, 239, 255, 265, 266, 267, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 285, 288, 289, 290, 292, 296, 297, 299, 300, 301, 308, 310, 311, 312, 316, 325, 328, 334, 392, 393, 394, 395, 397, 398, 399, 400, 401, 404, 411, 418, 419, 420, 422, 423, 426, 433, 436, 437]
+Shot Features Length: 106
+Video number: 389
+Video ID: 3d0a3002441f682c7124806eb9b92c677af2ee9e.flv
+Shot Timestamps: [8, 10, 11, 16, 30, 54, 59, 63, 67, 73, 74, 78, 87, 89, 90, 106, 107, 116, 118, 119, 120, 123, 126, 127, 129, 130, 133, 134, 139, 142, 146, 164, 190, 191, 192, 198, 200, 201, 202, 205, 208, 213, 217, 218, 219, 220, 222, 223, 224, 225, 226, 233, 234, 237, 239, 255, 265, 266, 267, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 285, 288, 289, 290, 292, 296, 297, 300, 308, 310, 311, 312, 316, 325, 328, 334, 392, 394, 395, 397, 398, 399, 400, 401, 404, 411, 418, 419, 420, 422, 423, 426, 433, 436, 437]
+Shot Features Length: 104
+Video number: 390
+Video ID: 42daf76df2f31f0805f2f3f766bb348bb24feac7.flv
+Shot Timestamps: [1, 12, 14, 17, 20, 26, 28, 29, 35, 45, 46, 48, 50, 52, 55, 56, 58, 59, 60, 63, 65, 66, 67, 68, 70, 74, 78, 81, 86, 104, 129, 130, 132, 138, 139, 140, 141, 145, 148, 151, 156, 157, 160, 161, 162, 164, 166, 168, 170, 172, 176, 178, 204, 205, 206, 212, 213, 214, 216, 218, 219, 220, 221, 222, 224, 228, 229, 230, 231, 234, 236, 237, 238, 240, 248, 250, 251, 252, 256, 258, 261, 264, 267, 273, 302]
+Shot Features Length: 85
+Video number: 391
+Video ID: 44be6e5e82fced7f458b17c0230118034ffc7a57.flv
+Shot Timestamps: [1, 4, 14, 16, 29, 30, 31, 36, 39, 41, 42, 43, 44, 47, 50, 51, 52, 53, 58, 61, 65, 74, 98, 99, 100, 106, 108, 109, 110, 117, 118, 120, 121, 125, 126, 127, 129, 130, 132, 133, 134, 135, 139, 141, 143, 145, 147, 173, 174, 176, 181, 182, 183, 184, 185, 187, 188, 190, 191, 192, 193, 197, 198, 199, 200, 205, 206, 208, 209, 217, 219, 220, 221, 222, 223, 225, 228, 233, 234, 237, 243, 301, 302, 303, 304, 305, 306, 307, 308, 309, 320, 327, 328, 329, 332, 334, 342, 343, 344, 345, 347, 350, 356]
+Shot Features Length: 103
+Video number: 392
+Video ID: 5106b657cb3d1d98dd496150241aa529c80bd479.flv
+Shot Timestamps: [8, 10, 11, 16, 30, 54, 59, 63, 67, 73, 74, 78, 87, 89, 90, 106, 107, 108, 113, 116, 119, 120, 123, 127, 128, 129, 130, 133, 134, 139, 142, 146, 155, 164, 190, 191, 192, 198, 200, 201, 202, 205, 208, 209, 213, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 229, 233, 234, 237, 239, 256, 265, 266, 267, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 284, 285, 288, 289, 290, 292, 296, 297, 299, 300, 308, 310, 311, 312, 313, 316, 325, 328, 334, 392, 393, 394, 395, 397, 398, 399, 400, 401, 411, 418, 419, 420, 422, 423, 426, 433, 436, 437]
+Shot Features Length: 112
+Video number: 393
+Video ID: 55aed88a8ca6116c8f83f3c0220414aa3d460ead.flv
+Shot Timestamps: [1, 19, 22, 24, 25, 26, 30, 33, 36, 39, 46, 48, 59, 69, 70, 71, 76, 79, 80, 85, 88, 89, 91, 92, 96, 105, 106, 109, 111, 112, 113, 114, 118, 120, 122, 124, 128, 132, 134, 136, 142, 143, 144, 150, 151, 153, 156, 158, 160, 161, 162, 170, 172, 175, 176, 179, 187, 192, 199, 201, 202, 203, 213, 215, 216, 217, 218, 220, 221, 222, 223, 224, 231, 232, 236, 248]
+Shot Features Length: 76
+Video number: 394
+Video ID: 5df28e18b3d8fbdc0f4cd07ef5aefcdc1b4f8d42.flv
+Shot Timestamps: [9, 10, 11, 24, 29, 37, 38, 39, 50, 51, 53, 58, 59, 60, 61, 62, 64, 66, 68, 69, 70, 72, 73, 78, 80, 81, 82, 83, 84, 88]
+Shot Features Length: 30
+Video number: 395
+Video ID: 60b45a875979efba30700f8e55728d17f0857212.flv
+Shot Timestamps: [5, 6, 7, 8, 10, 12, 16, 20, 24, 29, 34, 37, 39, 40, 45, 50, 52, 54, 61, 62, 63, 65, 66, 68, 70, 71, 74, 75, 77, 80, 82, 83, 84, 85, 87, 88, 93, 94, 95, 98, 103, 107, 108, 110, 111, 113, 114, 115, 117, 122, 123, 124, 125, 127, 128, 130, 133, 135, 137, 141, 142, 145, 149, 153, 155, 156, 159, 160, 164, 165, 167, 170, 172, 173, 175, 179, 180, 182, 185, 188, 189, 190, 191, 192, 194, 195, 197, 200, 202, 205, 206, 211, 214, 216, 218, 223, 228, 230, 231, 233, 234, 235, 237, 240, 241, 242, 244, 249, 250, 252, 256, 257, 258, 260, 265, 278, 282, 289, 290, 296, 298, 299, 305]
+Shot Features Length: 123
+Video number: 396
+Video ID: 668693ee5770ba3bfd7c6b5374d13c137a7c5942.flv
+Shot Timestamps: [8, 10, 11, 16, 30, 54, 59, 63, 67, 73, 74, 78, 87, 89, 90, 106, 107, 116, 118, 119, 120, 123, 126, 127, 129, 130, 133, 134, 139, 142, 146, 164, 190, 191, 192, 198, 200, 201, 202, 205, 208, 213, 217, 218, 219, 220, 222, 223, 224, 225, 226, 233, 234, 237, 239, 255, 265, 266, 267, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 285, 288, 289, 290, 292, 296, 297, 300, 308, 310, 311, 312, 316, 325, 328, 334, 392, 394, 395, 397, 398, 399, 400, 401, 404, 411, 418, 419, 420, 422, 423, 426, 433, 436, 437]
+Shot Features Length: 104
+Video number: 397
+Video ID: 8d222599bddb8d463bc7c7835f209cbc41072ca6.mp4
+Shot Timestamps: [4, 5, 10, 11, 12, 19, 21, 23, 24, 25, 31, 41, 42, 44, 45, 49]
+Shot Features Length: 16
+Video number: 398
+Video ID: 92e46a8b5dcc5f1ad5db96e626d56234470f3c28.flv
+Shot Timestamps: [8, 9, 10, 15, 16, 19, 20, 25, 29, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 52, 54, 56, 57, 58, 62, 69, 71, 82, 83, 84, 94, 97, 98, 102, 110, 111, 120, 121, 135, 136, 138, 142, 145, 147, 148, 149, 150, 153, 155, 156, 157, 158, 160, 162, 164, 167, 171, 177, 185, 186, 188, 190, 192, 194, 195, 196, 197, 200, 201, 204, 205, 207, 210, 215, 221, 222, 223, 229, 230, 232, 233, 235, 238, 239, 241, 242, 248, 250, 252, 254, 255, 258, 261, 267, 270, 282]
+Shot Features Length: 96
+Video number: 399
+Video ID: 9ad3cc564c4f1b52ce076068e3830a70b9abccbf.flv
+Shot Timestamps: [2, 3, 4, 5, 6, 8, 10, 12, 15, 16, 17, 18, 20, 21, 22, 23, 24, 26, 27, 28, 32, 36, 40, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 54, 55, 56, 58, 61, 64, 65, 66, 68, 69, 70, 72, 73, 74, 75, 76, 78, 79, 80, 81, 83, 84, 86, 87, 88, 89, 90, 92, 93, 96, 97, 101, 102, 103, 104, 106, 107, 108, 109, 110, 112, 113, 114, 115, 119, 123]
+Shot Features Length: 79
+Video number: 400
+Video ID: a99ef662562ec242651946259b170b409c0d48d7.mp4
+Shot Timestamps: [1, 2, 3, 4, 5, 7, 12, 13, 14, 15, 16, 17, 18, 20, 21, 23, 24, 25, 26, 28, 29, 33, 38, 39, 41, 43, 44, 45, 47, 49, 50, 51, 52, 53, 58, 61, 62, 63, 64, 66, 67, 68, 69, 70, 72, 73]
+Shot Features Length: 46
+Video number: 401
+Video ID: b61905d41276ccf2af59d4985158f8b1ce1d4990.flv
+Shot Timestamps: [6, 11, 15, 16, 21, 22, 23, 30, 32, 33, 34, 35, 36, 42, 52, 53, 55, 57, 60, 61, 66]
+Shot Features Length: 21
+Video number: 402
+Video ID: b75d15d45b34b0aba85ebc67fdc9fac93e20fd26.flv
+Shot Timestamps: [1, 3, 5, 12, 14, 20, 21, 22, 24, 26, 29, 32, 33, 34, 36, 38, 41, 42, 45, 49, 50, 51, 52, 54, 55, 56, 58, 65, 66, 69, 71, 80, 83, 86, 90, 91, 94, 95, 96, 105, 108, 109, 110, 111, 112, 114, 115, 116, 118, 119, 120, 122, 123, 124, 128, 129, 130, 134, 138]
+Shot Features Length: 59
+Video number: 403
+Video ID: b87117db8a791ef534d91b79dd6d0ab57ffc644c.flv
+Shot Timestamps: [9, 11, 12, 25, 26, 27, 35, 37, 38, 39, 40, 43, 46, 47, 48, 49, 50, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 82, 85, 86, 87, 89, 91, 117, 118, 119, 125, 126, 127, 129, 131, 132, 133, 134, 135, 136, 140, 141, 142, 144, 147, 148, 149, 151, 152, 160, 162, 163, 164, 168, 177, 178, 179]
+Shot Features Length: 64
+Video number: 404
+Video ID: beb8ec624aae490c6f21a7bc7330da8e839623fb.mp4
+Shot Timestamps: [9, 12, 21, 23, 24, 31, 39, 40, 41, 50, 51, 52, 58, 59, 60, 61, 62, 64, 65, 66, 67, 69, 72]
+Shot Features Length: 23
+Video number: 405
+Video ID: c4365f3b67428240a4e82a07ec373cc2db96e0a4.mp4
+Shot Timestamps: [4, 5, 10, 11, 12, 19, 21, 23, 24, 25, 31, 41, 42, 44, 45, 49]
+Shot Features Length: 16
+Video number: 406
+Video ID: e4b443e64c27a3364d16db8e11e6e85f2d3fd7ed.flv
+Shot Timestamps: [8, 17, 18, 19, 20, 22, 23, 24, 34, 35, 36, 45, 47, 48, 49, 50, 52, 53, 55, 59, 60, 61, 62, 63]
+Shot Features Length: 24
+Video number: 407
+Video ID: e862343f349018b392c1a389ff71cbe5eea67666.flv
+Shot Timestamps: [4, 9, 11, 12, 14, 15, 17, 19, 22, 26, 27, 29, 30, 32, 33, 36, 43, 44, 48, 50, 53, 56, 57, 59, 60, 62, 63, 66, 68, 69, 71, 75, 80]
+Shot Features Length: 33
+Video number: 408
+Video ID: f8190a5d3e36b6bf01db0a4033c917c5cef93bcc.flv
+Shot Timestamps: [1, 2, 3, 4, 8, 8, 10, 10, 12, 12, 14, 16, 17, 18, 19, 20, 21, 22, 26, 28, 32, 33, 34, 35, 38, 38, 40, 40, 42]
+Shot Features Length: 29
+Video number: 409
+Video ID: 1e2598afd4d6a8728d6c0076354477db59702a5a.flv
+Shot Timestamps: [4, 6, 7, 9, 13, 14, 15, 16, 18, 19, 21, 23, 24, 25, 26, 28, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40, 46, 48, 49, 54, 58, 63, 66, 71, 73, 75, 76, 77, 79, 80, 83, 85, 86, 87, 89, 91, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 125, 129, 131, 133, 137, 138, 139, 141, 143, 144, 147, 148, 150, 151, 152, 153, 156, 158, 159, 160, 161, 162, 164, 165, 166, 167, 169, 170, 171, 172, 173, 174, 176, 177, 179, 180, 182, 183, 184, 185, 186, 187, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 232]
+Shot Features Length: 159
+Video number: 410
+Video ID: 2c6e77e63a5b12547ccdd5d0c2a32db71428fc98.flv
+Shot Timestamps: [51, 66, 67, 71, 72, 73, 75, 79, 83, 85, 86, 88, 89, 93, 97, 98, 99, 100, 101, 103, 106, 109, 110, 111, 115, 116, 118, 121, 122, 124, 126, 127, 128, 129, 130, 132, 135, 136, 138, 139, 140, 141, 143, 144, 145, 146, 148, 149, 150, 151, 154, 155, 156, 158, 159, 161, 163, 164, 165, 166, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184, 185, 186, 187, 188, 190, 192, 193, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 211, 212, 213, 214, 215, 216, 217, 218, 221, 222, 223, 224, 225, 226, 227, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 243, 246, 247, 248, 249, 251, 252, 253, 254, 256, 257, 258, 260, 261, 262, 263, 265, 267, 269, 270, 272, 274, 275, 276, 277, 279, 280, 281, 282, 283, 284, 286, 287, 291, 294, 299, 310, 312, 315, 317, 318, 323, 325, 327, 329, 332, 335, 336, 337, 340, 342, 344, 345, 351, 352, 353, 355, 356, 357, 360, 361, 363, 365, 366, 367, 368, 369, 371, 372, 373, 374, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 388, 390, 391, 392, 393, 394, 395, 396, 398, 400, 401, 402, 403, 405, 406, 408, 409, 410, 411, 412, 413, 415, 416, 417, 418, 419, 421, 423, 424, 425, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 467, 468, 471, 472, 473, 474, 475, 476, 477, 478, 480, 481, 482, 483, 484, 486, 487, 490, 491, 493, 494, 495, 496, 498, 499, 501, 503, 504, 505, 506, 508, 510, 511, 512, 514, 516, 517, 518, 519, 520, 521, 522, 523, 524, 527, 528, 529, 530, 532, 534, 536, 537, 538, 540, 542, 543, 544, 545, 547, 549, 551, 554, 556, 557, 562, 568, 569, 570, 573, 574, 576, 578, 581, 583, 585, 587, 588, 590, 593, 594, 597, 600, 604, 607, 614, 617, 620, 622, 623, 624, 628, 631, 633, 635, 637, 639, 641, 643, 645, 647, 651, 655, 664, 665, 667, 672, 675, 676, 678, 683, 687, 689, 696, 698, 699, 700, 701, 704, 707, 709, 711, 713, 719, 723, 726, 730, 733, 739, 742, 757, 769, 771]
+Shot Features Length: 407
+Video number: 411
+Video ID: 436657d23d80e9dbce2df57db62a3b45e05d475e.flv
+Shot Timestamps: [2, 3, 4, 6, 7, 8, 10, 12, 13, 14, 19, 20, 22, 23, 24, 25, 28, 29, 31, 33, 34, 35, 36, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 63, 64, 66, 67, 68, 70, 71, 73, 74, 75, 76, 78, 79, 80, 81, 83, 84, 85, 86, 88, 89, 90, 92, 93, 94, 95, 96, 98, 99, 100, 101, 102, 104, 105, 106, 107, 109, 111, 112, 113, 114, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 128, 129, 130, 131, 133, 137, 139, 140, 141, 143, 144, 146, 148, 149, 151, 152, 154, 155, 157, 158, 159, 160, 162, 163, 164, 165, 166, 168, 169, 170, 171, 172, 174, 176, 178, 179, 180, 182, 183, 184, 187, 188, 190, 191, 193, 194, 195, 196, 198, 200, 201, 203, 204, 205, 206, 208, 209, 210, 211, 212, 215, 216, 218, 221, 222, 224, 225, 226, 227, 229, 230, 232, 233, 235, 237, 239, 242, 244, 246, 251, 253, 256, 258, 261, 262, 264]
+Shot Features Length: 181
+Video number: 412
+Video ID: 4a84b3090139a049a0dfd9cd4ae6db8b446fec99.flv
+Shot Timestamps: [4, 6, 7, 9, 10, 11, 13, 14, 15, 16, 19, 20, 22, 24, 27, 28, 29, 31, 32, 35, 43, 46, 47, 48, 49, 50, 54, 55, 58, 67, 69, 71, 81, 83, 84, 85, 86, 87, 89, 90, 91, 93, 94, 96, 97, 98, 99, 100, 101, 102, 107, 109, 112, 113, 116, 117, 118, 119, 120, 122, 125, 126, 128, 131, 132, 133, 134, 135, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 149, 151, 153, 154, 156, 158, 160, 162, 165, 168, 169, 172, 175, 179, 184, 185, 186, 188, 190, 196, 198, 203, 205, 207, 209, 210, 211, 212, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 230, 231, 232, 233, 235, 236, 237, 239, 240, 242, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 256, 257, 258, 259, 261, 262, 264, 265, 266, 267, 268, 269, 270, 271, 273, 275, 279, 283, 292, 293, 295, 301, 304, 305, 317, 319, 321, 325]
+Shot Features Length: 171
+Video number: 413
+Video ID: 5f8d7efc28c6dd3e20cfd0060177edcb243a0456.flv
+Shot Timestamps: [2, 4, 5, 9, 10, 11, 13, 14, 15, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 31, 32, 34, 35, 38, 39, 41, 42, 43, 44, 45, 47, 48, 51, 52, 53, 54, 55, 56, 57, 59, 60, 61, 62, 63, 65, 66, 67, 68, 69, 70, 71, 72, 73, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 87, 89, 90, 91, 93, 94, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 107, 108, 109, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 157, 161, 163, 164, 166, 167, 168, 169, 171, 173, 174, 175, 177, 178, 179, 181, 182, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 205, 206, 208, 209, 210, 211, 213, 215, 216, 218, 220, 221, 222, 223, 224, 225, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 243, 244, 245, 246, 248, 249, 250, 251, 252, 253, 255, 257, 258, 259, 261, 262, 264, 265, 266, 268, 271, 272, 273, 274, 280, 282]
+Shot Features Length: 218
+Video number: 414
+Video ID: 9067be820dde81e11fc69146317995110f408627.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 88, 148, 208, 259, 260, 261, 263, 264, 265, 266, 267, 268, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 288, 289, 291, 292, 293, 353, 413, 473, 533, 593, 653, 713, 774, 834, 894, 922]
+Shot Features Length: 69
+Video number: 415
+Video ID: 93cad7675cea2f7c761ad9fc2ee72baee61f38e3.flv
+Shot Timestamps: [25, 26, 27, 29, 30, 31, 32, 34, 35, 38, 40, 42, 45, 46, 51, 54, 55, 56, 57, 60, 63, 64, 66, 68, 70, 73, 76, 80, 82, 84, 86, 87, 88, 89, 92, 95, 98, 102, 104, 106, 108, 110, 112, 113, 114, 116, 117, 120, 124, 127, 128, 131, 133, 134, 136, 138, 140, 142, 144, 145, 146, 148, 150, 151, 152, 153, 154, 156, 157, 158, 160, 161, 162, 163, 164, 166, 167, 168, 169, 171, 172, 173, 174, 176, 177, 178, 180, 181, 182, 184, 185, 189, 190, 191, 193, 195, 197, 201, 202, 208, 216, 221, 223, 225, 227, 236, 237, 240, 242, 244, 248, 250, 251, 254, 258, 259, 260, 262, 263, 264, 266, 268, 269, 271, 272, 273, 274, 276, 277, 278, 279, 280, 282, 283, 284, 287, 288, 290, 292, 293, 297]
+Shot Features Length: 141
+Video number: 416
+Video ID: 94d686ecfa99d431b9f35e589e601057a2075b8e.flv
+Shot Timestamps: [51, 66, 67, 71, 72, 73, 75, 79, 83, 85, 86, 88, 89, 93, 97, 98, 99, 100, 101, 103, 106, 109, 110, 111, 115, 116, 118, 121, 122, 124, 126, 127, 128, 129, 130, 132, 135, 136, 138, 139, 140, 141, 143, 144, 145, 146, 148, 149, 150, 151, 154, 155, 156, 158, 159, 161, 163, 164, 165, 166, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184, 185, 186, 187, 188, 190, 192, 193, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 211, 212, 213, 214, 215, 216, 217, 218, 221, 222, 223, 224, 225, 226, 227, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 243, 246, 247, 248, 249, 251, 252, 253, 254, 256, 257, 258, 260, 261, 262, 263, 265, 267, 269, 270, 272, 274, 275, 276, 277, 279, 280, 281, 282, 283, 284, 286, 287, 291, 294, 299, 310, 312, 315, 317, 318, 323, 325, 327, 329, 332, 335, 336, 337, 340, 342, 344, 345, 351, 352, 353, 355, 356, 357, 360, 361, 363, 365, 366, 367, 368, 369, 371, 372, 373, 374, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 388, 390, 391, 392, 393, 394, 395, 396, 398, 400, 401, 402, 403, 405, 406, 408, 409, 410, 411, 412, 413, 415, 416, 417, 418, 419, 421, 423, 424, 425, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 467, 468, 471, 472, 473, 474, 475, 476, 477, 478, 480, 481, 482, 483, 484, 486, 487, 490, 491, 493, 494, 495, 496, 498, 499, 501, 503, 504, 505, 506, 508, 510, 511, 512, 514, 516, 517, 518, 519, 520, 521, 522, 523, 524, 527, 528, 529, 530, 532, 534, 536, 537, 538, 540, 542, 543, 544, 545, 547, 549, 551, 554, 556, 557, 562, 568, 569, 570, 573, 574, 576, 578, 581, 583, 585, 587, 588, 590, 593, 594, 597, 600, 604, 607, 614, 617, 620, 622, 623, 624, 628, 631, 633, 635, 637, 639, 641, 643, 645, 647, 651, 655, 664, 665, 667, 672, 675, 676, 678, 683, 687, 689, 696, 698, 699, 700, 701, 704, 707, 709, 711, 713, 719, 723, 726, 730, 733, 739, 742, 757, 769, 771]
+Shot Features Length: 407
+Video number: 417
+Video ID: 9e94d3404faee3a1e3c78fb33064319511428103.flv
+Shot Timestamps: [43, 56, 58, 59, 64, 69, 70, 71, 72, 74, 75, 77, 80, 92, 93, 95, 96, 99, 102, 104, 105, 106, 107, 108, 110, 111, 112, 114, 116, 117, 118, 119, 120, 121, 123, 124, 125, 126, 127, 130, 131, 132, 133, 134, 136, 138, 139, 140, 143, 144, 145, 147, 148, 149, 150, 153, 154, 156, 158, 160, 161, 162, 163, 165, 166, 168, 169, 170, 172, 173, 174, 175, 176, 177, 178, 179, 183, 184, 185, 187, 188, 189, 193, 196, 197, 198, 200, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 257, 259, 260, 261, 262, 263, 264, 265, 268, 269, 271, 272, 273, 274, 276, 278, 280, 283, 290, 292, 293, 294, 296, 299, 302, 304, 309, 314, 315]
+Shot Features Length: 167
+Video number: 418
+Video ID: a62ac3f909e921e2ae89e2ed4c272cfadab838a3.mp4
+Shot Timestamps: [6, 8, 12, 14, 19, 21, 22, 24, 28, 31, 33, 34, 35, 37, 38, 40, 42, 44, 45, 46, 47, 49, 51, 52, 54, 55, 57, 60, 61, 63, 64, 65, 66, 68, 69, 70, 71, 73, 77, 79, 81, 82, 84, 85, 86, 88, 89, 90, 91, 92, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 106, 107, 108, 109, 111, 112, 114, 115, 116, 117, 118, 120, 121, 122, 123, 124, 127, 128, 130, 131, 132, 133, 134, 136, 137, 138, 139, 140, 142, 143, 144, 145, 146, 148, 149, 150, 151, 152, 154, 155, 156, 157, 158, 160, 161, 162, 163, 166, 167, 168, 169, 170, 172, 173, 174, 175, 176, 178, 179, 180, 181, 182, 184, 186, 188, 189, 190, 192, 193, 194, 195, 196, 198, 200, 202, 203, 204, 206, 207, 209, 210, 211, 212, 214, 215, 216, 218, 220, 221, 222, 223, 224, 226, 227, 228, 229, 230, 232, 233, 234, 235, 236, 238, 239, 240, 241, 242, 243]
+Shot Features Length: 168
+Video number: 419
+Video ID: b4d71ae78d81a607ddc2951bfd0a2e3ce46e6d91.flv
+Shot Timestamps: [5, 6, 7, 8, 10, 12, 13, 16, 18, 19, 21, 22, 23, 25, 26, 28, 30, 32, 34, 35, 37, 39, 41, 42, 44, 46, 47, 49, 50, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 92, 93, 94, 95, 96, 97, 98, 99, 101, 103, 104, 105, 106, 107, 108, 110, 111, 112, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 136, 137, 138, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177, 178, 179, 180, 182, 184, 187, 190, 193, 198, 202, 203, 205, 208, 211, 212, 213, 214, 215, 216, 218, 220, 221, 225, 227, 228, 229, 230, 231, 232, 234, 235, 236, 237, 238, 239, 241, 242, 243, 244, 245, 246, 247, 252, 253, 255, 260, 264, 265, 266, 267, 269, 271, 273, 276, 279, 283, 286, 293, 297, 300, 301, 303, 304, 307, 367, 427, 480]
+Shot Features Length: 209
+Video number: 420
+Video ID: c3ca62e39b8118a8773999ca5ed4757784032371.flv
+Shot Timestamps: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 108, 110, 111, 112, 113, 114, 115, 116, 117, 118, 120, 121, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 135, 136, 137, 138, 139, 140, 141, 143, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 207, 208, 209, 210, 211, 212, 214, 215, 216, 217, 218, 219, 220, 222, 223, 224, 225, 226, 229, 231, 232, 235, 236, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 260, 261, 274]
+Shot Features Length: 233
+Video number: 421
+Video ID: cbe5dff0d1f7658b8e37d32ade9fd9b27a9f3fc9.flv
+Shot Timestamps: [2, 3, 6, 8, 11, 13, 14, 18, 19, 23, 25, 26, 27, 28, 29, 30, 32, 34, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 65, 66, 68, 69, 70, 71, 72, 73, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 93, 94, 97, 98, 99, 100, 101, 104, 105, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 119, 120, 122, 123, 124, 126, 127, 128, 129, 131, 134, 137, 138, 140, 142, 143, 145, 146, 149, 151, 154, 156, 157, 158, 160, 163, 164, 166, 167, 169, 170, 172, 173, 175, 178, 180, 183, 189, 192, 196, 198, 199, 203, 206, 207, 209, 211, 216, 217, 218, 220, 222, 223, 225, 226, 228, 232, 235, 237, 239, 242, 246, 248, 252, 254]
+Shot Features Length: 150
+Video number: 422
+Video ID: cf6db37d583044431cc33c4c723988cb6c5edc46.flv
+Shot Timestamps: [1, 3, 5, 7, 8, 10, 12, 14, 15, 16, 17, 18, 20, 21, 22, 24, 25, 27, 28, 32, 33, 34, 36, 38, 40, 41, 42, 44, 46, 48, 50, 51, 52, 53, 54, 56, 57, 58, 60, 62, 63, 66, 68, 70, 72, 74, 76, 79, 81, 83, 88, 93, 95, 98, 100, 102, 103, 104, 106, 107, 110, 111, 113, 115, 118, 120, 124, 126, 128, 132, 136, 138, 140, 142, 144, 146, 149, 151, 155, 159, 166, 169, 172, 173, 175, 176, 179, 183, 184, 186, 189, 191, 192, 195, 197, 198, 202, 206, 215, 216, 218, 224, 226, 228, 235, 238, 240, 247, 249, 251, 252, 256, 258, 260, 262, 264, 270, 274, 278, 281, 284, 290, 293, 300, 305, 306, 312]
+Shot Features Length: 127
+Video number: 423
+Video ID: fa89363182761c182136f54fc7650930265a5bb4.flv
+Shot Timestamps: [2, 3, 4, 5, 6, 8, 9, 10, 12, 14, 16, 17, 18, 20, 22, 23, 25, 26, 28, 31, 32, 33, 34, 36, 38, 40, 42, 43, 44, 46, 47, 48, 49, 50, 52, 53, 54, 56, 57, 58, 60, 61, 62, 63, 64, 66, 68, 69, 71, 72, 74, 75, 76, 77, 78, 80, 81, 82, 83, 84, 86, 88, 89, 90, 92, 93, 94, 96, 97, 98, 99, 100, 102, 103, 104, 105, 106, 108, 109, 110, 111, 112, 114, 115, 116, 118, 119, 120, 121, 122, 124, 125, 126, 128, 130, 131, 132, 133, 134, 136, 137, 138, 139, 140, 142, 143, 144, 145, 148, 150, 152, 153, 154, 155, 156, 158, 159, 160, 161, 162, 164, 166, 167, 168, 170, 171, 172, 174, 175, 176, 177, 179, 180, 181, 183, 185, 186, 187, 188, 190, 191, 192, 194, 195, 196, 197, 198, 200, 201, 202, 203, 204, 206, 207, 208, 209, 210, 212, 216, 217, 218, 220, 221, 222, 224, 225, 226, 228, 229, 230, 231, 232, 234, 235, 236, 237, 238, 240, 241, 242, 243, 244, 247, 248, 250, 251, 252, 254, 255, 256, 257, 258, 260, 262, 263, 264, 267, 269, 271, 272, 274, 276, 278, 279, 280, 281, 282, 284, 285, 286, 287, 289, 291, 292, 294, 296, 297, 299]
+Shot Features Length: 218
+Video number: 424
+Video ID: 0908a93749a07da23df25c1e7e13c4ceaeca1e23.flv
+Shot Timestamps: [4, 5, 8, 19, 22, 25, 28, 30, 32, 34, 35, 36, 37, 39, 40, 41, 46, 47, 52, 66, 68, 71, 74, 77, 87, 90, 92, 96, 99, 101, 102, 104, 105, 106, 108, 109, 111, 112, 113, 114, 116, 117, 118, 119, 120, 122, 124, 125, 128, 130, 131, 133, 134, 135, 137, 139, 140, 142, 143, 144, 146, 147, 149, 150, 151, 156, 158, 159, 160, 162, 163, 164, 165, 168, 170, 171, 173, 175, 176, 178, 180, 181, 182, 186, 187, 188, 190, 191, 192, 194, 195, 196, 198, 199, 200, 201, 202, 204, 205, 206, 208, 210, 212, 213, 215, 217, 219, 220, 222, 224, 225, 227, 228, 229, 231, 233, 237, 238, 240, 242, 248, 249, 258, 262, 265]
+Shot Features Length: 125
+Video number: 425
+Video ID: 36058f2303f8f3792127c3aba23a770e2ce3a2af.flv
+Shot Timestamps: [5, 8, 10, 14, 17, 32, 36, 39, 40, 42, 44, 46, 48, 50, 51, 53, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 67, 69, 71, 72, 75, 76, 79, 81, 82, 83, 84, 86, 88, 89, 91, 92, 94, 99, 101, 102, 103, 104, 106, 108, 111, 113, 115, 117, 118, 119, 120, 122, 123, 124, 126, 129, 130, 131, 132, 133, 135, 136, 139, 140, 141, 143, 144, 145, 148, 150, 151, 152, 153, 154, 157, 158, 160, 162, 164, 166, 167, 168, 169, 171, 173, 174, 175, 176, 177, 178, 179, 181, 183]
+Shot Features Length: 99
+Video number: 426
+Video ID: 43e88c05606fa8939f8a1a908cc3ec7cbffb9acf.flv
+Shot Timestamps: [14, 18, 21, 22, 24, 25, 28, 30, 32, 33, 35, 36, 37, 38, 39, 41, 42, 43, 44, 45, 47, 49, 51, 53, 54, 57, 59, 61, 62, 63, 64, 65, 66, 68, 70, 71, 73, 74, 75, 81, 83, 85, 86, 88, 90, 93, 95, 97, 98, 100, 101, 102, 104, 105, 106, 107, 111, 113, 114, 115, 116, 117, 118, 121, 122, 124, 125, 126, 127, 130, 132, 133, 134, 135, 137, 138, 139, 140, 142, 144, 146, 147, 148, 149, 151, 153]
+Shot Features Length: 86
+Video number: 427
+Video ID: 4849d1042b92a04fb2e019beec04a4f30188ba18.flv
+Shot Timestamps: [2, 3, 15, 18, 23, 24, 27, 28, 30, 31, 33, 34, 36, 38, 39, 40, 42, 43, 44, 45, 47, 48, 50, 51, 53, 55, 58, 61, 63, 65, 67, 69, 70, 72, 75, 76, 77, 78, 80, 85, 86, 88, 89, 90, 92, 93, 94, 98, 99, 101, 103, 105, 106, 108, 109, 111, 112, 116, 117, 118, 120, 121, 122, 124, 126, 127, 129, 130, 131, 135, 136, 137, 138, 140, 141, 143, 144, 146, 147, 148, 150, 152, 153, 155, 157, 158, 160, 161, 162, 164]
+Shot Features Length: 90
+Video number: 428
+Video ID: 500bc7f5c5c61a19a8d4489fece07fdc1d7ed50e.flv
+Shot Timestamps: [2, 3, 15, 18, 23, 24, 27, 28, 30, 31, 33, 34, 36, 38, 39, 40, 42, 43, 44, 45, 47, 48, 50, 51, 53, 55, 58, 61, 63, 65, 67, 69, 70, 72, 75, 76, 77, 78, 80, 85, 86, 88, 89, 90, 92, 93, 94, 98, 99, 101, 103, 105, 106, 108, 109, 111, 112, 116, 117, 118, 120, 121, 122, 124, 126, 127, 129, 130, 131, 135, 136, 137, 138, 140, 141, 143, 144, 146, 147, 148, 150, 152, 153, 155, 157, 158, 160, 161, 162, 164]
+Shot Features Length: 90
+Video number: 429
+Video ID: 50dfd1daee780fbf9722990387201e2b367a1f27.flv
+Shot Timestamps: [8, 11, 15, 18, 20, 23, 24, 25, 26, 28, 30, 31, 32, 43, 57, 60, 63, 66, 70, 82, 85, 89, 92, 94, 95, 97, 98, 99, 101, 103, 104, 106, 107, 108, 109, 111, 112, 113, 114, 116, 118, 119, 122, 124, 125, 127, 128, 130, 132, 134, 135, 136, 138, 139, 141, 142, 144, 145, 146, 152, 154, 155, 156, 158, 159, 160, 164, 166, 167, 169, 171, 172, 175, 176, 177, 179, 182, 183, 184, 186, 187, 188, 189, 191, 192, 194, 195, 196, 197, 199, 200, 201, 203, 204, 206, 207, 209, 211, 213, 215, 217, 219, 221, 222, 224, 225, 226, 228, 230, 231, 236, 237, 239]
+Shot Features Length: 113
+Video number: 430
+Video ID: 772259df16f837eb39a6d525748541fe6e15eecf.flv
+Shot Timestamps: [4, 8, 16, 19, 22, 26, 27, 29, 32, 33, 34, 36, 37, 38, 42, 49, 61, 64, 66, 70, 72, 84, 87, 91, 94, 96, 97, 98, 101, 102, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 119, 120, 122, 125, 129, 130, 132, 134, 135, 136, 138, 139, 141, 142, 144, 145, 146, 151, 153, 155, 156, 158, 159, 160, 163, 165, 167, 168, 170, 171, 173, 174, 176, 177, 180, 182, 183, 184, 186, 187, 188, 190, 191, 192, 194, 195, 196, 199, 200, 201, 202, 204, 205, 206, 208, 210, 212, 214, 215, 216, 217, 218, 220, 221, 222, 224, 225, 226, 227, 228, 230, 232, 236]
+Shot Features Length: 114
+Video number: 431
+Video ID: 923b0fb622520f5e31207dc0c339639743cd77bd.flv
+Shot Timestamps: [6, 18, 21, 24, 27, 30, 42, 44, 49, 50, 51, 52, 54, 55, 58, 60, 62, 63, 64, 66, 67, 68, 70, 72, 73, 74, 75, 76, 78, 80, 82, 83, 85, 86, 88, 90, 92, 93, 94, 96, 98, 100, 101, 102, 103, 109, 111, 112, 113, 115, 116, 118, 120, 122, 124, 126, 127, 128, 130, 132, 134, 138, 139, 140, 141, 142, 144, 145, 146, 148, 149, 150, 151, 152, 156, 159, 160, 162, 164, 165, 167, 169, 172, 173, 174, 176, 178, 179, 180, 182, 183, 185, 187, 190, 201]
+Shot Features Length: 95
+Video number: 432
+Video ID: 976d46d661538fdfcff23979d4c0d9fff5fb5ee8.flv
+Shot Timestamps: [8, 11, 15, 18, 20, 23, 24, 25, 26, 28, 30, 31, 32, 43, 57, 60, 63, 66, 70, 82, 85, 89, 92, 94, 95, 97, 98, 99, 101, 103, 104, 106, 107, 108, 109, 111, 112, 113, 114, 116, 118, 119, 122, 124, 125, 127, 128, 130, 132, 134, 135, 136, 138, 139, 141, 142, 144, 145, 146, 152, 154, 155, 156, 158, 159, 160, 164, 166, 167, 169, 171, 172, 175, 176, 177, 179, 182, 183, 184, 186, 187, 188, 189, 191, 192, 194, 195, 196, 197, 199, 200, 201, 203, 204, 206, 207, 209, 211, 213, 215, 217, 219, 221, 222, 224, 225, 226, 228, 230, 231, 236, 237, 239]
+Shot Features Length: 113
+Video number: 433
+Video ID: abd84397791c7c16a1718e37e2821f232889d9ac.flv
+Shot Timestamps: [6, 18, 21, 24, 27, 30, 42, 44, 49, 50, 51, 52, 54, 55, 58, 60, 62, 63, 64, 66, 67, 68, 70, 72, 73, 74, 75, 76, 78, 80, 82, 83, 85, 86, 88, 90, 92, 93, 94, 96, 98, 100, 101, 102, 103, 109, 111, 112, 113, 115, 116, 118, 120, 122, 124, 126, 127, 128, 130, 132, 134, 138, 139, 140, 141, 142, 144, 145, 146, 148, 149, 150, 151, 152, 156, 159, 160, 162, 164, 165, 167, 169, 172, 173, 174, 176, 178, 179, 180, 182, 183, 185, 187, 190, 201]
+Shot Features Length: 95
+Video number: 434
+Video ID: b441a4e7885a6735296550f6e765a3fc1da1947b.flv
+Shot Timestamps: [4, 8, 16, 19, 22, 26, 27, 29, 32, 33, 34, 36, 37, 38, 42, 49, 61, 64, 66, 70, 72, 84, 87, 91, 94, 96, 97, 98, 101, 102, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 119, 120, 122, 125, 129, 130, 132, 134, 135, 136, 138, 139, 141, 142, 144, 145, 146, 151, 153, 155, 156, 158, 159, 160, 163, 165, 167, 168, 170, 171, 173, 174, 176, 177, 180, 182, 183, 184, 186, 187, 188, 190, 191, 192, 194, 195, 196, 199, 200, 201, 202, 204, 205, 206, 208, 210, 212, 214, 215, 216, 217, 218, 220, 221, 222, 224, 225, 226, 227, 228, 230, 232, 236]
+Shot Features Length: 114
+Video number: 435
+Video ID: b90b0fdb3035754c78e100577387be7c39ea2404.flv
+Shot Timestamps: [5, 8, 10, 14, 17, 32, 36, 39, 40, 42, 44, 46, 48, 50, 51, 53, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 67, 69, 71, 72, 75, 76, 79, 81, 82, 83, 84, 86, 88, 89, 91, 92, 94, 99, 101, 102, 103, 104, 106, 108, 111, 113, 115, 117, 118, 119, 120, 122, 123, 124, 126, 129, 130, 131, 132, 133, 135, 136, 139, 140, 141, 143, 144, 145, 148, 150, 151, 152, 153, 154, 157, 158, 160, 162, 164, 166, 167, 168, 169, 171, 173, 174, 175, 176, 177, 178, 179, 181, 183]
+Shot Features Length: 99
+Video number: 436
+Video ID: ffc734ab3e218f50f27286750b42a924fa151ef5.flv
+Shot Timestamps: [2, 3, 5, 8, 12, 13, 15, 17, 22, 23, 25, 27, 28, 32, 33, 35, 37, 38, 40, 42, 43, 45, 47, 48, 50, 52, 53, 55, 57, 58, 60, 62, 63, 65, 67, 70, 72, 73, 75, 77, 78, 80, 82, 83, 85, 87, 88, 90, 92, 93, 95, 97, 98, 100, 102, 103, 105, 107, 108, 110, 112, 113, 115, 117, 118, 120, 122, 123, 125, 127, 128, 130, 132, 133, 135, 137, 138, 140, 142, 143, 145, 147, 148, 150, 152, 153, 155, 157, 158, 160, 162, 163, 165, 166, 168, 170]
+Shot Features Length: 96
+Video number: 437
+Video ID: 1c30bd1429c68113b2e9adc4e080488d743b14df.flv
+Shot Timestamps: [6, 8, 10, 20, 27, 31, 33, 40, 42, 48, 51, 54, 56, 64, 72, 81, 83, 84, 86, 88, 90, 94, 96, 98, 103, 110, 112, 113, 118, 123, 124, 139, 148, 150, 158, 166, 170, 172, 175, 177, 178, 181, 185, 187, 189, 191, 195, 199, 201, 206, 210, 212, 221, 225, 237, 245, 248, 255]
+Shot Features Length: 58
+Video number: 438
+Video ID: 1c347b1b7ceb23e4b45f0965cafb6f981c0f61d5.flv
+Shot Timestamps: [5, 7, 9, 13, 18, 19, 34, 43, 45, 53, 61, 65, 67, 70, 71]
+Shot Features Length: 15
+Video number: 439
+Video ID: 1e0136fbd902af54aa012949158c995b75f9b443.flv
+Shot Timestamps: [6, 8, 10, 20, 27, 31, 33, 42, 48, 51, 54, 56, 64, 73, 81, 83, 84, 86, 88, 90, 94, 96, 98, 103, 110, 112, 114, 118, 123, 124, 139, 148, 150, 158, 166, 170, 172, 175, 176, 177, 181, 185, 187, 189, 190, 194, 199, 201, 206, 210]
+Shot Features Length: 50
+Video number: 440
+Video ID: 1e65b3cc99734d5b44474fd883a58e27e7644360.flv
+Shot Timestamps: [2, 12, 19, 23, 25, 32, 34, 40, 42, 56, 64, 72, 74, 76, 78, 80, 82, 86, 88, 89, 95, 104, 105, 109, 114, 116, 139, 142, 150, 157, 161, 163, 167]
+Shot Features Length: 33
+Video number: 441
+Video ID: 28e2a70b9a97f4f501ec673368cdd9caa1d00831.flv
+Shot Timestamps: [2, 4, 10, 14, 15, 19, 21, 28, 30, 40, 41, 53, 55, 59, 61, 62, 80, 96, 97, 99, 108, 109, 114, 115, 120, 122, 125, 135, 139, 144, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 179, 180, 181, 186, 187, 188, 192, 194, 199, 202, 204, 206, 209, 211, 215, 216, 218, 220, 221, 223, 224, 225, 226, 227, 228, 230, 231, 235, 236, 237, 240, 241, 242, 243, 245, 246, 247, 248, 249, 252, 253, 254, 255, 256, 258, 265, 266, 269, 271, 276, 277, 278, 280, 286, 288, 291, 294, 302, 304, 310, 319, 320, 322, 324, 326, 328, 332, 334, 335, 341, 348, 350, 351, 355, 360, 362, 363, 365, 377, 385, 388, 396, 403, 408, 410, 413, 414]
+Shot Features Length: 145
+Video number: 442
+Video ID: 4dd842508699d66636298376da31208a2e029c61.flv
+Shot Timestamps: [16, 18, 21, 22, 23, 25, 26, 27, 28, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 42, 43, 44, 51, 57, 58, 62, 64, 69, 71, 73, 76, 87, 89, 90, 94, 96, 99, 102, 104, 105, 108, 111, 113, 115, 116, 125, 132, 136, 137, 144, 146, 152, 154, 157, 160, 167, 175, 183, 185, 186, 188, 190, 192, 196, 198, 199, 204, 211, 213, 214, 218, 223, 225, 239, 247, 250, 257, 264, 269, 270, 274, 275, 276, 279, 283, 285]
+Shot Features Length: 86
+Video number: 443
+Video ID: 51dabd8f940a75182408db600fa74a5cfc9b3d29.flv
+Shot Timestamps: [6, 8, 10, 20, 27, 31, 33, 42, 48, 51, 54, 56, 64, 73, 81, 83, 84, 86, 88, 90, 94, 96, 98, 103, 110, 112, 114, 118, 123, 124, 139, 148, 150, 158, 166, 170, 172, 175, 176, 177, 181, 185, 187, 189, 190, 194, 199, 201, 206, 210]
+Shot Features Length: 50
+Video number: 444
+Video ID: 74c3753f0751b532dd29c947777e5825dd3b2392.flv
+Shot Timestamps: [1, 4, 13, 18, 19, 20, 23, 25, 32, 33, 34, 37, 41, 43, 45, 46, 55, 62, 66, 68, 77, 83, 86, 88, 91, 99, 107, 116, 118, 119, 121, 123, 125, 129, 131, 133, 138, 145, 147, 148, 153, 157, 159, 174, 183, 185, 193, 201, 205, 207, 210, 212, 213, 216, 220, 222, 224, 226, 229, 234, 236, 241, 245, 247, 253]
+Shot Features Length: 65
+Video number: 445
+Video ID: 834a827de29c3955ab8cb0d7bf800bcb64acf555.flv
+Shot Timestamps: [2, 12, 19, 23, 25, 32, 34, 40, 42, 48, 56, 64, 72, 74, 76, 78, 80, 82, 86, 88, 89, 95, 104, 105, 109, 114, 116, 131, 139, 142, 150, 157, 161, 163, 167]
+Shot Features Length: 35
+Video number: 446
+Video ID: 8dab37af058628a51bd4b7e0a5a0c1cd5234f6ac.flv
+Shot Timestamps: [6, 8, 10, 20, 27, 31, 33, 40, 42, 48, 51, 54, 56, 64, 72, 81, 83, 84, 86, 88, 90, 94, 96, 98, 103, 110, 112, 113, 118, 123, 124, 139, 148, 150, 158, 166, 170, 172, 175, 177, 178, 181, 185, 187, 189, 191, 195, 199, 201, 206, 210, 212, 221, 225, 245, 249, 255]
+Shot Features Length: 57
+Video number: 447
+Video ID: b97bd2c745407e22c671d36b64a5be29659aa0ba.mp4
+Shot Timestamps: [1, 2, 4, 6, 7, 8, 9, 11, 13, 15, 17, 19, 20, 21, 23, 26, 28, 33, 35, 38, 40, 43, 44, 46, 47, 48, 60, 61, 69, 76, 80, 82, 84, 86, 89, 90, 92, 96, 107, 109, 113, 120, 122, 131, 134, 138, 139, 140, 142, 147]
+Shot Features Length: 50
+Video number: 448
+Video ID: d821d4ffbf4f727e376164e2ad149757b70d0579.flv
+Shot Timestamps: [16, 18, 20, 21, 22, 23, 24, 26, 27, 28, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 42, 43, 44, 47, 50, 52, 57, 58, 62, 64, 69, 71, 73, 76, 89, 90, 91, 94, 96, 103, 104, 105, 111, 113, 115, 116, 125, 132, 136, 137, 146, 152, 154, 157, 160, 167, 175, 183, 185, 186, 188, 190, 192, 196, 198, 200, 204, 211, 213, 214, 218, 223, 225, 239, 248, 250, 258, 264, 269, 270, 274, 275, 276, 280, 283, 285]
+Shot Features Length: 86
+Video number: 449
+Video ID: e7d95916555f9a89b377a0e9f94087416c8f9914.flv
+Shot Timestamps: [16, 18, 20, 21, 22, 23, 24, 26, 27, 28, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 42, 43, 44, 47, 50, 52, 57, 58, 62, 64, 69, 71, 73, 76, 89, 90, 91, 94, 96, 103, 104, 105, 111, 113, 115, 116, 125, 132, 136, 137, 146, 152, 154, 157, 160, 167, 175, 183, 185, 186, 188, 190, 192, 196, 198, 200, 204, 211, 213, 214, 218, 223, 225, 239, 248, 250, 258, 264, 269, 270, 274, 275, 276, 280, 283, 285]
+Shot Features Length: 86
+Video number: 450
+Video ID: 131233edfdfe1756ea474dab9f3a70d8530433d7.flv
+Shot Timestamps: [2, 6, 9, 12, 15, 16, 19, 21, 24, 27, 30, 34, 37, 40, 41, 45, 47, 50, 54, 55, 57, 64, 70, 80, 99]
+Shot Features Length: 25
+Video number: 451
+Video ID: 1803c61a647e94580b6b4fa9dd0677ae787df1fb.mp4
+Shot Timestamps: [6, 14, 16, 21, 23, 26, 28, 30, 31, 32, 34, 38, 40, 41, 46, 47, 50, 51, 52, 56, 65, 67, 74, 86, 90, 91, 93, 105, 116, 120, 121, 124, 125, 138, 143, 146, 147, 165]
+Shot Features Length: 38
+Video number: 452
+Video ID: 18b795635784edf78f356c8fa2daf892c1fb7de0.flv
+Shot Timestamps: [2, 6, 7, 9, 16, 20, 21, 26, 33, 37, 40, 41, 43]
+Shot Features Length: 13
+Video number: 453
+Video ID: 2d033b088c2a341267c1329439506c206d6e7a87.flv
+Shot Timestamps: [6, 14, 16, 22, 24, 26, 28, 30, 32, 34, 38, 40, 41, 46, 51, 56, 66, 68, 74, 86, 89, 95]
+Shot Features Length: 22
+Video number: 454
+Video ID: 34d8301dfa17beef7c5a703c03765e328c2c108e.flv
+Shot Timestamps: [4, 11, 16, 24, 26, 31, 33, 36, 38, 40, 44, 46, 47, 52, 56, 57, 61, 62, 70, 72, 78, 84, 88, 90, 92, 95, 96, 99, 102, 112, 116, 121, 125, 130, 135, 137, 139, 153]
+Shot Features Length: 38
+Video number: 455
+Video ID: 48410b965d9e38987584d5ac39e3da0066a541df.flv
+Shot Timestamps: [1, 6, 14, 16, 22, 24, 26, 30, 44, 50, 71, 78, 79, 81, 85, 87, 88, 91, 100, 101, 103, 107, 116, 121, 132, 138, 144, 147, 166, 167, 168, 171, 172, 187, 203, 204, 207, 209, 210, 211, 219, 223, 226, 227, 243, 244, 251, 257, 258, 260, 275, 280]
+Shot Features Length: 52
+Video number: 456
+Video ID: 4b8d5281f2235a0da86a784857fb44a7e5725c21.flv
+Shot Timestamps: [1, 7, 26, 36, 38, 44, 54, 65, 89, 93, 98, 99, 121, 138]
+Shot Features Length: 14
+Video number: 457
+Video ID: 524ef63fbe3c17ac7dce07f21e19c22841269580.flv
+Shot Timestamps: [1, 4, 6, 9, 12, 14, 18, 22, 25, 29, 30, 32, 33, 35, 37, 40, 46, 48, 51, 54, 56, 66, 75, 77, 79, 80, 83, 86, 89, 92, 93]
+Shot Features Length: 31
+Video number: 458
+Video ID: 57c51ad056860d885f1f7535f07f1d82d1fe03c5.flv
+Shot Timestamps: [7, 15, 17, 22, 24, 26, 27, 29, 31, 32, 33, 35, 39, 41, 42, 47, 51, 53, 57, 66, 69, 75, 87, 91, 92, 94, 106, 117, 121, 125, 126, 143, 144, 147, 148, 157, 165]
+Shot Features Length: 37
+Video number: 459
+Video ID: 57e9e178196e922eda7174a756d3bdb80c1b4758.mp4
+Shot Timestamps: [1, 2, 10, 11, 12, 13, 14, 16, 17, 19, 21, 22, 24, 26, 27, 29, 30, 34, 36, 38, 43, 54, 63, 65, 72, 73, 82, 83, 84, 89, 90, 92, 99, 105, 109, 110, 116, 121, 124, 125, 148, 153, 155, 166]
+Shot Features Length: 44
+Video number: 460
+Video ID: 5ceebbdf8bac4c15ff4657c73feee58dedd67c78.flv
+Shot Timestamps: [1, 5, 13, 15, 21, 23, 25, 27, 29, 30, 32, 33, 37, 39, 40, 45, 55, 64, 67, 73, 86, 89, 92, 105, 116, 120, 123, 124, 141, 142, 145, 146, 158, 169, 179, 189, 199, 209, 219, 229, 239, 249, 259, 269, 279, 289, 299, 309, 319, 329, 339, 349, 357]
+Shot Features Length: 53
+Video number: 461
+Video ID: 64de9d6b38ee8593d635a40baa74ace9a5316aa1.flv
+Shot Timestamps: [5, 7, 12, 14, 17, 18, 21, 22, 23, 24, 28, 30, 32, 37, 47, 56, 58, 64, 77, 81, 84, 96, 107, 111, 116, 121, 123]
+Shot Features Length: 27
+Video number: 462
+Video ID: 659b7a2003008951009b3edb5b61b455abae21a8.flv
+Shot Timestamps: [6, 14, 16, 22, 24, 26, 28, 30, 31, 33, 34, 38, 40, 41, 46, 51, 56, 66, 68, 74, 86]
+Shot Features Length: 21
+Video number: 463
+Video ID: 8105112836d236b232243624663911147a944ed4.mp4
+Shot Timestamps: [2, 8, 10, 12, 19, 21, 28, 31, 35, 37, 41, 45, 48, 55, 61, 72, 75, 77, 78, 81, 104, 115, 119, 120]
+Shot Features Length: 24
+Video number: 464
+Video ID: 851a6c020ddd0b07bff00667ae8913fe8452f422.flv
+Shot Timestamps: [6, 14, 16, 19, 20, 22, 24, 25, 26, 30, 32, 34, 38, 40, 42, 45, 49, 58, 60, 66, 79, 82, 84, 86, 87, 90, 91, 92, 94, 96, 101]
+Shot Features Length: 31
+Video number: 465
+Video ID: 8b183ce1a33c5ab3eec1b3dc91e29b98f52bd3c1.flv
+Shot Timestamps: [3, 5, 11, 12, 18, 20, 25, 28, 30]
+Shot Features Length: 9
+Video number: 466
+Video ID: 8eced8631e728d892ecce8b2d916e8f12c03f63b.flv
+Shot Timestamps: [1, 4, 5, 7, 10, 12, 13, 14, 15, 16, 22, 24, 25, 28, 32, 33, 35, 42, 47, 52, 53, 56, 58, 59, 61, 62, 68, 69, 72, 74, 78, 80, 81, 82, 84, 86, 90, 92, 95, 97, 99, 100, 102, 106, 108, 110, 112, 114, 115, 116, 118, 120, 123, 124, 126, 127, 128, 129, 132, 134, 138, 142, 144, 146, 147, 148, 150, 151, 152, 154, 156, 158, 160, 167, 170, 177, 188, 189, 194, 196, 200, 201, 202, 204, 205, 207, 208, 209, 210, 212, 214, 216, 217, 218, 224, 228, 235, 238, 239, 240, 242, 244, 245, 248, 250, 252, 253, 254, 256, 257, 261, 263, 264, 266, 267, 269, 271, 273, 275, 276, 278, 280, 283, 284, 288, 291, 294, 296, 297, 300, 302, 303, 304, 313, 317]
+Shot Features Length: 135
+Video number: 467
+Video ID: 8f7a8b19c5309b39e0d2b908d6ab9ccb313da72b.flv
+Shot Timestamps: [6, 14, 16, 19, 20, 22, 24, 25, 26, 30, 32, 34, 38, 40, 42, 45, 49, 58, 60, 66, 79, 82, 84, 86, 87, 90, 91, 92, 94, 96, 101]
+Shot Features Length: 31
+Video number: 468
+Video ID: 90b2f3863d924c7aef594b86c1d3a10092ff141e.mp4
+Shot Timestamps: [9, 16, 17, 20, 27, 30, 33, 36, 39, 44, 46, 47, 49, 56, 59, 61, 62, 65, 66, 67, 69, 70, 74, 77, 79, 80, 81, 82, 83, 84, 86, 92, 97, 102, 106, 110, 111, 112, 113, 115, 117, 123, 127, 133, 136, 141, 143, 146, 149, 151, 155, 156, 158, 161, 163, 165, 170, 174, 178, 180, 187, 192, 195, 197, 199, 200, 201, 203, 204, 206, 207, 208, 210, 212, 213, 216, 218, 222, 223, 225, 226, 227, 228, 231, 232, 233, 234, 235, 236, 237, 238, 242, 243, 244, 245, 246, 248, 251, 253, 254, 256, 258, 259, 264, 270, 271, 272, 273, 274, 277, 278, 287]
+Shot Features Length: 112
+Video number: 469
+Video ID: 988c10a00144e5cc99f35d5c2e819ae83a14af00.flv
+Shot Timestamps: [1, 6, 14, 16, 20, 22, 25, 28, 30, 33, 36, 42, 48, 51, 56, 60, 61, 62, 64, 68]
+Shot Features Length: 20
+Video number: 470
+Video ID: ac919b7ef7f4bd14fffddc17c41f9057f5cb408b.flv
+Shot Timestamps: [3, 11]
+Shot Features Length: 2
+Video number: 471
+Video ID: b2591211ef659b15f9ddb19f0d62086d880a25e7.flv
+Shot Timestamps: [9, 35, 42, 48, 73, 88]
+Shot Features Length: 6
+Video number: 472
+Video ID: b95fcc5bd9b38c2ace5c5e19d5f8e2faef086c2d.flv
+Shot Timestamps: [26, 38, 56, 66, 68, 74, 93, 153, 168]
+Shot Features Length: 9
+Video number: 473
+Video ID: bdf029642e25b4e815c3bb602427babb2cbede2c.mp4
+Shot Timestamps: [1, 5, 13, 15, 21, 23, 25, 27, 29, 30, 32, 33, 37, 39, 40, 45, 55, 64, 67, 73, 85, 89, 92, 105, 115, 119, 120, 123, 124, 145, 146, 159]
+Shot Features Length: 32
+Video number: 474
+Video ID: be847241c99460843de85ffa104b07dcac62e588.flv
+Shot Timestamps: [1, 6, 14, 16, 22, 24, 26, 28, 30, 32, 34, 38, 40, 41, 46, 47, 50, 51, 52, 56, 66, 68, 74, 86, 90, 93, 100, 106, 109, 117, 121, 123, 125, 138, 142, 144, 146, 147, 165]
+Shot Features Length: 39
+Video number: 475
+Video ID: c1ffd1a86d2b2451edda0bb4b25c914350aa9826.mp4
+Shot Timestamps: [2, 14, 16, 22, 27, 36, 43, 48, 52, 57, 58, 59, 63, 65, 66, 68, 70, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 88, 90, 94, 95, 96, 99, 100, 101, 102, 103, 108, 111, 112, 113, 114, 117, 123, 124, 126, 127, 128, 130, 131, 138, 145, 150, 152, 153, 155, 156, 157, 158, 159, 161, 162, 163, 164, 165, 166, 168, 169, 170, 171, 172, 174, 177, 181, 183, 184, 190, 192, 193, 194, 195, 196, 198, 202, 210, 211, 212, 218, 220, 224, 225, 227, 231, 232, 233, 234, 249, 250, 251, 252, 253, 254, 256, 266, 270, 275, 277, 279, 280, 281, 282, 283, 284, 285, 286, 295, 300, 303, 306, 311, 314, 317, 320, 322, 323, 325, 326, 329, 332, 334, 338, 342, 345, 348, 355, 359, 361, 364, 367, 368, 374, 379, 383, 386, 390, 391, 394, 395, 396, 398, 401, 404, 406, 408, 409, 416, 417, 423, 425, 428, 429, 431, 432, 434, 435, 439, 441, 442, 447, 452, 454, 458, 467, 468, 475, 488, 491, 492, 495, 507, 518, 522, 523, 527, 540, 543, 544, 547, 549, 566, 571, 583, 588, 604, 606, 610, 612, 615, 616, 622, 624, 625, 626, 631, 634, 635, 637, 639, 640, 642, 649, 651, 652, 655]
+Shot Features Length: 219
+Video number: 476
+Video ID: c93fd45d975f63d8341fe603023a9d0258b4e02b.flv
+Shot Timestamps: [10, 19, 20, 22, 25, 28, 41, 45, 48, 52]
+Shot Features Length: 10
+Video number: 477
+Video ID: ced799f59617c20019ab9faa3be934b9c77f14c8.mp4
+Shot Timestamps: [1, 2, 5, 6, 7, 8, 10, 12, 14, 19, 20, 23, 28, 36, 39, 46]
+Shot Features Length: 16
+Video number: 478
+Video ID: d2442b3cf9396f6ae26a92e9165c8798297384ed.mp4
+Shot Timestamps: [1, 2, 10, 11, 12, 13, 14, 16, 17, 19, 21, 22, 24, 26, 27, 29, 30, 34, 36, 38, 43, 54, 63, 65, 72, 73, 82, 83, 84, 89, 90, 92, 99, 105, 109, 110, 116, 121, 124, 125, 148, 153, 155, 166]
+Shot Features Length: 44
+Video number: 479
+Video ID: de04dd21b7ef63a37ae70770dc0cfa0b2c1f52fc.flv
+Shot Timestamps: [1, 6, 14, 16, 20, 22, 25, 28, 30, 33, 36, 42, 48, 51, 56, 60, 61, 62, 64, 68]
+Shot Features Length: 20
+Video number: 480
+Video ID: e0159f1fa526854a81158d9cef89e31d2d189bf1.mp4
+Shot Timestamps: [6, 14, 16, 21, 23, 26, 28, 30, 31, 32, 34, 38, 40, 41, 46, 47, 50, 51, 52, 56, 65, 67, 74, 86, 90, 93, 105, 116, 120, 121, 124, 125, 138, 143, 146, 147, 165]
+Shot Features Length: 37
+Video number: 481
+Video ID: eb97c61cfd330392a5d8c6d5c7e48fdfd1a0c859.flv
+Shot Timestamps: [5, 7, 12, 14, 17, 18, 21, 22, 23, 24, 28, 30, 32, 37, 47, 56, 58, 64, 77, 81, 84, 96, 107, 111, 116, 121, 123]
+Shot Features Length: 27
+Video number: 482
+Video ID: ec6d9578723211eebde91393c69ba9f84507431c.mp4
+Shot Timestamps: [2, 5, 11, 19, 21, 26, 28, 31, 33, 35, 36, 38, 39, 43, 44, 46, 51, 52, 56, 61, 70, 73, 79, 92, 95, 98, 110, 122, 126, 130, 136, 139, 151]
+Shot Features Length: 33
+Video number: 483
+Video ID: f277e9757d3eeeef647967a50e7c9211f9298de5.flv
+Shot Timestamps: [1, 6, 14, 16, 22, 24, 26, 28, 30, 32, 34, 38, 40, 41, 46, 47, 50, 51, 52, 56, 66, 68, 74, 86, 90, 93, 100, 106, 109, 117, 121, 123, 125, 138, 142, 144, 146, 147, 165]
+Shot Features Length: 39
+Video number: 484
+Video ID: f39ab3318095c03b262a315d486a33dbcc41a535.flv
+Shot Timestamps: [3, 8, 11, 12, 14, 16, 17, 20, 22, 24, 30, 34, 38, 45, 47, 49, 52, 55, 61, 63, 65, 77, 86]
+Shot Features Length: 23
+Video number: 485
+Video ID: fcbbdde0277a104a69b6bf013156f875ec9cfe0c.flv
+Shot Timestamps: [1, 6, 14, 16, 22, 24, 26, 28, 30, 32, 34, 38, 40, 41, 46, 51, 56, 66, 68, 74, 86, 90, 93, 106, 116, 121, 125, 143, 146, 147, 165]
+Shot Features Length: 31
+Video number: 486
+Video ID: 015d1827ee83949cba0db763a6d3d916d83f4f95.flv
+Shot Timestamps: [8, 9, 19, 20, 25, 27, 33, 34, 40, 42, 48, 49, 59, 61, 62, 63, 64, 66, 67, 69, 71, 73, 77, 78, 81, 82, 85, 88, 91, 130, 136, 163, 166, 171, 220, 222, 224]
+Shot Features Length: 37
+Video number: 487
+Video ID: 80f9281cacdfc5aef4a111d9286a66c30338e30a.flv
+Shot Timestamps: [8, 9, 19, 20, 25, 27, 33, 34, 40, 42, 48, 49, 59, 61, 62, 63, 64, 66, 67, 69, 71, 73, 77, 78, 81, 82, 85, 88, 91, 130, 136, 163, 166, 171, 220, 222, 224]
+Shot Features Length: 37
+Video number: 488
+Video ID: e2397f231463229b2c93e61d7837f7c0e9b88377.flv
+Shot Timestamps: [8, 9, 19, 20, 25, 27, 33, 34, 40, 42, 48, 49, 59, 61, 62, 63, 64, 66, 67, 69, 71, 73, 77, 78, 81, 82, 85, 88, 91, 130, 136, 163, 166, 171, 220, 222, 224]
+Shot Features Length: 37
+Video number: 489
+Video ID: 0a6a553c5d2d7eb7409eb580e7da01f60e3176f1.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 54, 56, 57, 59, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 76, 79, 80, 81, 82, 83, 84, 85, 86, 87, 89, 90, 91, 92, 93, 94, 97, 99, 100, 101, 102, 103, 105, 108, 109, 110, 111, 113, 114, 115, 117, 118, 119, 120, 121, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 135, 138, 139, 141, 142, 143, 145, 146, 152, 153, 154, 155, 156, 158, 159, 162, 164, 166, 170, 171, 173, 181, 183, 185, 189, 193]
+Shot Features Length: 132
+Video number: 490
+Video ID: 0b3f9e88e5ab73e19dc4d1a32115ea3457867128.flv
+Shot Timestamps: [3, 8, 17, 24, 30, 33, 37, 41, 46, 47, 52, 53, 54, 56, 65, 71, 74, 80, 81, 82, 84, 85, 87, 88, 89, 90, 94, 95, 96, 99, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 136, 137, 138, 139, 140, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 180, 181, 182, 183, 184, 185, 187, 190, 191, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 215, 219, 220, 221, 222, 223, 225, 226, 232, 233, 234, 235, 236, 237, 238, 241, 243, 245, 249, 250, 252, 260, 261, 263, 267, 271]
+Shot Features Length: 154
+Video number: 491
+Video ID: 548e9ff21d5a54cf621986dc6047abf8db12e8b7.flv
+Shot Timestamps: [7, 13, 16, 20, 24, 29, 34, 35, 38, 48, 54, 56, 62, 64, 66, 68, 69, 70, 71, 72, 73, 77, 78, 79, 82, 83, 84, 85, 86, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 123, 125, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 156, 157, 158, 159, 162, 163, 164, 165, 166, 167, 168, 170, 172, 174, 175, 177, 178, 179, 180, 181, 182, 183, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 198, 201, 202, 204, 205, 206, 207, 208, 209, 214, 215, 216, 217, 218, 220, 221, 224, 226, 227, 232, 233, 235, 236, 242, 244, 245, 249, 254, 255, 256, 258, 263, 264, 265, 269, 274, 281, 282, 283, 286, 291, 295]
+Shot Features Length: 164
+Video number: 492
+Video ID: 6280e17346f8c34c231180e8d659f804d111fa6b.mp4
+Shot Timestamps: [1, 4, 5, 6, 8, 10, 12, 14, 15, 17, 19, 21, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 83, 84, 85, 86, 87, 89, 90, 91]
+Shot Features Length: 76
+Video number: 493
+Video ID: 6fe097a963673b26c62f6ff6d6151d383c194b9d.flv
+Shot Timestamps: [3, 8, 17, 24, 30, 33, 37, 41, 46, 47, 51, 53, 56, 65, 71, 74, 79, 81, 84, 85, 87, 88, 89, 90, 91, 94, 95, 96, 97, 99, 100, 101, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 179, 180, 182, 183, 184, 185, 187, 189, 191, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 209, 210, 211, 212, 213, 215, 218, 219, 221, 222, 223, 224, 225, 226, 231, 232, 233, 234, 235, 237, 238, 241, 243, 244, 249, 250, 252, 259, 261, 262, 264]
+Shot Features Length: 152
+Video number: 494
+Video ID: 7fdf8f5e4fb91b1af5b016242ad70fd0d74abb42.flv
+Shot Timestamps: [7, 8, 12, 14, 15, 17, 18, 20, 22, 24, 25, 29, 30, 32, 35, 39, 41, 45, 50, 54, 57, 59, 64, 80, 84, 86, 91, 92, 98, 111, 114, 116, 121, 130, 137, 143, 146, 150, 154, 159, 164, 166, 169, 171, 173, 175, 176, 178, 179, 180, 181, 182, 184, 185, 186, 188, 189, 190, 191, 192, 194, 195, 196, 197, 198, 200, 201, 202, 203, 204, 206, 207, 208, 209, 210, 212, 213, 214, 216, 217, 219, 220, 222, 223, 224, 226, 227, 228, 229, 230, 232, 233, 234, 235, 237, 238, 240, 241, 242, 244, 245, 246, 247, 248, 250, 251, 254, 255, 256, 258, 260, 261, 264, 265, 266, 268, 269, 270, 271, 272, 274, 275, 276, 277, 278, 281, 282, 284, 286, 287, 288, 289, 291, 292, 293, 296, 297, 298, 300, 302, 303, 305, 352]
+Shot Features Length: 143
+Video number: 495
+Video ID: 868f1ff130f7a0215de9abfacca746f96c4cd85d.flv
+Shot Timestamps: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 108, 109, 111, 112, 113, 114, 115, 116, 117, 121, 122, 123, 124, 125, 127, 129, 130, 134, 135, 137, 139, 140, 141, 144, 148]
+Shot Features Length: 122
+Video number: 496
+Video ID: 8e4dcdacc0266b4836101656bcd0fd7721918e40.flv
+Shot Timestamps: [13, 16, 19, 24, 33, 40, 47, 50, 54, 59, 64, 69, 71, 74, 84, 90, 92, 98, 100, 103, 104, 106, 107, 108, 110, 114, 115, 116, 119, 120, 122, 123, 126, 127, 128, 130, 131, 132, 134, 135, 137, 138, 139, 140, 142, 144, 145, 146, 148, 149, 150, 151, 152, 154, 155, 156, 157, 158, 160, 162, 164, 166, 167, 168, 170, 171, 172, 173, 174, 176, 177, 178, 179, 181, 184, 185, 186, 187, 188, 190, 191, 192, 194, 195, 196, 198, 199, 202, 204, 205, 206, 207, 208, 210, 213, 214, 216, 218, 219, 220, 222, 223, 224, 226, 228, 229, 230, 232, 233, 234, 236, 237, 240, 243, 244, 246, 247, 249, 250, 251, 256, 258, 259, 260, 263, 264, 266, 269, 270, 275, 276, 277]
+Shot Features Length: 132
+Video number: 497
+Video ID: 911169b1e685d943c7854a1c0ecdf9cef1250bec.mp4
+Shot Timestamps: [2, 4, 6, 8, 10, 15, 17, 22, 23, 24, 27, 31, 34, 37, 41, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 64, 66, 67, 68, 69, 70, 71, 72, 74, 76, 77, 78, 79, 80, 82, 84, 87, 88, 90, 92, 94, 95, 99, 100, 101, 102, 103, 105, 106, 108, 112, 113, 115, 116, 117, 120]
+Shot Features Length: 69
+Video number: 498
+Video ID: 9185e2ba429ae15c5e2a2d0f624dee890e03d0f0.flv
+Shot Timestamps: [3, 8, 17, 24, 30, 33, 37, 41, 46, 47, 51, 53, 56, 65, 71, 74, 79, 81, 84, 85, 87, 88, 89, 90, 91, 94, 95, 96, 97, 99, 100, 101, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 179, 180, 182, 183, 184, 185, 187, 189, 191, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 209, 210, 211, 212, 213, 215, 218, 219, 221, 222, 223, 224, 225, 226, 231, 232, 233, 234, 235, 237, 238, 241, 243, 244, 249, 250, 252, 259, 261, 262, 264]
+Shot Features Length: 152
+Video number: 499
+Video ID: 97f5900df59435bc1230615987e24858e9a37f67.flv
+Shot Timestamps: [2, 3, 4, 6, 7, 8, 12, 13, 14, 17, 18, 20, 21, 22, 24, 25, 26, 28, 29, 30, 31, 32, 34, 35, 36, 38, 39, 41, 42, 44, 45, 46, 47, 48, 50, 52, 53, 54, 56, 57, 60, 62, 63, 64, 65, 66, 68, 69, 70, 72, 73, 74, 75, 76, 79, 80, 82, 83, 84, 86, 87, 88, 89, 90, 92, 93, 95, 97, 98, 100, 101, 102, 103, 105, 107, 108, 110, 111, 113, 114, 116, 117, 118, 120, 121, 122, 124, 125, 126, 127, 128, 130, 131, 133, 136, 137, 139, 140, 142, 143, 144, 149, 150, 152, 153, 155, 157, 159, 161, 162, 167, 168, 170, 178, 179, 180, 183]
+Shot Features Length: 117
+Video number: 500
+Video ID: 9b15a52652373497a10b8915b8cc025967962b72.flv
+Shot Timestamps: [5, 7, 9, 11, 12, 13, 14, 15, 16, 19, 20, 21, 22, 24, 25, 26, 27, 28, 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 99, 100, 101, 105, 106, 107, 108, 109, 110, 112, 115, 116, 117, 118, 119, 120, 121, 123, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 140, 143, 144, 146, 148, 149, 150, 151, 152, 157, 158, 159, 160, 161, 163, 164, 166, 168, 170, 174, 175, 177, 185, 186, 188, 192, 196, 197, 198, 200, 205, 206, 207, 211, 216, 223, 225, 226, 227, 229, 233, 237, 239, 240]
+Shot Features Length: 155
+Video number: 501
+Video ID: 9c5fde27983574ca7840da09d40c40bd20820957.flv
+Shot Timestamps: [2, 3, 5, 7]
+Shot Features Length: 4
+Video number: 502
+Video ID: 9f7862bcee961fdec039a3f287ad7c8351cfbed9.flv
+Shot Timestamps: [4, 17, 20, 23, 28, 34, 38, 42, 48, 53, 54, 57, 59, 60, 61, 62, 64, 65, 66, 68, 69, 70, 71, 73, 74, 76, 77, 78, 80, 81, 83, 84, 85, 86, 88, 89, 90, 91, 92, 94, 95, 97, 98, 99, 100, 102, 103, 104, 105, 106, 108, 109, 110, 111, 113, 114, 116, 117, 118, 120, 121, 122, 123, 124, 126, 128, 129, 131, 132, 133, 134, 136, 137, 138, 140, 142, 143, 144, 146, 147, 148, 149, 150, 152, 153, 156, 159, 160, 161, 164, 165, 166, 167, 172, 173, 174, 176, 177, 178, 182, 184, 186, 187, 188, 191, 214, 226]
+Shot Features Length: 107
+Video number: 503
+Video ID: a0fc0a97772388012c3d2062b36086d2cfb2bc82.flv
+Shot Timestamps: [3, 8, 17, 24, 30, 33, 37, 41, 46, 47, 51, 53, 56, 65, 71, 74, 79, 81, 84, 85, 87, 88, 89, 90, 91, 94, 95, 96, 97, 99, 100, 101, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 179, 180, 182, 183, 184, 185, 187, 189, 191, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 209, 210, 211, 212, 213, 215, 218, 219, 221, 222, 223, 224, 225, 226, 231, 232, 233, 234, 235, 237, 238, 241, 243, 244, 249, 250, 252, 259, 261, 262, 264]
+Shot Features Length: 152
+Video number: 504
+Video ID: a15a43f0cf9ce7eab781706a82ee0027d53aae4f.flv
+Shot Timestamps: [4, 7, 12, 17, 21, 28, 31, 33, 37, 38, 40, 43, 44, 47, 49, 51, 53, 59, 61, 63, 65, 66, 67, 68, 69, 70, 74, 75, 76, 77, 79, 80, 81, 82, 83, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 155, 156, 159, 160, 161, 162, 163, 164, 165, 167, 169, 171, 172, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 185, 186, 187, 188, 189, 190, 191, 192, 193, 195, 198, 199, 201, 202, 203, 204, 205, 206, 211, 212, 213, 214, 215, 217, 218, 221, 223, 224, 229, 230, 231, 233, 239, 240, 241, 242, 246]
+Shot Features Length: 158
+Video number: 505
+Video ID: a86c9e954e46fae7936a0e70a2ecc1914a2f43e1.flv
+Shot Timestamps: [2, 6, 15, 22, 29, 31, 35, 40, 45, 46, 50, 51, 54, 64, 69, 72, 78, 80, 82, 84, 85, 86, 87, 88, 89, 92, 93, 94, 95, 98, 99, 100, 101, 102, 104, 105, 106, 107, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 157, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 178, 179, 180, 181, 182, 183, 185, 188, 189, 191, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 213, 216, 217, 218, 219, 221, 222, 223, 224, 229, 230, 231, 232, 233, 235, 236, 239, 241, 243, 244, 247, 248, 250, 251, 258, 259, 261, 263]
+Shot Features Length: 156
+Video number: 506
+Video ID: a89a3193db3354c059dfe4effac05c4667f9c239.flv
+Shot Timestamps: [12, 15, 30, 34, 37, 41, 50, 52, 54, 56, 58, 60, 70, 74, 78, 82, 85, 88, 90, 91, 92, 94, 95, 96, 98, 99, 100, 101, 102, 104, 105, 107, 108, 110, 111, 112, 113, 115, 116, 117, 118, 120, 121, 122, 123, 124, 126, 127, 128, 129, 131, 134, 135, 136, 138, 139, 140, 141, 142, 144, 145, 146, 148, 150, 152, 153, 154, 156, 157, 158, 160, 161, 162, 163, 166, 167, 169, 170, 172, 173, 174, 176, 178, 180, 181, 183, 184, 185, 186, 188, 189, 190, 193, 196, 198, 200, 202, 204, 205, 206, 207, 209, 210, 222, 224, 227, 228, 232, 235, 237]
+Shot Features Length: 110
+Video number: 507
+Video ID: a8ede4918fb583e92125f6ead7e7cdf6f331084d.flv
+Shot Timestamps: [14, 17, 20, 24, 30, 34, 41, 48, 51, 55, 59, 64, 65, 67, 70, 71, 72, 74, 84, 90, 93, 99, 101, 103, 105, 106, 107, 108, 109, 110, 114, 115, 116, 117, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 161, 162, 165, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 184, 185, 186, 187, 189, 190, 191, 192, 193, 194, 195, 197, 198, 199, 200]
+Shot Features Length: 104
+Video number: 508
+Video ID: b053607f9eae018c3916d3fdb0ccb1dc49777456.flv
+Shot Timestamps: [4, 6, 9, 10, 12, 13, 14, 16, 17, 19, 20, 22, 23, 24, 25, 26, 28, 29, 30, 32, 33, 34, 36, 37, 38, 40, 41, 42, 44, 45, 46, 47, 48, 50, 51, 52, 54, 55, 56, 58, 59, 60, 61, 62, 64, 65, 66, 67, 69, 70, 71, 73, 74, 76]
+Shot Features Length: 54
+Video number: 509
+Video ID: c1025681a6dfd43843735c07e9ec8ac2f08d80fc.flv
+Shot Timestamps: [8, 10, 11, 13, 14, 18, 25, 31, 34, 38, 40, 41, 43, 44, 46, 48, 50, 51, 54, 55, 56, 60]
+Shot Features Length: 22
+Video number: 510
+Video ID: ccc879ecfb35a1a77667dd8357b71a930c19092c.flv
+Shot Timestamps: [2, 7, 8, 12, 14, 16, 18, 19, 20, 21, 22, 24, 25, 26, 27, 29, 30, 31, 32, 34, 35, 36, 38, 40, 41, 42, 44, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 61, 63, 64, 65, 66, 68, 69, 70, 71, 72, 74, 75, 76, 77, 79, 80, 82, 83, 84, 86, 87, 88, 89, 90, 92, 93, 96, 97, 98, 100, 101, 102, 104, 105, 106, 108, 109, 110, 112, 113, 114, 115, 116, 118, 119, 120, 122, 126, 128, 130, 132, 133, 138, 140, 141, 142, 143, 146, 148, 149, 154, 155, 156, 159, 160, 162, 164, 168]
+Shot Features Length: 106
+Video number: 511
+Video ID: ee417a6b882853ffcd3f78b380b0205a9411f4d6.flv
+Shot Timestamps: [3, 8, 16, 24, 30, 33, 37, 41, 46, 51, 52, 55, 65, 71, 73, 79, 81, 83, 85, 86, 87, 88, 89, 90, 94, 95, 96, 97, 99, 100, 101, 102, 103, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 139, 140, 142, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 179, 180, 182, 183, 184, 185, 187, 189, 191, 192, 194, 195, 196, 197, 198, 199, 200, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 215, 218, 219, 221, 222, 223, 224, 225, 226, 231, 232, 233, 234, 235, 237, 238, 241, 243, 244, 249, 250, 252, 253, 259, 261, 262, 266, 271, 273]
+Shot Features Length: 153
+Video number: 512
+Video ID: ffe9ad0e2519d04939e04ea128ee565fc3395e5b.flv
+Shot Timestamps: [1, 2, 4, 5, 9, 10, 11, 14, 15, 16, 18, 19, 21, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 38, 39, 40, 42, 43, 44, 45, 46, 48, 49, 50, 52, 53, 54, 57, 59, 60, 62, 63, 64, 65, 66, 68, 69, 70, 72, 73, 76, 77, 78, 80, 81, 82, 83, 84, 86, 87, 88, 90, 92, 94, 95, 96, 98, 99, 102, 104, 106, 108, 109, 110, 111, 112, 114, 115, 117, 118, 119, 120, 122, 123, 124, 125, 126, 128, 130, 133, 136, 137, 138, 139, 140, 146, 147, 148, 150, 152, 154, 156, 158, 159, 164, 165, 167, 174, 176, 177, 181, 186, 187]
+Shot Features Length: 116
+Video number: 513
+Video ID: 0ab11b52561e9255423b01f29f7904a6dcadd87b.flv
+Shot Timestamps: [13, 14, 19, 25, 26, 28, 41, 42, 44, 46, 53]
+Shot Features Length: 11
+Video number: 514
+Video ID: 0c06d64856ceae3c5146fd0cae9ac6fc5107083e.flv
+Shot Timestamps: [10, 17]
+Shot Features Length: 2
+Video number: 515
+Video ID: 0dbcff0b6d671e1579ad468eed54d84f7e9b7289.mp4
+Shot Timestamps: [4, 12, 16, 17, 19, 23, 28, 31, 35, 38, 39, 43, 47, 48, 49, 50, 53, 58, 59, 60, 73, 74, 75, 76, 78, 84]
+Shot Features Length: 26
+Video number: 516
+Video ID: 0ed02c5bbb500542f88f0d7285e56e1186ac9bf5.flv
+Shot Timestamps: [5, 9, 13, 21]
+Shot Features Length: 4
+Video number: 517
+Video ID: 13f06a567cbee6f40952cc13817a7774caa72903.flv
+Shot Timestamps: [4, 12, 14, 21, 26, 29, 41, 43, 48, 49, 52, 57, 61]
+Shot Features Length: 13
+Video number: 518
+Video ID: 1e04e15f77363ebb7cdfb8811cd3d5d6d8b18305.flv
+Shot Timestamps: [7, 8, 9, 10, 15, 19, 23, 26, 30, 39, 47, 52, 54, 55, 60, 65, 71]
+Shot Features Length: 17
+Video number: 519
+Video ID: 2d38fff9674d85ddccdd873df98475153c20aedd.flv
+Shot Timestamps: [4, 8, 16]
+Shot Features Length: 3
+Video number: 520
+Video ID: 42fe16072c4e7fbf1d1e280df7c1ad727446a615.mp4
+Shot Timestamps: [1, 3, 8]
+Shot Features Length: 3
+Video number: 521
+Video ID: 49eccab61ab137fc0ab04c8029e3caec0fa2b35f.flv
+Shot Timestamps: [7, 14, 19, 20]
+Shot Features Length: 4
+Video number: 522
+Video ID: 5a6a49b7660b858476a69819cdf15a13ecf13c36.mp4
+Shot Timestamps: [6, 9, 16, 20, 22, 24, 28, 32, 33, 36, 37, 50]
+Shot Features Length: 12
+Video number: 523
+Video ID: 8ad458ed4d45f32e8baa3bf5d84ad2a2a0324300.flv
+Shot Timestamps: [12, 33]
+Shot Features Length: 2
+Video number: 524
+Video ID: afc75e8c02a5ecba44739b0623befa16afa1d896.flv
+Shot Timestamps: [5, 9, 19, 23, 27, 33]
+Shot Features Length: 6
+Video number: 525
+Video ID: b91aa7020c5dd0a6518d11f745b275363f854bce.flv
+Shot Timestamps: [5, 13, 16, 21, 24]
+Shot Features Length: 5
+Video number: 526
+Video ID: cb593efe5b194fe67a8e5ffe33b35cca954cdcd4.flv
+Shot Timestamps: [12, 14, 15, 20, 24, 28, 30, 34, 44, 52, 57, 59, 60, 65, 70, 76, 84, 85, 86, 90, 92, 97, 102, 109, 116, 121, 122, 123, 124, 126, 130, 149, 154, 156, 158, 171, 172, 176]
+Shot Features Length: 38
+Video number: 527
+Video ID: cc3b8791039b9e7f664260d76f8ca6cc48004823.flv
+Shot Timestamps: [11, 17, 18, 19, 21, 22, 23, 25, 27, 30, 32, 33, 34, 35, 51, 53, 55, 56, 57, 66, 67, 68, 69, 72, 73, 75]
+Shot Features Length: 26
+Video number: 528
+Video ID: e2d1ca4b2657cd82092765801adda59a7f71bc56.mp4
+Shot Timestamps: [2, 3, 4, 5]
+Shot Features Length: 4
