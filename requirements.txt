@@ -1,0 +1,20 @@
+# Core
+numpy
+opencv-python
+Pillow
+tqdm
+
+# Deep learning
+torch
+torchvision
+
+# Audio (optional; used by audio_extractor.py)
+librosa
+moviepy
+torchvggish
+
+# Visualization / analysis tools (optional; used in tools/)
+matplotlib
+seaborn
+scikit-learn
+torchviz
