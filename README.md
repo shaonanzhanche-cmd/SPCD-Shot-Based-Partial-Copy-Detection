@@ -178,8 +178,3 @@ Each line typically looks like:
 ```
 <videoA>\t<startA>--<endA>\t<videoB>\t<startB>--<endB>\t<confidence>
 ```
-
-### 6. Notes
-
-- Several scripts include **hard-coded local paths**. Replace them with your own paths before running.
-- If you want, I can generate a `requirements.txt` by scanning the imports in the codebase.
