@@ -118,12 +118,6 @@ python results_analyse.py
 - `start/end`：在不同阶段可能是秒数或 `hh:mm:ss`（见 `sort_similarity_result()` 中的转换）
 - `confidence`：相似度均值（合并的镜头段落内）
 
-### 6. 常见问题（FAQ）
-
-- **脚本跑不起来，提示找不到数据/路径**：请先检查脚本底部 `if __name__ == "__main__"` 中的硬编码路径，并替换为你本地路径。
-- **没有 requirements.txt**：可以手动安装常用依赖；如果你希望我从代码中解析导入项并生成 requirements，也可以继续让我做。
-
----
 
 ## English
 
